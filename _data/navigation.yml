@@ -1,57 +1,60 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About CDC
+  - title: HOME
+    url: /permalink
+  - title: ABOUT US
     url: /permalink
     sublinks:
-      - title: Mission and Vision
+      - title: About the CDC
         url: /permalink
-      - title: History and Milestones
+      - title: Our District
         url: /permalink
-      - title: Strategic Directions
-        url: /permalink
-      - title: Common Flagship Programmes
-        url: /permalink
-      - title: Information - Five Districts
-        url: /permalink
-      - title: Getting Help
-        url: /permalink
-  - title: Office of the Mayors
-    url: /permalink
-    sublinks:
       - title: Our Mayors
         url: /permalink
-      - title: Mayors Swearing- in Ceremony
+      - title: Mayors note
         url: /permalink
-  - title: Gallery
-    url: /permalink
-  - title: CSR & VOLUNTEER
+  - title: PROGRAMMES
     url: /permalink
     sublinks:
-      - title: CSR
+      - title: Overview
         url: /permalink
-      - title: Volunteer
+      - title: Wellness & Sustainability
         url: /permalink
-      - title: Join  As Volunteer
+      - title: Financial & Social Wellness
         url: /permalink
-  - title: NewsRoom
+      - title: Socio-Emotional Wellness
+        url: /permalink
+      - title: Lifelong Learning
+        url: /permalink
+      - title: Service to Others
+        url: /permalink
+      - title: CDC Voucher's Scheme
+        url: /permalink
+  - title: PARTNER US
     url: /permalink
     sublinks:
-      - title: Media Releases
+      - title: Giraffes SG Volunteer Movement
         url: /permalink
-      - title: Speeches
+      - title: Seed A Life Donation
         url: /permalink
-      - title: ASEAN CITY Award 2017
-        url: /permalink
-      - title: CDC SG50 Book
-        url: /permalink
-      - title: CDC Annual Reports
-        url: /permalink
-  - title: Contact Us
+  - title: HAPPENINGS
     url: /permalink
     sublinks:
-      - title: Getting To A CDC
+      - title: Upcoming Events
         url: /permalink
-      - title: Online Feedback Form
+  - title: RESOURCES
+    url: /permalink
+    sublinks:
+      - title: E-Voices
         url: /permalink
-      - title: FAQ
+      - title: VOICES Mgazine
+        url: /permalink
+      - title: In Search Of Purpose Talks
+        url: /permalink
+  - title: CONTACT US
+    url: /permalink
+    sublinks:
+      - title: Contact Us
+        url: /permalink
+      - title: Feedback Form
         url: /permalink
