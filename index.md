@@ -21,9 +21,6 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - resources:
-      subtitle: Learn more
-      button: MORE
   - infopic:
       subtitle: E-VOICES
       description: Your Monthly Dose of News & Happenings!
@@ -44,4 +41,7 @@ sections:
       button: FIND OUT MORE
       url: /Permalink
       alt: Image alt text
+  - resources:
+      subtitle: Learn more
+      button: MORE
 ---
