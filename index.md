@@ -7,11 +7,10 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: CDC VOUCHER
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: For Merchant Onboarding please click here
+      url: /get-started
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -25,9 +24,8 @@ sections:
   - infobar:
       title: We speak to those who makes a difference to others lives
       subtitle: WHAT OUR VOLUNTEERS SAY
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      button: Join us as a volunteer
+      url: /join-as-volunteer
   - resources:
       title: Media
       subtitle: Learn more
