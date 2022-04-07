@@ -1,17 +1,57 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
+  - title: About CDC
+    url: /permalink
+    sublinks:
+      - title: Mission and Vision
+        url: /permalink
+      - title: History and Milestones
+        url: /permalink
+      - title: Strategic Directiobs
+        url: /permalink
+      - title: Common Flagship Programmes
+        url: /permalink
+      - title: Information - Five Districts
+        url: /permalink
+      - title: Getting Help
+        url: /permalink
+  - title: Office of the Mayors
+    url: /permalink
+    sublinks:
+      - title: Our Mayors
+        url: /permalink
+      - title: Mayors Swearing- in Ceremony
+        url: /permalink
+  - title: Gallery
+    url: /permalink
+  - title: CSR & VOLUNTEER
+    url: /permalink
+    sublinks:
+      - title: CSR
+        url: /permalink
+      - title: Volunteer
+        url: /permalink
+      - title: Join  As Volunteer
+        url: /permalink
+  - title: NewsRoom
+    url: /permalink
+    sublinks:
+      - title: Media Releases
+        url: /permalink
+      - title: Speeches
+        url: /permalink
+      - title: ASEAN CITY Award 2017
+        url: /permalink
+      - title: CDC SG50 Book
+        url: /permalink
+      - title: CDC Annual Reports
+        url: /permalink
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resource
-    resource_room: true
+    url: /permalink
+    sublinks:
+      - title: Getting To A CDC
+        url: /permalink
+      - title: Online Feedback Form
+        url: /permalink
+      - title: FAQ
+        url: /permalink
