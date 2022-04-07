@@ -22,10 +22,10 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: We speak to those who makes a difference to others lives
       subtitle: WHAT OUR VOLUNTEERS SAY
       button: Join us as a volunteer
       url: /join-as-volunteer
+      description: We speak to those who makes a difference to others lives
   - resources:
       subtitle: Learn more
       button: MORE
