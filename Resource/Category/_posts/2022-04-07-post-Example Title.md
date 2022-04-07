@@ -5,3 +5,9 @@ date: 2022-04-07
 layout: post
 description: ""
 ---
+Volunteering has opened my mind and eyes to the different vulnerable groups in the society. There is a certain joy and satisfaction derived from seeing the isolated elderly opening themselves up to us.”
+
+
+ 
+Max Tan<br>
+Volunteer with North East CDC
