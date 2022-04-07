@@ -21,12 +21,27 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      subtitle: WHAT OUR VOLUNTEERS SAY
-      button: Join us as a volunteer
-      url: /join-as-volunteer
-      description: We speak to those who makes a difference to others lives
   - resources:
       subtitle: Learn more
       button: MORE
+  - infopic:
+      subtitle: E-VOICES
+      description: Your Monthly Dose of News & Happenings!
+      button: FIND OUT MORE
+      url: /Permalink
+      alt: Image alt text
+  - infopic:
+      subtitle: VOICES
+      description: Check out our latest issue of VOICES here!
+      button: FIND OUT MORE
+      url: /Permalink
+      alt: Image alt text
+  - infopic:
+      subtitle: VOLUNTEER WITH US
+      description: Be a part of our Giraffes Singapore Volunteer Movement. Stick your
+        neck out for the common good and make a difference for communities in
+        need!
+      button: FIND OUT MORE
+      url: /Permalink
+      alt: Image alt text
 ---
