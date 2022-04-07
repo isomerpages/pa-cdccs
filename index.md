@@ -27,7 +27,6 @@ sections:
       button: Join us as a volunteer
       url: /join-as-volunteer
   - resources:
-      title: Media
       subtitle: Learn more
-      button: View More
+      button: MORE
 ---
