@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Socio Emotional Wellness /.keep
       - Financial & Social Wellness/.keep
       - Financial & Social Wellness/Kong Meng San CDC COVID 19 Relief Fund.md
       - Financial & Social Wellness/Ready For School Kit (Primary School).md
