@@ -2,8 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Socio Emotional Wellness /.keep
-      - Socio Emotional Wellness /The Purple Symphony.md
       - Overview.md
       - Wellness & Sustainability/.keep
       - Wellness & Sustainability/Silver Homes.md
@@ -17,6 +15,8 @@ collections:
       - Financial & Social Wellness/Ready For School Kit (Primary School).md
       - Financial & Social Wellness/Ready For School Kit (Secondary School).md
       - Financial & Social Wellness/CashUP Family Savers.md
+      - Socio Emotional Wellness /.keep
+      - Socio Emotional Wellness /The Purple Symphony.md
       - CDC Vouchers Scheme.md
       - Lifelong Learning/.keep
       - Lifelong Learning/Nurture.md
