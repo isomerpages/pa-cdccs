@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CDC Vouchers Scheme.md
       - Service tp Others.md
       - Lifelong Learning.md
       - Socio Emotional Wellness & Inclusiveness.md
