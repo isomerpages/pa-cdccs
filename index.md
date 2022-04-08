@@ -41,6 +41,35 @@ sections:
       button: FIND OUT MORE
       url: /Permalink
       alt: Image alt text
+  - infopic:
+      subtitle: IN SEARCH OF PURPOSE TALKS
+      description: The In Search of Purpose Talk Series by Central Singapore CDC aims
+        to inspire young adults to give back to the community and discover their
+        purpose in life.
+      button: FIND OUT MORE
+      url: /permalink
+      alt: Image alt text
+  - infopic:
+      subtitle: ABOUT US
+      description: The Central Singapore Community Development Council (CDC) serves
+        residents living in the Central Singapore District.
+      button: FIND OUT MORE
+      url: /permalink
+      alt: Image alt text
+  - infopic:
+      subtitle: CDC Vouchers scheme
+      description: This community scheme is designed to help identified households to
+        defray the cost of living and support our local businesses tide through
+        this COVID-19 period.
+      button: FIND OUT MORE
+      url: /permalink
+      alt: Image alt text
+  - infopic:
+      description: To find out which District you are residing in, please visit
+        www.pa.gov.sg to access our District Locator.
+      button: FIND OUT MORE
+      url: /Permalink
+      alt: Image alt text
   - resources:
       subtitle: Learn more
       button: MORE
