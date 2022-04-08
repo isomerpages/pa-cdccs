@@ -70,7 +70,4 @@ sections:
       button: FIND OUT MORE
       url: /Permalink
       alt: Image alt text
-  - resources:
-      subtitle: Learn more
-      button: MORE
 ---
