@@ -1,4 +1,5 @@
 collections:
   home:
     output: true
-    order: []
+    order:
+      - HOME.md
