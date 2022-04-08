@@ -2,13 +2,13 @@ collections:
   programmes:
     output: true
     order:
+      - Wellness & Sustainability/.keep
       - Wellness & Sustainability/Central Singapore Market.md
       - Wellness & Sustainability/Pass It On.md
       - Wellness & Sustainability/Upcycling @ Central Singapore.md
       - Wellness & Sustainability/Ecoknight SG.md
-      - Wellness & Sustainability/Mind Your Health.md
       - Wellness & Sustainability/Silver Homes.md
-      - Wellness & Sustainability/.keep
+      - Wellness & Sustainability/Mind Your Health.md
       - Overview.md
       - Physical Wellness & Sustainability.md
       - Financial & Social Wellness.md
