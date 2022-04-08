@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Mayors Note.md
-      - Our Mayor.md
-      - Our District.md
       - About the CDC.md
+      - Our District.md
+      - Our Mayor.md
+      - Mayors Note.md
