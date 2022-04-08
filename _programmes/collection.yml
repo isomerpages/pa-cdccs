@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Wellness & Sustainability/Mind Your Health.md
       - Wellness & Sustainability/Silver Homes.md
       - Wellness & Sustainability/.keep
       - Overview.md
