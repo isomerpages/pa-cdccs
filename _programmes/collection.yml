@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Financial & Social Wellness/Kong Meng San CDC COVID 19 Relief Fund.md
       - Financial & Social Wellness/.keep
       - Wellness & Sustainability/.keep
       - Wellness & Sustainability/Silver Homes.md
