@@ -2,25 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - Service To Others/.keep
-      - Service To Others/Temasek Trust CDC Lifelong Learning Enabling Fund.md
-      - Service To Others/Bless Our City.md
-      - Service To Others/In Search Of Purpose Talks.md
-      - Lifelong Learning/.keep
-      - Lifelong Learning/Nurture.md
-      - Lifelong Learning/I Am Talented.md
-      - Socio Emotional Wellness/.keep
-      - Socio Emotional Wellness/The Purple Symphony.md
-      - Socio Emotional Wellness/The Purple Parade.md
-      - Socio Emotional Wellness/WeCare Arts Fund.md
-      - Socio Emotional Wellness/Purple Outings.md
-      - Socio Emotional Wellness /The Purple Symphony.md
       - Socio Emotional Wellness /.keep
-      - Financial & Social Wellness/.keep
-      - Financial & Social Wellness/Kong Meng San CDC COVID 19 Relief Fund.md
-      - Financial & Social Wellness/Ready For School Kit (Primary School).md
-      - Financial & Social Wellness/Ready For School Kit (Secondary School).md
-      - Financial & Social Wellness/CashUP Family Savers.md
+      - Socio Emotional Wellness /The Purple Symphony.md
+      - Overview.md
       - Wellness & Sustainability/.keep
       - Wellness & Sustainability/Silver Homes.md
       - Wellness & Sustainability/Mind Your Health.md
@@ -28,5 +12,21 @@ collections:
       - Wellness & Sustainability/Upcycling @ Central Singapore.md
       - Wellness & Sustainability/Pass It On.md
       - Wellness & Sustainability/Central Singapore Market.md
-      - Overview.md
+      - Financial & Social Wellness/.keep
+      - Financial & Social Wellness/Kong Meng San CDC COVID 19 Relief Fund.md
+      - Financial & Social Wellness/Ready For School Kit (Primary School).md
+      - Financial & Social Wellness/Ready For School Kit (Secondary School).md
+      - Financial & Social Wellness/CashUP Family Savers.md
       - CDC Vouchers Scheme.md
+      - Socio Emotional Wellness/.keep
+      - Socio Emotional Wellness/The Purple Symphony.md
+      - Socio Emotional Wellness/The Purple Parade.md
+      - Socio Emotional Wellness/WeCare Arts Fund.md
+      - Socio Emotional Wellness/Purple Outings.md
+      - Lifelong Learning/.keep
+      - Lifelong Learning/Nurture.md
+      - Lifelong Learning/I Am Talented.md
+      - Service To Others/.keep
+      - Service To Others/Temasek Trust CDC Lifelong Learning Enabling Fund.md
+      - Service To Others/Bless Our City.md
+      - Service To Others/In Search Of Purpose Talks.md
