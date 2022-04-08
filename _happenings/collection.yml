@@ -2,8 +2,8 @@ collections:
   happenings:
     output: true
     order:
-      - Upcoming Events/Purple Parade.md
-      - Upcoming Events/SkillsFuture.md
-      - Upcoming Events/Central Singapore Market.md
       - Upcoming Events/.keep
+      - Upcoming Events/Central Singapore Market.md
+      - Upcoming Events/SkillsFuture.md
+      - Upcoming Events/Purple Parade.md
       - Upcoming Events.md
