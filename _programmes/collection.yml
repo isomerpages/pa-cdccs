@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Wellness & Sustainability/.keep
       - Overview.md
       - Physical Wellness & Sustainability.md
       - Financial & Social Wellness.md
