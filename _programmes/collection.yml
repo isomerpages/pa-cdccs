@@ -2,9 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - Lifelong Learning/I Am Talented.md
-      - Lifelong Learning/Nurture.md
       - Lifelong Learning/.keep
+      - Lifelong Learning/Nurture.md
+      - Lifelong Learning/I Am Talented.md
       - Socio Emotional Wellness/.keep
       - Socio Emotional Wellness/The Purple Symphony.md
       - Socio Emotional Wellness/The Purple Parade.md
