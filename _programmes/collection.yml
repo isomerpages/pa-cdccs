@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Wellness & Sustainability/Central Singapore Market.md
       - Wellness & Sustainability/Pass It On.md
       - Wellness & Sustainability/Upcycling @ Central Singapore.md
       - Wellness & Sustainability/Ecoknight SG.md
