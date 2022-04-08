@@ -2,6 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - In Search Of Purpose Talks.md
-      - VOICES Magazine.md
       - E Voices.md
+      - VOICES Magazine.md
+      - In Search Of Purpose Talks.md
