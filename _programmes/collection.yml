@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Service To Others.md
       - Lifelong Learning/.keep
       - Lifelong Learning/Nurture.md
       - Lifelong Learning/I Am Talented.md
