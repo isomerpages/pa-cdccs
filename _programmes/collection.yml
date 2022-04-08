@@ -2,11 +2,11 @@ collections:
   programmes:
     output: true
     order:
-      - Financial & Social Wellness/CashUP Family Savers.md
-      - Financial & Social Wellness/Ready For School Kit (Secondary School).md
-      - Financial & Social Wellness/Ready For School Kit (Primary School).md
-      - Financial & Social Wellness/Kong Meng San CDC COVID 19 Relief Fund.md
       - Financial & Social Wellness/.keep
+      - Financial & Social Wellness/Kong Meng San CDC COVID 19 Relief Fund.md
+      - Financial & Social Wellness/Ready For School Kit (Primary School).md
+      - Financial & Social Wellness/Ready For School Kit (Secondary School).md
+      - Financial & Social Wellness/CashUP Family Savers.md
       - Wellness & Sustainability/.keep
       - Wellness & Sustainability/Silver Homes.md
       - Wellness & Sustainability/Mind Your Health.md
