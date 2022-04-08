@@ -2,5 +2,5 @@ collections:
   contact-us:
     output: true
     order:
-      - Feedback Form.md
       - Contact Us.md
+      - Feedback Form.md
