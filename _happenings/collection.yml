@@ -2,5 +2,6 @@ collections:
   happenings:
     output: true
     order:
+      - Upcoming Events/Central Singapore Market.md
       - Upcoming Events/.keep
       - Upcoming Events.md
