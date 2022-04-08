@@ -1,4 +1,5 @@
 collections:
   partner-us:
     output: true
-    order: []
+    order:
+      - Giraffes Singapore Volunteer Movement.md
