@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Service To Others/In Search Of Purpose Talks.md
       - Service To Others/Bless Our City.md
       - Service To Others/Temasek Trust CDC Lifelong Learning Enabling Fund.md
       - Service To Others/.keep
