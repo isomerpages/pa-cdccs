@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Lifelong Learning/Nurture.md
       - Lifelong Learning/.keep
       - Socio Emotional Wellness/.keep
       - Socio Emotional Wellness/The Purple Symphony.md
