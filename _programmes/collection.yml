@@ -2,11 +2,11 @@ collections:
   programmes:
     output: true
     order:
-      - Socio Emotional Wellness/.keep
-      - Socio Emotional Wellness/The Purple Symphony.md
-      - Socio Emotional Wellness/The Purple Parade.md
-      - Socio Emotional Wellness/WeCare Arts Fund.md
-      - Socio Emotional Wellness/Purple Outings.md
+      - Wellness/.keep
+      - Wellness/The Purple Symphony.md
+      - Wellness/The Purple Parade.md
+      - Wellness/WeCare Arts Fund.md
+      - Wellness/Purple Outings.md
       - Socio Emotional Wellness /Example Title.md
       - Socio Emotional Wellness /.keep
       - Socio Emotional Wellness /The Purple Symphony.md
