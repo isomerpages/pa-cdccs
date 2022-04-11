@@ -2,11 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Wellness/.keep
-      - Wellness/The Purple Symphony.md
-      - Wellness/The Purple Parade.md
-      - Wellness/WeCare Arts Fund.md
-      - Wellness/Purple Outings.md
       - Overview.md
       - Wellness & Sustainability/.keep
       - Wellness & Sustainability/Silver Homes.md
@@ -20,6 +15,11 @@ collections:
       - Financial & Social Wellness/Ready For School Kit (Primary School).md
       - Financial & Social Wellness/Ready For School Kit (Secondary School).md
       - Financial & Social Wellness/CashUP Family Savers.md
+      - Wellness/.keep
+      - Wellness/The Purple Symphony.md
+      - Wellness/The Purple Parade.md
+      - Wellness/WeCare Arts Fund.md
+      - Wellness/Purple Outings.md
       - Lifelong Learning/.keep
       - Lifelong Learning/Nurture.md
       - Lifelong Learning/I Am Talented.md
