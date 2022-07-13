@@ -18,4 +18,4 @@ Contact us:
 Mr Pang Wen Hao  
 Assistant Manager,  
 Partnerships & Programmes  
-[pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
+[pa_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
