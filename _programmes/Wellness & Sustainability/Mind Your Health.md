@@ -21,3 +21,6 @@ third_nav_title: Wellness & Sustainability
 2 [FAQs](/files/Programmes/myh_1_highly-effective-stress-management_faqs.pdf)
 
 ![Episode 2: MIND your health](/images/Programmes/mind-your-health_a4-poster-02.png)
+
+**Episode 2: Overcoming Depression and Anxiety**
+
