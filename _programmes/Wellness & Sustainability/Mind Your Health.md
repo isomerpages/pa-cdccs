@@ -19,3 +19,5 @@ third_nav_title: Wellness & Sustainability
 1 [Resource Material](/files/Programmes/myh_1_highly-effective-stress-management_resource-materials-for-participants.pdf)
 
 2 [FAQs](/files/Programmes/myh_1_highly-effective-stress-management_faqs.pdf)
+
+![Episode 2: MIND your health](/images/Programmes/mind-your-health_a4-poster-02.png)
