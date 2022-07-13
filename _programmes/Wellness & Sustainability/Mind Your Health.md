@@ -24,3 +24,9 @@ third_nav_title: Wellness & Sustainability
 
 **Episode 2: Overcoming Depression and Anxiety**
 
+1 [Resource Materials](/files/Programmes/myh_2_overcoming-depression-and-anxiety_resource-materials-for-participants.pdf)
+
+2 [FAQs](/files/Programmes/myh_2_overcoming-depression-and-anxiety_faqs.pdf)
+
+3 [Mind Matters Resource Directory Listings](/files/Programmes/myh_2_overcoming-depression-and-anxiety_mind-matters-resource-directory-listings.pdf)
+
