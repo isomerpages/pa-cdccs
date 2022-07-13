@@ -54,7 +54,13 @@ third_nav_title: Wellness & Sustainability
 
 2 [FAQs](/files/Programmes/faqs_'mind-your-health'-webinar_ep5.pdf)
 
+![Episode 6: MIND your health](/images/Programmes/mind-your-health_a4-poster-sep_12-copy.jpg)
+
 **Episode 6: Elderly Mental Health**
+
+1 [Resource Materials](/files/Programmes/elderly-mental-health-(resource-materials-for-participants).pdf)
+
+2 [FAQs](/files/Programmes/faqs_'mind-your-health'-webinar-6.pdf)
 
 **Contact us:**  
 Ms Jadee Choa  
