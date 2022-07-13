@@ -37,3 +37,15 @@ third_nav_title: Wellness & Sustainability
 1 [Resource Materials](/files/Programmes/myh_3_suicide-and-self-harm_resource-materials-for-participants.pdf)
 
 2 [FAQs](/files/Programmes/myh_3_suicide-and-self-harm_faqs.pdf)
+
+**Episode 4: Addiction**
+
+**Episode 5: Schizophrenia, Bipolar Disorder, Other Related Mental Health Conditions**
+
+**Episode 6: Elderly Mental Health**
+
+**Contact us:**  
+Ms Jadee Choa  
+Manager,   
+Partnerships & Programmes  
+[pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
