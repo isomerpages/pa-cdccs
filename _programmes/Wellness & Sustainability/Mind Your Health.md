@@ -32,7 +32,8 @@ third_nav_title: Wellness & Sustainability
 
 ![Episode 3: MIND your health](/images/Programmes/mind-your-health_a4-poster---7-03.png)
 
+**Episode 3: Suicide and Self-Harm**
+
 1 [Resource Materials](/files/Programmes/myh_3_suicide-and-self-harm_resource-materials-for-participants.pdf)
 
 2 [FAQs](/files/Programmes/myh_3_suicide-and-self-harm_faqs.pdf)
-
