@@ -46,7 +46,13 @@ third_nav_title: Wellness & Sustainability
 
 2 [FAQs](/files/Programmes/myh_4_addiction_faqs.pdf)
 
+![Episode 5: MIND your health](/images/Programmes/mind-your-health_a4-poster-july_10-copy.jpg)
+
 **Episode 5: Schizophrenia, Bipolar Disorder, Other Related Mental Health Conditions**
+
+1 [Resource Materials](/files/Programmes/schizophrenia-bipolar-disorder-other-related-mental-health-conditions.pdf)
+
+2 [FAQs](/files/Programmes/faqs_'mind-your-health'-webinar_ep5.pdf)
 
 **Episode 6: Elderly Mental Health**
 
