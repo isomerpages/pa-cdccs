@@ -38,7 +38,13 @@ third_nav_title: Wellness & Sustainability
 
 2 [FAQs](/files/Programmes/myh_3_suicide-and-self-harm_faqs.pdf)
 
+![Episode 4: Addition](/images/Programmes/mind-your-health_a4-poster---4-01-(002).png)
+
 **Episode 4: Addiction**
+
+1 [Resource Materials](/files/Programmes/myh_4_addiction_resource-materials-for-participants.pdf)
+
+2 [FAQs](/files/Programmes/myh_4_addiction_faqs.pdf)
 
 **Episode 5: Schizophrenia, Bipolar Disorder, Other Related Mental Health Conditions**
 
