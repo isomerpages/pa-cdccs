@@ -3,6 +3,7 @@ title: Seed A Life Donation
 permalink: /partner-us/seed-a-life-donation
 description: ""
 ---
+![Seed A Life Donation](/images/Partner%20Us/screenshot-2019-07-31-at-4-21-36-pm.png)
 
 Do good by donating to Central Singapore CDC's Donation Programme.  
 Monthly, yearly or one-off donations are welcome, and tax exemptions are provided.  
