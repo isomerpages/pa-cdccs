@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Central Singapore CDC
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -59,3 +59,4 @@ sections:
       url: /Permalink
       alt: Image alt text
 ---
+
