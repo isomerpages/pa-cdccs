@@ -1,6 +1,6 @@
 title: Central Singapore CDC
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/FavIcon.ico
 colors:
   primary-color: "#000000"
   secondary-color: "#e9004c"
@@ -52,3 +52,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://pa-cdccs-staging.netlify.app
 prod: https://pa-cdccs-prod.netlify.app
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
