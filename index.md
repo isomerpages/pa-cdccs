@@ -22,6 +22,7 @@ sections:
       button: FIND OUT MORE
       url: /Permalink
       alt: Image alt text
+      image: /images/Resources/voices-dec21-cover.jpg
   - infopic:
       subtitle: VOLUNTEER WITH US
       description: Be a part of our Giraffes Singapore Volunteer Movement. Stick your
