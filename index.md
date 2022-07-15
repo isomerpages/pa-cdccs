@@ -15,14 +15,14 @@ sections:
       button: FIND OUT MORE
       url: /Permalink
       alt: Image alt text
-      image: /images/Resources/ev-sign-up-banner.jpg
+      image: /images/Home/ev-sign-up-banner (1).jpg
   - infopic:
       subtitle: VOICES
       description: Check out our latest issue of VOICES here!
       button: FIND OUT MORE
       url: /Permalink
       alt: Image alt text
-      image: /images/Resources/voices-dec21-cover.jpg
+      image: /images/Home/voices-dec21-coverdfa9f5e0b83c4f089677bbea82e48b36.jpg
   - infopic:
       subtitle: VOLUNTEER WITH US
       description: Be a part of our Giraffes Singapore Volunteer Movement. Stick your
@@ -31,6 +31,7 @@ sections:
       button: FIND OUT MORE
       url: /Permalink
       alt: Image alt text
+      image: /images/Home/website-landing-cards_volunteer.jpeg
   - infopic:
       subtitle: IN SEARCH OF PURPOSE TALKS
       description: The In Search of Purpose Talk Series by Central Singapore CDC aims
@@ -39,6 +40,7 @@ sections:
       button: FIND OUT MORE
       url: /permalink
       alt: Image alt text
+      image: /images/Home/website-landing-cards_isop.jpeg
   - infopic:
       subtitle: ABOUT US
       description: The Central Singapore Community Development Council (CDC) serves
@@ -46,6 +48,7 @@ sections:
       button: FIND OUT MORE
       url: /permalink
       alt: Image alt text
+      image: /images/Home/website-landing-cards_about.jpeg
   - infopic:
       subtitle: CDC Vouchers scheme
       description: This community scheme is designed to help identified households to
@@ -54,10 +57,12 @@ sections:
       button: FIND OUT MORE
       url: /permalink
       alt: Image alt text
+      image: /images/Home/website-landing-cards_vouchers.jpeg
   - infopic:
       description: To find out which District you are residing in, please visit
         www.pa.gov.sg to access our District Locator.
       button: FIND OUT MORE
       url: /Permalink
       alt: Image alt text
+      image: /images/Home/website-landing-cards_district.jpeg
 ---
