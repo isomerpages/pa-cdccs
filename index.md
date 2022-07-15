@@ -15,6 +15,7 @@ sections:
       button: FIND OUT MORE
       url: /Permalink
       alt: Image alt text
+      image: /images/Resources/ev-sign-up-banner.jpg
   - infopic:
       subtitle: VOICES
       description: Check out our latest issue of VOICES here!
