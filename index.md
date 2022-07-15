@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/278947400_10159107874658192_3988189581687924530_n.jpg
       url: /get-started
   - infopic:
       subtitle: E-VOICES
@@ -59,4 +59,3 @@ sections:
       url: /Permalink
       alt: Image alt text
 ---
-
