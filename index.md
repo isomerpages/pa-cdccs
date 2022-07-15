@@ -15,14 +15,14 @@ sections:
       button: FIND OUT MORE
       url: /Permalink
       alt: Image alt text
-      image: /images/Home/ev-sign-up-banner (1).jpg
+      image: /images/Home/ev_signup_info_pic.jpg
   - infopic:
       subtitle: VOICES
       description: Check out our latest issue of VOICES here!
       button: FIND OUT MORE
       url: /Permalink
       alt: Image alt text
-      image: /images/Home/voices-dec21-coverdfa9f5e0b83c4f089677bbea82e48b36.jpg
+      image: /images/Home/voices_info_pic.jpg
   - infopic:
       subtitle: VOLUNTEER WITH US
       description: Be a part of our Giraffes Singapore Volunteer Movement. Stick your
