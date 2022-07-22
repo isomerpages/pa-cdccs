@@ -26,3 +26,5 @@ Assistant Manager, 
 Partnerships & Programmes
 
 [pa_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
+
+[The Purple Symphony Concert Booklet 2019](https://go.gov.sg/tps)
