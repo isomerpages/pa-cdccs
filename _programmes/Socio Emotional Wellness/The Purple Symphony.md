@@ -29,8 +29,6 @@ Partnerships & Programmes
 
 [The Purple Symphony Concert Booklet 2019](https://go.gov.sg/tps)
 
-<div style="text-align:left;">
 <a href="https://go.gov.sg/tps">
-	<img src="/images/Programmes/PurpleSymphony.jpg" alt="The Purple Symphony Concert Booklet 2019" style="width:45%; align:left;">
+	<img src="/images/Programmes/PurpleSymphony.jpg" alt="The Purple Symphony Concert Booklet 2019" style="width:45%;float:left;">
 </a>
-	</div>
