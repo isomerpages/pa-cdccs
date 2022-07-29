@@ -37,23 +37,23 @@ Your hyperlinking to, or framing of this Web Site or any of its Contents constit
 In no circumstances shall PA be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents.
 PA reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
 PA reserves the right to disable any unauthorized links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.
-On provision of information or data 
+##### On provision of information or data 
 
 Where you undertake any interactive communication with or provide any information or data to PA through the use of any service available within this Web Site, you are required to ensure that it is not misleading or inaccurate, does not violate any applicable laws or rights, and does not contain or will not import any viruses or other disabling devices which may interfere, damage, intercept, access or expropriate any system, data or information of PA or other third parties.
-On use of Web Site 
+##### On use of Web Site 
 
 You agree that you will not:
 (a) use any robot, spider, other automatic device, or manual process to monitor or copy any pages or materials within this Web Site or the Contents without PA’s prior written permission; 
 (b) use any device, software or routine to interfere or attempt to interfere with the proper working of this Web Site; and/or 
 (c) take any action that imposes an unreasonable or disproportionately large load on PA’s servers. 
-On exclusion of liability 
+##### On exclusion of liability 
 
 To the fullest extent permitted by law, PA shall in no event be liable for any damages, loss or expense, direct or indirect, including but without limitation, special or consequential damage, or economic loss arising from or in connection with:
 (a) any access, use or inability to access or use this Web Site, or reliance on the materials in this Web Site; and/or  (similar to “Disclaimer of Warranties and Liability)
 (b) any failure of performance, system, server or connection failure, interruption, defect, error, omission, delay in operation or transmission, breach of security, malicious code, computer virus or inability or unavailability to use or access in connection with your accessing this Web Site, tools, and/or online services;
 Even if PA or its employees are advised of the possibility of such damages, losses and/or expenses.
-Electronic Communication and Feedback
-When you visit PA website or send feedback to PA including questions, comments, suggestions or the like regarding or in response to the content of this or any other PA Website, you are communicating with us electronically. You consent to receive communications from us electronically. We will communicate with you by e-mail. You agree that all agreements, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
+##### Electronic Communication and Feedback
+ When you visit PA website or send feedback to PA including questions, comments, suggestions or the like regarding or in response to the content of this or any other PA Website, you are communicating with us electronically. You consent to receive communications from us electronically. We will communicate with you by e-mail. You agree that all agreements, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
 PA shall be free to use, for any purpose, any ideas, concepts, techniques or know-how contained in such feedback. PA shall not be subject to any obligation with respect to such feedback and shall be free to reproduce, use, disclose and distribute to others without limitation.
 Governing Law
 
