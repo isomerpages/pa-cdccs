@@ -1,0 +1,27 @@
+---
+title: SkillsFuture
+permalink: /happenings/Upcoming-Events/SkillsFuture
+description: ""
+third_nav_title: Upcoming Events
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TgVlP_QS5bI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**SkillsFuture Advice workshop** is a 90 minutes workshop that empowers you to take charge of your skills upgrading and career development. We have specially curated content, resources and tools that help you to navigate the skill-based economy. 
+
+WHAT CAN YOU EXPECT?
+--------------------
+
+• Learn what to look out for as you embark in your own journey of skills and career development.  
+• Be exposed to first-hand knowledge of the latest global and local trending skills in the workforce.  
+• Be empowered with the resources and tools to navigate our skills-based industry.  
+• Meet like-minded keen learners in their pursuits to be ‘Future Ready’!  
+• Opportunity to attend one course for free (while vacancies last).  
+ 
+
+<table border="1" cellspacing="0" cellpadding="0" style="width: 717.5px; border-collapse: collapse; table-layout: auto; vertical-align: top; margin-bottom: 15px; border: 1px solid rgb(204, 204, 204); color: rgb(102, 102, 102); font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody><tr style="background-color: rgb(250, 250, 250);"><td valign="top" style="vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 147px;"><p style="text-align: center;">&nbsp;</p></td><td valign="top" style="vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 142px;"><p style="text-align: center;"><strong style="font-weight: 700;">English Webinar</strong></p></td><td valign="top" style="vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 153px;"><p style="text-align: center;"><strong style="font-weight: 700;"><strong style="font-weight: 700;">中文线上讲座</strong></strong></p></td></tr><tr style="background-color: rgb(247, 247, 247);"><td valign="top" style="vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 147px; text-align: center;"><strong style="font-weight: 700;">QR Code</strong></td><td valign="top" style="vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 142px; text-align: center;"><strong style="font-weight: 700;"><img src="/images/Happenings/sfaqrcode-eng.png" data-displaymode="Original" alt="sfaqrcode-eng" title="sfaqrcode-eng" style="width: auto; max-width: 100%; height: auto; margin: 0px; padding: 0px; border: medium none; line-height: normal; vertical-align: middle;"><br></strong></td><td valign="top" style="vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 153px; text-align: center;"><strong style="font-weight: 700;"><img src="/images/Happenings/sfaqrcode-chi.png" data-displaymode="Original" alt="sfaqrcode-chi" title="sfaqrcode-chi" style="width: auto; max-width: 100%; height: auto; margin: 0px; padding: 0px; border: medium none; line-height: normal; vertical-align: middle;"><span style="color: rgb(255, 0, 0);"><br></span></strong></td></tr><tr style="background-color: rgb(250, 250, 250);"><td valign="top" style="vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 147px; text-align: center;"><strong style="font-weight: 700;">Registration Link</strong></td><td valign="top" style="vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 142px; text-align: center;"><a href="https://go.gov.sg/cscdceng" style="color: rgb(255, 255, 255); outline: none; text-decoration: none;"><span style="color: rgb(192, 0, 0);">https://go.gov.sg/cscdceng</span></a></td><td valign="top" style="vertical-align: top; border-collapse: collapse; border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(204, 204, 204); padding: 5px; width: 153px; text-align: center;"><a href="https://go.gov.sg/cssfa-chi" style="color: rgb(255, 255, 255); outline: none; text-decoration: none;"><span style="color: rgb(192, 0, 0);">https://go.gov.sg/cssfa-chi</span></a></td></tr></tbody></table>
+
+ 
+
+*   All registrations are based on first-come-first-served basis. 
+*   Limited slots are available per session. Repeated participants will be turned away. 
+*   Organiser reserves the rights to postpone and cancel the programme due to unforeseen circumstances.
