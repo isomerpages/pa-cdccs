@@ -55,6 +55,5 @@ Even if PA or its employees are advised of the possibility of such damages, loss
 ##### Electronic Communication and Feedback
  When you visit PA website or send feedback to PA including questions, comments, suggestions or the like regarding or in response to the content of this or any other PA Website, you are communicating with us electronically. You consent to receive communications from us electronically. We will communicate with you by e-mail. You agree that all agreements, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
 PA shall be free to use, for any purpose, any ideas, concepts, techniques or know-how contained in such feedback. PA shall not be subject to any obligation with respect to such feedback and shall be free to reproduce, use, disclose and distribute to others without limitation.
-Governing Law
-
+##### Governing Law
 These Terms and Conditions of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
