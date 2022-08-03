@@ -20,7 +20,7 @@ sections:
       subtitle: VOICES
       description: Check out our latest issue of VOICES here!
       button: FIND OUT MORE
-      url: /Permalink
+      url: https://centralsingapore.cdc.gov.sg/resources/voices-magazine
       alt: Image alt text
       image: /images/Home/voices_info_pic.jpg
   - infopic:
@@ -38,7 +38,7 @@ sections:
         to inspire young adults to give back to the community and discover their
         purpose in life.
       button: FIND OUT MORE
-      url: /permalink
+      url: https://centralsingapore.cdc.gov.sg/programmes/service-to-others/in-search-of-purpose-talks
       alt: Image alt text
       image: /images/Home/website-landing-cards_isop.jpeg
   - infopic:
@@ -46,7 +46,7 @@ sections:
       description: The Central Singapore Community Development Council (CDC) serves
         residents living in the Central Singapore District.
       button: FIND OUT MORE
-      url: /permalink
+      url: https://centralsingapore.cdc.gov.sg/about-us/about-the-cdc
       alt: Image alt text
       image: /images/Home/website-landing-cards_about.jpeg
   - infopic:
@@ -55,14 +55,14 @@ sections:
         defray the cost of living and support our local businesses tide through
         this COVID-19 period.
       button: FIND OUT MORE
-      url: /permalink
+      url: https://centralsingapore.cdc.gov.sg/programmes/cdc-vouchers-scheme
       alt: Image alt text
       image: /images/Home/website-landing-cards_vouchers.jpeg
   - infopic:
       description: To find out which District you are residing in, please visit
         www.pa.gov.sg to access our District Locator.
       button: FIND OUT MORE
-      url: /Permalink
+      url: https://www.pa.gov.sg/district-information?postal-code
       alt: Image alt text
       image: /images/Home/website-landing-cards_district.jpeg
 ---
