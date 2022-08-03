@@ -13,7 +13,7 @@ sections:
       subtitle: E-VOICES
       description: Your Monthly Dose of News & Happenings!
       button: FIND OUT MORE
-      url: /Permalink
+      url:https://centralsingapore.cdc.gov.sg/resources/e-voices
       alt: Image alt text
       image: /images/Home/ev_signup_info_pic.jpg
   - infopic:
