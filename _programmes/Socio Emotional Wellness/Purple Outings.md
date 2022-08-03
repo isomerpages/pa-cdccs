@@ -2,7 +2,7 @@
 title: Purple Outings
 permalink: /programmes/Socio-Emotional-Wellness/purple-outings
 description: ""
-third_nav_title: "Socio Emotional Wellness "
+third_nav_title: Socio Emotional Wellness
 ---
 ![Purple Outing](/images/Programmes/purple-outings-2.jpg)
 Purple Outings is an initiative that aims to give individuals with special needs an opportunity to leave the comfort of their own homes and interact with others in society. Working with volunteer groups from various organisations and schools, Purple Outings allows these special needs individuals to explore Singapore outside their homes and make meaningful friendships with others.
