@@ -2,7 +2,7 @@
 title: The Purple Parade
 permalink: /programmes/Socio-Emotional-Wellness/purple-parade
 description: ""
-third_nav_title: "Socio Emotional Wellness "
+third_nav_title: Socio Emotional Wellness
 ---
 ![Purple Parade](/images/Programmes/purple-parade-main-image43b225c81b0c43559ef1dc15cbcee737.jpg)
 The Purple Parade is Singapore’s largest annual gathering that seeks to advocate the inclusion and celebrates the abilities of People with Disabilities. The Parade comprises four key components:
