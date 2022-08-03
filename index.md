@@ -29,7 +29,7 @@ sections:
         neck out for the common good and make a difference for communities in
         need!
       button: FIND OUT MORE
-      url: /Permalink
+      url: https://centralsingapore.cdc.gov.sg/partner-us/giraffes-singapore-volunteer
       alt: Image alt text
       image: /images/Home/website-landing-cards_volunteer.jpeg
   - infopic:
