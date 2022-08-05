@@ -15,14 +15,14 @@ sections:
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/resources/e-voices
       alt: Image alt text
-      image: /images/Home/ev_signup_info_pic.jpg
+      image: /images/Home/E-Voices (large).png
   - infopic:
       subtitle: VOICES
       description: Check out our latest issue of VOICES here!
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/resources/voices-magazine
       alt: Image alt text
-      image: /images/Home/voices_info_pic.jpg
+      image: /images/Home/VOICES (large).png
   - infopic:
       subtitle: VOLUNTEER WITH US
       description: Be a part of our Giraffes Singapore Volunteer Movement. Stick your
@@ -31,7 +31,7 @@ sections:
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/partner-us/giraffes-singapore-volunteer
       alt: Image alt text
-      image: /images/Home/website-landing-cards_volunteer.jpeg
+      image: /images/Home/CS-CDC-Website-thumbnails-(large).jpg
   - infopic:
       subtitle: IN SEARCH OF PURPOSE TALKS
       description: The In Search of Purpose Talk Series by Central Singapore CDC aims
@@ -40,7 +40,7 @@ sections:
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/programmes/service-to-others/in-search-of-purpose-talks
       alt: Image alt text
-      image: /images/Home/website-landing-cards_isop.jpeg
+      image: /images/Home/ISOP.png
   - infopic:
       subtitle: ABOUT US
       description: The Central Singapore Community Development Council (CDC) serves
@@ -48,7 +48,7 @@ sections:
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/about-us/about-the-cdc
       alt: Image alt text
-      image: /images/Home/website-landing-cards_about.jpeg
+      image: /images/Home/About Us (large).png
   - infopic:
       subtitle: CDC Vouchers scheme
       description: This community scheme is designed to help identified households to
@@ -57,7 +57,7 @@ sections:
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/programmes/cdc-vouchers-scheme
       alt: Image alt text
-      image: /images/Home/website-landing-cards_vouchers.jpeg
+      image: /images/Home/CDC Vouchers (large).png
   - infopic:
       description: To find out which District you are residing in, please visit
         www.pa.gov.sg to access our District Locator.
