@@ -64,5 +64,5 @@ sections:
       button: FIND OUT MORE
       url: https://www.pa.gov.sg/district-information?postal-code
       alt: Image alt text
-      image: /images/Home/website-landing-cards_district.jpeg
+      image: /images/Home/map (large).jpg
 ---
