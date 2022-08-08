@@ -9,7 +9,7 @@ description: ""
   
 In line with our mission to build a do-good district, the CDC works closely with a pool of committed 'Giraffe' volunteers to serve our communities in need. Our 'Giraffe' volunteers play a vital role in expanding our outreach to the vulnerable by contributing their skills, expertise, and networks.  
   
-Click [here](https://form.gov.sg/5eb3ad429bd7d8001106c5b1) to find out more on how you can make a difference for our community and be a 'Giraffe' too.  
+Click [here](https://forms.cwp.gov.sg/cdccpd/volunteerform) to find out more on how you can make a difference for our community and be a 'Giraffe' too.  
   
 Catch up on past Giraffes Singapore campaigns:
 
