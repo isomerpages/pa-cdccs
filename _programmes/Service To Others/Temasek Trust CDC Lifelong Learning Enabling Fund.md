@@ -31,7 +31,7 @@ Approved funding will be provided on a reimbursement basis, i.e., claims with re
 **What does the Fund support?**  
 Each individual with disability has up to $1,000 for a year to support the following:
 
-1.  Course fees (e.g., registration fees, materials fees, assessment fees, etc.). For the list of eligible courses, click [**here**](https://go.gov.sg/tt-cdc-courses).
+1.  Course fees (e.g., registration fees, materials fees, assessment fees, etc.). For the list of eligible courses, click [**here**](https://www.sgenable.sg/docs/ttcdc-courses).
     
 2.  Learning support services (e.g., sign interpreter service, note-taking service, etc.)
     
