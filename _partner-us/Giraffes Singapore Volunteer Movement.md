@@ -13,6 +13,5 @@ Click [here](https://forms.cwp.gov.sg/cdccpd/volunteerform) to find out more o
   
 Catch up on past Giraffes Singapore campaigns:
 
-*   [Giraffes Singapore Community Art Exhibition](https://www.cdc.gov.sg/docs/librariesprovider2/documents-cscdc/programmes/giraffes/exhibition-brochure_lowres.pdf)
 *   [Giraffe Heroes](https://www.youtube.com/watch?v=kySkyxLLdA8)
 *   [Giraffe Park](https://www.facebook.com/watch/?v=1711230715838606)
