@@ -45,6 +45,6 @@ Applications for the Fund are open between 3 December 2021 to 31 December 2022. 
 
 For assistance, email [**learningfund@sgenable.sg**](mailto:learningfund@sgenable.sg). 
 
-For more Frequently Asked Questions, click [**here**](https://s3-ap-southeast-1.amazonaws.com/sgenableprod/wp-content/uploads/2021/12/03033116/FAQs-on-the-TT-CDC-LLEF-3-Dec-2021-v2.pdf). 
+For more Frequently Asked Questions, click [**here**](https://www.sgenable.sg/your-first-stop/training-consultancy/enabling-academy/training/persons-with-disabilities/temasek-trust-cdc-lifelong-learning-enabling-fund/frequently-asked-questions). 
 
 For organisations who wish to partner us to support persons with disabilities in their lifelong learning, please email us at [**training@sgenable.sg**](mailto:training@sgenable.sg).
