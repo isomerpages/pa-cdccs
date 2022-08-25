@@ -5,6 +5,8 @@ description: ""
 ---
 ![Voices](/images/Resources/voices-dec21-cover.jpg)
 
+[ISSUE 93: May 2022](https://go.gov.sg/voices-may-2022)
+
 [ISSUE 92: Dec 2021](https://go.gov.sg/voices-dec-2021)
 
 [ISSUE 91: Jun 2021](https://go.gov.sg/voices-jun-2021)
