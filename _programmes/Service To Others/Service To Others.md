@@ -1,6 +1,6 @@
 ---
 title: Service To Others
-permalink: /programmes/Service-To-Others/Service-To-Others
+permalink: /programmes/Service-To-Others/Service-To-Others/
 description: ""
 third_nav_title: Service To Others
 ---
@@ -13,7 +13,8 @@ At Central Singapore, we hope to inculcate a spirit of volunteerism in the commu
 		</td>
 		<td width="50%">
 			<a href="/programmes/Service-To-Others/TemasekTrust-CDC-LifelongLearning-Fund"><b>Temasek Trust-CDC Lifelong Learning Enabling Fund</b></a><br>
-			<br><br><a href="/programmes/Service-To-Others/TemasekTrust-CDC-LifelongLearning-Fund">Find out more ></a>
+				<b>Temasek Trust-CDC Lifelong Learning Enabling Fund</b> is a S$4 million community fund set up to support persons with disabilities in acquiring relevant vocational and independent living skills and emerge stronger from the pandemic.</b>.
+			<br><br><a href="https://www.sgenable.sg/your-first-stop/training-consultancy/enabling-academy/training/persons-with-disabilities/temasek-trust-cdc-lifelong-learning-enabling-fund">Find out more ></a>
 		</td>
 	</tr>
 </table>
