@@ -1,12 +1,12 @@
 ---
 title: Nurture
-permalink: /programmes/Lifelong-Learning/nurture
+permalink: /programmes/Lifelong-Learning/nurture/
 description: ""
 third_nav_title: Lifelong Learning
 ---
-![Nurture](/images/Programmes/a38z1106_opz5f62c838795f41f09f9d91389022b306.jpg)
+![Junior Stars Nurture](/images/Programmes/a38z1106_opz5f62c838795f41f09f9d91389022b306.jpg)
 
-Nurture is a 40-week community programme for disadvantaged children aged 7 to 12. The programme comprises two core modules – Communications (20 weeks) and Problem-Solving (20 weeks).
+Junior Stars Nurture is a 40-week community programme for disadvantaged children aged 7 to 12. The programme comprises two core modules – Communications (20 weeks) and Problem-Solving (20 weeks).
 
 The activity-based curriculum is designed to be interactive, engaging and child-centric. With targeted lesson plans for each Primary Level, the programme aims to complement existing educational efforts and help children strengthen their academic foundation while developing essential skills that will equip them for the future.
 
