@@ -31,7 +31,3 @@ At Central Singapore, we hope to inculcate a spirit of volunteerism in the commu
 		</td>
 	</tr>
 </table>
-
-<b>In Search of Purpose Talks</b>
-
-[Find out More >](/programmes/Service-To-Others/In-search-of-purpose-talks)
