@@ -1,6 +1,6 @@
 ---
 title: Physical Wellness & Sustainability
-permalink: /programmes/Wellness-and-Sustainability/PhysicalWellness-Sustainability
+permalink: /programmes/Wellness-and-Sustainability/PhysicalWellness-Sustainability/
 description: ""
 third_nav_title: Wellness & Sustainability
 ---
@@ -15,19 +15,6 @@ At Central Singapore CDC, we advocate eating well, living well, and thinking wel
 			<a href="/programmes/Wellness-and-Sustainability/silver-homes"><b>Silver Homes</b></a><br>
 A programme that aims to create a healthy, clean and safe home for seniors.
 			<br><br><a href="/programmes/Wellness-and-Sustainability/silver-homes">Find out more ></a>
-		</td>
-	</tr>
-</table>
-
-<table border="0" width="100%">
-	<tr>
-		<td width="50%">
-			<img src="/images/Programmes/myh-photo.jpeg">
-		</td>
-		<td width="50%">
-			<a href="/programmes/Wellness-and-Sustainability/mind-your-health"><b>MIND Your Health</b></a><br>
-MIND Your Health is a series of community outreach educational talks and/or resource materials by Central Singapore CDC to promote understanding and encourage everyone to take positive action for mental wellness.
-			<br><a href="/programmes/Wellness-and-Sustainability/mind-your-health">Find out more ></a>
 		</td>
 	</tr>
 </table>
@@ -67,19 +54,6 @@ Upcycling @ Central Singapore aims to minimise wastage by encouraging residents 
 			<a href="/programmes/Wellness-and-Sustainability/pass-it-on"><b>Pass-It-On</b></a><br>
 Pass-It-On is one of Central Singapore CDC’s green initiatives towards a zero-waste lifestyle.  The programme is managed by The Helping Hand, and provides a meaningful way to distribute unwanted, albeit useful items to benefit the needy (home appliances, home furniture, medical aids, mobility aids and learning aids).
 			<br><a href="/programmes/Wellness-and-Sustainability/pass-it-on">Find out more ></a>
-		</td>
-	</tr>
-</table>
-
-<table border="0" width="100%">
-	<tr>
-		<td width="50%">
-			<img src="/images/Programmes/csm-launch-event.jpg">
-		</td>
-		<td width="50%">
-			<a href="/programmes/Wellness-and-Sustainability/central-singapore-market"><b>Central Singapore Market</b></a><br>
-Central Singapore Market is a platform to encourage healthy eating among our residents, especially cosmopolitan young adults.
-			<br><a href="/programmes/Wellness-and-Sustainability/central-singapore-market">Find out more ></a>
 		</td>
 	</tr>
 </table>
