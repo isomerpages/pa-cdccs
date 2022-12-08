@@ -1,11 +1,13 @@
 ---
 title: VOICES Magazine
-permalink: /resources/voices-magazine
+permalink: /resources/voices-magazine/
 description: ""
 ---
 ![Voices](/images/Resources/voices-may22-cover.jpeg)
 
-[ISSUE 93: July 2022](https://go.gov.sg/voices-may-2022)
+[ISSUE 94: Dec 2022](https://go.gov.sg/voices-dec-2022)
+
+[ISSUE 93: Jul 2022](https://go.gov.sg/voices-may-2022)
 
 [ISSUE 92: Dec 2021](https://go.gov.sg/voices-dec-2021)
 
