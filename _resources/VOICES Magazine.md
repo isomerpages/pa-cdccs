@@ -3,7 +3,7 @@ title: VOICES Magazine
 permalink: /resources/voices-magazine/
 description: ""
 ---
-![Voices](/images/Resources/voices-dec22-cover.jpg)
+![Dec 2022 Voices](/images/Resources/voices-dec22-cover.jpg)
 
 [ISSUE 94: Dec 2022](https://go.gov.sg/voices-dec-2022)
 
