@@ -8,11 +8,10 @@ third_nav_title: Wellness & Sustainability
 
 Upcycling @ Central Singapore aims to encourage residents to move towards a ZERO-WASTE lifestyle by repurposing their unwanted items into useful products through the following programmes:
 
-**Central Singapore Upcycling Contest**
-![CS Upcycling Contest](/images/Programmes/img_1354.jpg)
-Dear residents,
 
-Thank you for your interest in the Central Singapore Upcycling Contest. We regret to inform you that the submission period for the contest has closed.
+**Sustainability Workshops**
+![Project Upcycle](/images/Programmes/307855820_10159331042328192_8130489532939644615_n.jpg)
+Learn about upcycling and techniques to repurpose pre-loved items into new items through our sustainability workshops! 
 
 **Project Upcycle**
 ![Project Upcycle](/images/Programmes/f00fe9b0-381c-46da-b11d-aefa23c6c223_image3.jpg)
