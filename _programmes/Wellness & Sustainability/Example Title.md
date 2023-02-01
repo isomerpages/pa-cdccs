@@ -7,9 +7,7 @@ third_nav_title: Wellness & Sustainability
 ---
 Better Homes @ Central is an initiative to provide youths living in rental flats with a better living and learning environment.
 
-![A look at pre-renovation and post-renovation of one of our beneficiary's flat]()
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ab3xX-3PEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The programme is designed to provide one-off home refurbishment to support families with children staying in public rental flats within Central district. 
 
@@ -23,4 +21,12 @@ The makeover process includes:
 
 *  Sharing of home organising tips by professionals
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ab3xX-3PEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**Volunteer with us!**  
+Interested organisations may contact the CDC to help refurbish our seniors’ homes.
+
+**Contact us**:  
+Ms Felicia Liu 
+Team Leader,  
+Partnerships & Programmes  
+[pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
+
