@@ -1,6 +1,6 @@
 ---
 title: Silver Homes
-permalink: /programmes/Wellness-and-Sustainability/silver-homes
+permalink: /programmes/Wellness-and-Sustainability/silver-homes/
 description: ""
 third_nav_title: Wellness & Sustainability
 ---
@@ -19,7 +19,7 @@ Silver Homes is a volunteer-driven initiative to create healthy, safe and clean 
 Interested organisations or volunteer groups with at least 25 volunteers aged 16 and above may contact the CDC to help refurbish our seniors' homes.
 
 **Contact us**:  
-Mr Benjamin Cheong   
+Mr Ryan Neo   
 Manager,  
 Partnerships & Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
