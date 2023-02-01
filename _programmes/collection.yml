@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Wellness & Sustainability/Example Title.md
       - Wellness & Sustainability/Physical Wellness & Sustainability.md
       - Wellness & Sustainability/.keep
       - Wellness & Sustainability/Silver Homes.md
