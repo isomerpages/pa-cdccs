@@ -9,7 +9,7 @@ At Central Singapore CDC, we believe in building and maintaining positive relati
 <table border="0" width="100%">
 	<tr>
 		<td width="50%">
-			<img src="/images/Programmes/temasek-fund-a4-021221-(200ppi).jpg">
+			<img src="/images/Programmes/tt-cdc-web-banner-2481-x-1301.jpg">
 		</td>
 		<td width="50%">
 			<a href="/programmes/Service-To-Others/TemasekTrust-CDC-LifelongLearning-Fund"><b>Temasek Trust-CDC Lifelong Learning Enabling Fund</b></a><br>
