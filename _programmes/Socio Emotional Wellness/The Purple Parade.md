@@ -15,7 +15,7 @@ The Purple Parade is Singapore’s largest annual gathering that seeks to advoca
 
 The first Purple Parade was held at Hong Lim Park in 2013. The Parade consists of participating groups and individuals, representing a community of like-minded organisations such as Voluntary Welfare Organisations, schools, social enterprises, government agencies and corporations. They are all united by a common belief that People with Disabilities have abilities and are able to contribute to society.
 
-We celebrated our 10th Anniversary in 2022! For this momentous milestone, we had a 10-week celebration and the return of a physical parade at Suntec City. Over 10,000 participants took part in the massive event, with 200 organisations, 5000 contingent paraders and garnering over 80,000 online engagements. Relive the magic of our 10th Anniversary here!
+We celebrated our 10th Anniversary in 2022! For this momentous milestone, we had a 10-week celebration and the return of a physical parade at Suntec City. Over 10,000 participants took part in the massive event, with 200 organisations, 5000 contingent paraders and garnering over 80,000 online engagements. Relive the magic of our 10th Anniversary in the video below!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f5RYHmoy8JE?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
