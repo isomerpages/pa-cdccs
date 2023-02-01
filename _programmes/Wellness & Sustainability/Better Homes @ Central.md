@@ -24,7 +24,7 @@ The makeover process includes:
 Interested organisations may contact the CDC to help refurbish our seniors’ homes.
 
 **Contact us**:  
-Ms Felicia Liu,
-Team Leader,  
-Partnerships & Programmes  
+Ms Felicia Liu   
+Team Leader 
+Partnerships & Programmes
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
