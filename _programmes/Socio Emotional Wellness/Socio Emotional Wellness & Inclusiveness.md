@@ -12,7 +12,7 @@ At Central Singapore CDC, we believe in building and maintaining positive relati
 			<img src="/images/Programmes/tt-cdc-web-banner-2481-x-1301.jpg">
 		</td>
 		<td width="50%">
-			<a href="/programmes/Service-To-Others/TemasekTrust-CDC-LifelongLearning-Fund"><b>Temasek Trust-CDC Lifelong Learning Enabling Fund</b></a><br>
+			<a href="/programmes/Socio-Emotional-Wellness/TemasekTrust-CDC-LifelongLearning-Fund"><b>Temasek Trust-CDC Lifelong Learning Enabling Fund</b></a><br>
 				<b>Temasek Trust-CDC Lifelong Learning Enabling Fund</b> is a S$4 million community fund set up to support persons with disabilities in acquiring relevant vocational and independent living skills and emerge stronger from the pandemic.</b>.
 			<br><br><a href="https://www.sgenable.sg/your-first-stop/training-consultancy/enabling-academy/training/persons-with-disabilities/temasek-trust-cdc-lifelong-learning-enabling-fund">Find out more ></a>
 		</td>
