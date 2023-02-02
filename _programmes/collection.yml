@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - Overview.md
-      - Wellness & Sustainability/Physical Wellness & Sustainability.md
       - Wellness & Sustainability/.keep
+      - Wellness & Sustainability/Physical Wellness & Sustainability.md
+      - Wellness & Sustainability/Better Homes @ Central.md
       - Wellness & Sustainability/Silver Homes.md
       - Wellness & Sustainability/Mind Your Health.md
       - Wellness & Sustainability/EcoKnight SG.md
       - Wellness & Sustainability/Upcycling @ Central Singapore.md
       - Wellness & Sustainability/Pass It On.md
-      - Wellness & Sustainability/Central Singapore Market.md
       - Financial & Social Wellness/Financial & Social Wellness.md
       - Financial & Social Wellness/.keep
       - Financial & Social Wellness/Kong Meng San CDC COVID 19 Relief Fund.md

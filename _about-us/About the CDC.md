@@ -1,9 +1,12 @@
 ---
 title: About the CDC
-permalink: /about-us/about-the-CDC
+permalink: /about-us/about-the-CDC/
 description: ""
 ---
 ![About CDC](/images/About%20Us/aboutourcdc.jpg)
+
+![Better_Life_Model](/images/About%20Us/BetterLifeModel.png)
+
 Central Singapore Community Development Council (CDC)’s mission is to Aggregate resources from the CDC's networks to meet community needs, Build capabilities and capacities in partners and networks, and Connect communities to expand networks and drive community programmes. The CDC serves close to one million residents living in the Central Singapore District, and envisions itself as a Do-Good District, with a focus on helping residents live The Better Life.  
   
 The CDC offers a suite of 52 ongoing programmes spanning across five focus areas towards The Better Life: Physical Wellness & Sustainability, Financial & Social Wellness, Socio-Emotional Wellness & Inclusiveness, Service To Others (Volunteerism & Giving), and Lifelong Learning (SkillsFuture).

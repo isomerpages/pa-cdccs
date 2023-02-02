@@ -1,6 +1,6 @@
 ---
 title: The Purple Parade
-permalink: /programmes/Socio-Emotional-Wellness/purple-parade
+permalink: /programmes/Socio-Emotional-Wellness/purple-parade/
 description: ""
 third_nav_title: Socio Emotional Wellness
 ---
@@ -14,6 +14,10 @@ The Purple Parade is Singapore’s largest annual gathering that seeks to advoca
 *   **Conversations:** A human library for people to gain a deeper understanding of the Disability community through sharing of personal stories. 
 
 The first Purple Parade was held at Hong Lim Park in 2013. The Parade consists of participating groups and individuals, representing a community of like-minded organisations such as Voluntary Welfare Organisations, schools, social enterprises, government agencies and corporations. They are all united by a common belief that People with Disabilities have abilities and are able to contribute to society.
+
+We celebrated our 10th Anniversary in 2022! For this momentous milestone, we had a 10-week celebration and the return of a physical parade at Suntec City. Over 10,000 participants took part in the massive event, with 200 organisations, 5000 contingent paraders and garnering over 80,000 online engagements. Relive the magic of our 10th Anniversary in the video below!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f5RYHmoy8JE?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 To find out more about The Purple Parade, visit [The Purple Parade's website](https://www.purpleparade.sg/), [Facebook page](https://www.facebook.com/purpleparade) and [Instagram page](https://www.instagram.com/purpleparade/).
 

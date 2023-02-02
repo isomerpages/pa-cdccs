@@ -1,6 +1,6 @@
 ---
 title: EcoKnight SG
-permalink: /programmes/Wellness-and-Sustainability/ecoknight-SG
+permalink: /programmes/Wellness-and-Sustainability/ecoknight-SG/
 description: ""
 third_nav_title: Wellness & Sustainability
 ---
@@ -15,6 +15,10 @@ There are three main categories of Knighthood under the EcoKnight SG Award, name
 *   **Level 3: EcoKnight Master** An individual who champions Zero-Waste-related causes with positive impact on a regular basis, and in addition, organises Zero-Waste-related programmes and/or projects within a particular district on at least a weekly basis.
 
 There is also an armoury of eco-tips towards a Zero Waste environment based on the 6Rs - **R**efuse, **R**educe, **R**euse, **R**epair, **R**epurpose and **R**ecycle.
+
+**Sustainability Workshops**
+![Project Upcycle](/images/Programmes/307855820_10159331042328192_8130489532939644615_n.jpg)
+Learn about upcycling and techniques to repurpose pre-loved items into new items through our sustainability workshops! It is one of the ways Central Singapore CDC supports the Singapore Green Plan 2030. 
 
 To find out more about eco-friendly tips, visit [EcoKnight SG’s](http://www.facebook.com/ecoknightsg) Facebook Page. 
 
