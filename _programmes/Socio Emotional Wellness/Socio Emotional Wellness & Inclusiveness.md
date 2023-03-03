@@ -78,7 +78,7 @@ An initiative that brings individuals with and without special needs together th
 		</td>
 		<td width="50%">
 			<a href="/programmes/Socio-Emotional-Wellness/purple-outings"><b>Soles Mates</b></a><br>
-An initiative that brings individuals with and without special needs together through regular outings and bonding activities.
+Soles Mates is a grant programme that empowers volunteers and groups to engage Persons with Disabilities (PWDs) to keep fit through regular exercise and physical activities such as races and competitions. 
 			<br><br><a href="/programmes/Socio-Emotional-Wellness/solemates">Find out more ></a>
 		</td>
 	</tr>
