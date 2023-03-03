@@ -61,12 +61,12 @@ Pass-It-On is one of Central Singapore CDC’s green initiatives towards a zero-
 <table border="0" width="100%">
 	<tr>
 		<td width="50%">
-			<img src="/images/Programmes/BetterHomes.png">
+			<img src="/images/Programmes/GiveAndTakeMarket.jpg">
 		</td>
 		<td width="50%">
-			<a href="/programmes/Wellness-and-Sustainability/pass-it-on"><b>Better Homes @ Central</b></a><br>
-Better Homes @ Central is an initiative to provide youths living in rental flats with a better living and learning environment.
-			<br><a href="/programmes/Wellness-and-Sustainability/pass-it-on">Find out more ></a>
+			<a href="/programmes/Wellness-and-Sustainability/pass-it-on"><b>Give and Take Market</b></a><br>
+Give and Take Market is a programme by Jalan Besar GRC and Central Singapore CDC to promote the spirit of giving and assist families in need. It aims to lighten the cost of living for lower-income families with children living in rental flats in Jalan Besar. 
+			<br><a href="/programmes/Wellness-and-Sustainability/GiveandTakeMarket">Find out more ></a>
 		</td>
 	</tr>
 </table>
@@ -74,12 +74,12 @@ Better Homes @ Central is an initiative to provide youths living in rental flats
 <table border="0" width="100%">
 	<tr>
 		<td width="50%">
-			<img src="/images/Programmes/GiveAndTakeMarket.jpg">
+			<img src="/images/Programmes/BetterHomes.png">
 		</td>
 		<td width="50%">
-			<a href="/programmes/Wellness-and-Sustainability/pass-it-on"><b>Give and Take Market</b></a><br>
-Give and Take Market is a programme by Jalan Besar GRC and Central Singapore CDC to promote the spirit of giving and assist families in need. It aims to lighten the cost of living for lower-income families with children living in rental flats in Jalan Besar. 
-			<br><a href="/programmes/Wellness-and-Sustainability/GiveandTakeMarket">Find out more ></a>
+			<a href="/programmes/Wellness-and-Sustainability/pass-it-on"><b>Better Homes @ Central</b></a><br>
+Better Homes @ Central is an initiative to provide youths living in rental flats with a better living and learning environment.
+			<br><a href="/programmes/Wellness-and-Sustainability/pass-it-on">Find out more ></a>
 		</td>
 	</tr>
 </table>
