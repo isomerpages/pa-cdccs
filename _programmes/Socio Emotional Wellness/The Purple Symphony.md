@@ -22,7 +22,7 @@ Do you have a passion for music and are proficient in a musical instrument? If y
 
 Ms Yogeswari Masilamani
 
-Assistant Manager,   
+Executive,   
 Partnerships & Programmes
 
 [pa_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
