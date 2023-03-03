@@ -40,7 +40,7 @@ Pass-It-On is one of Central Singapore CDC’s green initiatives towards a zero-
 		<td width="50%">
 			<a href="/programmes/Wellness-and-Sustainability/pass-it-on"><b>Give and Take Market</b></a><br>
 Give and Take Market is a programme by Jalan Besar GRC and Central Singapore CDC to promote the spirit of giving and assist families in need. It aims to lighten the cost of living for lower-income families with children living in rental flats in Jalan Besar. 
-			<br><a href="/programmes/Wellness-and-Sustainability/GiveandTakeMarket">Find out more ></a>
+			<br><a href="/programmes/Wellness-and-Sustainability/Give-and-Take-Market">Find out more ></a>
 		</td>
 	</tr>
 </table>
