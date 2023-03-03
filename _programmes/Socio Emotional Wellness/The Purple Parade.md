@@ -27,6 +27,6 @@ To find out more about The Purple Parade, visit [The Purple Parade's website](h
 Join us as a volunteer for the pre-event Campaign, or sign-up with your organisation to show your support for People with Disabilities as part of the Contingent or Carnival. Individual or group performers with and without Disabilities may indicate your interest to participate in the inclusive Concert.
 
 **Contact us**:  
-Ms Siow Qi Qing  
+Ms Charmaine Phua  
 Manager (Partnerships & Programmes)  
 [pa_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
