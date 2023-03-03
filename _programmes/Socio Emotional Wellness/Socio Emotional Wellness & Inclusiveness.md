@@ -13,7 +13,7 @@ At Central Singapore CDC, we believe in building and maintaining positive relati
 		</td>
 		<td width="50%">
 			<a href="https://www.sgenable.sg/your-first-stop/training-consultancy/enabling-academy/training/persons-with-disabilities/temasek-trust-cdc-lifelong-learning-enabling-fund"><b>Temasek Trust-CDC Lifelong Learning Enabling Fund</b></a><br>
-				<b>Temasek Trust-CDC Lifelong Learning Enabling Fund</b> is a S$4 million community fund set up to support persons with disabilities in acquiring relevant vocational and independent living skills and emerge stronger from the pandemic.</b>.
+				<b>Temasek Trust-CDC Lifelong Learning Enabling Fund</b> is a S$4 million community fund set up to support persons with disabilities in acquiring relevant vocational and independent living skills and emerge stronger from the pandemic.</b>
 			<br><br><a href="https://www.sgenable.sg/your-first-stop/training-consultancy/enabling-academy/training/persons-with-disabilities/temasek-trust-cdc-lifelong-learning-enabling-fund">Find out more ></a>
 		</td>
 	</tr>
@@ -39,7 +39,7 @@ Singapore’s first inclusive orchestra comprising musicians with and without sp
 		</td>
 		<td width="50%">
 			<a href="/programmes/Socio-Emotional-Wellness/purple-parade"><b>The Purple Parade</b></a><br>
-Singapore’s largest movement to celebrate the abilities and support the inclusion of special needs
+Singapore’s largest movement to celebrate the abilities and support the inclusion of persons with disabilities. 
 			<br><br><a href="/programmes/Socio-Emotional-Wellness/purple-parade">Find out more ></a>
 		</td>
 	</tr>
