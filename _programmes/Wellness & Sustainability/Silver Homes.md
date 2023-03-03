@@ -19,7 +19,7 @@ Silver Homes is a volunteer-driven initiative to create healthy, safe and clean 
 Interested organisations or volunteer groups with at least 25 volunteers aged 16 and above may contact the CDC to help refurbish our seniors' homes.
 
 **Contact us**:  
-Mr Ryan Neo   
+Ms Sheryl Teo  
 Manager,  
 Partnerships & Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
