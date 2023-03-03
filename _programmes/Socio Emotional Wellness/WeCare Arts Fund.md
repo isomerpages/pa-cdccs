@@ -1,6 +1,6 @@
 ---
 title: WeCare Arts Fund
-permalink: /programmes/Socio-Emotional-Wellness/wecare-arts-fund
+permalink: /programmes/Socio-Emotional-Wellness/wecare-arts-fund/
 description: ""
 third_nav_title: Socio Emotional Wellness
 ---
@@ -16,6 +16,6 @@ All projects and related costs under the above projects will be supported by the
 
 Contact us:  
 Mr Pang Wen Hao  
-Assistant Manager,  
+Manager,  
 Partnerships & Programmes  
 [pa_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
