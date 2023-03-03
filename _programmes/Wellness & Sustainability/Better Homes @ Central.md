@@ -21,7 +21,7 @@ The makeover process includes:
 *  Sharing of home organising tips by professionals
 
 **Volunteer with us!**  
-Interested organisations may contact the CDC to help refurbish our seniors’ homes.
+Interested organisations may contact the CDC to help refurbish our families’ homes.
 
 **Contact us**:  
 Ms Felicia Liu  
