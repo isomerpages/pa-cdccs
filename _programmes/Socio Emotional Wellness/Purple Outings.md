@@ -1,6 +1,6 @@
 ---
 title: Purple Outings
-permalink: /programmes/Socio-Emotional-Wellness/purple-outings
+permalink: /programmes/Socio-Emotional-Wellness/purple-outings/
 description: ""
 third_nav_title: Socio Emotional Wellness
 ---
@@ -14,6 +14,5 @@ Gather a group of 10 to 15 volunteers and bond over fun activities with our frie
 
 **Contact us**:  
 Mr Pang Wen Hao  
-Manager  
-Partnerships & Programmes  
+Manager, Partnerships & Programmes  
 [pa_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)

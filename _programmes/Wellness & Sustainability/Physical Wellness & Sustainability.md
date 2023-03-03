@@ -22,6 +22,46 @@ A programme that aims to create a healthy, clean and safe home for seniors.
 <table border="0" width="100%">
 	<tr>
 		<td width="50%">
+			<img src="/images/Programmes/04e41f1e-baa3-4c22-8bc4-f3082ccab85b_pass-it-on.jpg">
+		</td>
+		<td width="50%">
+			<a href="/programmes/Wellness-and-Sustainability/pass-it-on"><b>Pass-It-On</b></a><br>
+Pass-It-On is one of Central Singapore CDC’s green initiatives towards a zero-waste lifestyle.  The programme is managed by The Helping Hand, and provides a meaningful way to distribute unwanted, albeit useful items to benefit the needy (home appliances, home furniture, medical aids, mobility aids and learning aids).
+			<br><a href="/programmes/Wellness-and-Sustainability/pass-it-on">Find out more ></a>
+		</td>
+	</tr>
+</table>
+
+<table border="0" width="100%">
+	<tr>
+		<td width="50%">
+			<img src="/images/Programmes/GiveAndTakeMarket.jpg">
+		</td>
+		<td width="50%">
+			<a href="/programmes/Wellness-and-Sustainability/pass-it-on"><b>Give and Take Market</b></a><br>
+Give and Take Market is a programme by Jalan Besar GRC and Central Singapore CDC to promote the spirit of giving and assist families in need. It aims to lighten the cost of living for lower-income families with children living in rental flats in Jalan Besar. 
+			<br><a href="/programmes/Wellness-and-Sustainability/GiveandTakeMarket">Find out more ></a>
+		</td>
+	</tr>
+</table>
+
+<table border="0" width="100%">
+	<tr>
+		<td width="50%">
+			<img src="/images/Programmes/BetterHomes.png">
+		</td>
+		<td width="50%">
+			<a href="/programmes/Wellness-and-Sustainability/pass-it-on"><b>Better Homes @ Central</b></a><br>
+Better Homes @ Central is an initiative to provide youths living in rental flats with a better living and learning environment.
+			<br><a href="/programmes/Wellness-and-Sustainability/pass-it-on">Find out more ></a>
+		</td>
+	</tr>
+</table>
+
+
+<table border="0" width="100%">
+	<tr>
+		<td width="50%">
 			<img src="/images/Programmes/3c60d1bc-32a9-4010-a3e1-498f47dc5f05_6-rs.jpg">
 		</td>
 		<td width="50%">
@@ -41,32 +81,6 @@ A programme that aims to create a healthy, clean and safe home for seniors.
 			<a href="/programmes/Wellness-and-Sustainability/upcycling-central-singapore"><b>Upcycling @ Central Singapore</b></a><br>
 Upcycling @ Central Singapore aims to minimise wastage by encouraging residents to turn their unwanted items into useful products. Residents may look forward to picking up the art of upcycling and turn their trash into treasure through a series of regular upcycling workshops organised by Central Singapore CDC. Residents may also showcase and promote their creative upcycled products at the Central Singapore Market.
 			<br><a href="/programmes/Wellness-and-Sustainability/upcycling-central-singapore">Find out more ></a>
-		</td>
-	</tr>
-</table>
-
-<table border="0" width="100%">
-	<tr>
-		<td width="50%">
-			<img src="/images/Programmes/04e41f1e-baa3-4c22-8bc4-f3082ccab85b_pass-it-on.jpg">
-		</td>
-		<td width="50%">
-			<a href="/programmes/Wellness-and-Sustainability/pass-it-on"><b>Pass-It-On</b></a><br>
-Pass-It-On is one of Central Singapore CDC’s green initiatives towards a zero-waste lifestyle.  The programme is managed by The Helping Hand, and provides a meaningful way to distribute unwanted, albeit useful items to benefit the needy (home appliances, home furniture, medical aids, mobility aids and learning aids).
-			<br><a href="/programmes/Wellness-and-Sustainability/pass-it-on">Find out more ></a>
-		</td>
-	</tr>
-</table>
-
-<table border="0" width="100%">
-	<tr>
-		<td width="50%">
-			<img src="/images/Programmes/BetterHomes.png">
-		</td>
-		<td width="50%">
-			<a href="/programmes/Wellness-and-Sustainability/pass-it-on"><b>Better @ Central</b></a><br>
-Better Homes @ Central is an initiative to provide youths living in rental flats with a better living and learning environment.
-			<br><a href="/programmes/Wellness-and-Sustainability/pass-it-on">Find out more ></a>
 		</td>
 	</tr>
 </table>
