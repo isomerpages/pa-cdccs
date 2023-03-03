@@ -70,3 +70,16 @@ An initiative that brings individuals with and without special needs together th
 		</td>
 	</tr>
 </table>
+
+<table border="0" width="100%">
+	<tr>
+		<td width="50%">
+			<img src="/images/Programmes/solemates.jpg">
+		</td>
+		<td width="50%">
+			<a href="/programmes/Socio-Emotional-Wellness/purple-outings"><b>Soles Mates</b></a><br>
+An initiative that brings individuals with and without special needs together through regular outings and bonding activities.
+			<br><br><a href="/programmes/Socio-Emotional-Wellness/solemates">Find out more ></a>
+		</td>
+	</tr>
+</table>
