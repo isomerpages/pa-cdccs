@@ -5,7 +5,7 @@ description: ""
 image: ""
 third_nav_title: Socio Emotional Wellness
 ---
-![The Purple Symphony](/images/Programmes/solemates.jpg)
+![Sole_Mates](/images/Programmes/solemates.jpg)
 
 Soles Mates is a grant programme that empowers volunteers and groups to engage Persons with Disabilities (PWDs) to keep fit through regular exercise and physical activities such as races and competitions. 
 
