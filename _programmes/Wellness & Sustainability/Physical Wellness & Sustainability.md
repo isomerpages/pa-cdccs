@@ -64,7 +64,7 @@ Pass-It-On is one of Central Singapore CDC’s green initiatives towards a zero-
 			<img src="/images/Programmes/BetterHomes.png">
 		</td>
 		<td width="50%">
-			<a href="/programmes/Wellness-and-Sustainability/pass-it-on"><b>Better @ Central</b></a><br>
+			<a href="/programmes/Wellness-and-Sustainability/pass-it-on"><b>Better Homes @ Central</b></a><br>
 Better Homes @ Central is an initiative to provide youths living in rental flats with a better living and learning environment.
 			<br><a href="/programmes/Wellness-and-Sustainability/pass-it-on">Find out more ></a>
 		</td>
