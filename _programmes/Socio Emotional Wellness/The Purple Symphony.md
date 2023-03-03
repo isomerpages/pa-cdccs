@@ -1,12 +1,12 @@
 ---
 title: The Purple Symphony
-permalink: /programmes/Socio-Emotional-Wellness/the-purple-symphony
+permalink: /programmes/Socio-Emotional-Wellness/the-purple-symphony/
 description: ""
 third_nav_title: Socio Emotional Wellness
 ---
 ![The Purple Symphony](/images/Programmes/tps-main.jpg)
 
-The Purple Symphony is an inclusive orchestra comprising talented musicians with and without special needs. Its members play a range of Asian and Western instruments from five key musical sections: Strings (Plucked), Strings (Bow), Wind, Percussion and Choir.
+The Purple Symphony is an inclusive orchestra comprising talented musicians with and without disabilities. Its members play a range of Asian and Western instruments from five key musical sections: Strings (Plucked), Strings (Bow), Wind, Percussion and Choir.
 
 As Singapore’s first all-inclusive orchestra, The Purple Symphony creates an opportunity for the inclusion of people who are different. It is a ready avenue for musicians to learn and share music with one another and their audiences, support inclusion, and celebrate and demonstrate their abilities and excellence they can achieve together.
 
@@ -20,7 +20,7 @@ Do you have a passion for music and are proficient in a musical instrument? If y
 
 **Contact us:**
 
-Ms Cheang Hui Xin
+Ms Yogeswari Masilamani
 
 Assistant Manager,   
 Partnerships & Programmes
