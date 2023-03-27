@@ -62,7 +62,7 @@ sections:
       description: To find out which District you are residing in, please visit
         www.pa.gov.sg to access our District Locator.
       button: FIND OUT MORE
-      url: https://www.pa.gov.sg/district-information?postal-code
+      url: https://www.gowhere.gov.sg/cdc
       alt: Image alt text
       image: /images/Home/map (large).jpg
 ---
