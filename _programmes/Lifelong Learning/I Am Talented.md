@@ -1,6 +1,6 @@
 ---
 title: I Am Talented
-permalink: /programmes/Lifelong-Learning/I-am-Talented
+permalink: /programmes/lifelong-learning/i-am-talented/
 description: ""
 third_nav_title: Lifelong Learning
 ---

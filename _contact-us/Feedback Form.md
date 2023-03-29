@@ -1,6 +1,6 @@
 ---
 title: Feedback Form
-permalink: /contact-us/feedback-form
+permalink: /contact-us/feedback-form/
 description: ""
 ---
 Thank you for being a part of our Do-Good District. We seek your suggestions to serve our residents better.

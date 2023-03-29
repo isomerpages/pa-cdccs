@@ -1,6 +1,6 @@
 ---
 title: Mayors Note
-permalink: /about-us/mayors-note
+permalink: /about-us/mayors-note/
 description: ""
 ---
 ![Mayor's Note](/images/About%20Us/photo-2021-04-12-17-39-57.jpg)

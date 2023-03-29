@@ -1,6 +1,6 @@
 ---
 title: CashUP Family Savers
-permalink: /programmes/Financial-and-Social-Wellness/CashUP-Famil-Savers
+permalink: /programmes/financial-and-social-wellness/cashup-famil-savers/
 description: ""
 third_nav_title: Financial & Social Wellness
 ---

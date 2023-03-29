@@ -1,6 +1,6 @@
 ---
 title: Ready For School Kit (Secondary School)
-permalink: /programmes/Financial-and-Social-Wellness/Ready-For-School-Kit-SecondarySchool
+permalink: /programmes/financial-and-social-wellness/ready-for-school-kit-secondaryschool/
 description: ""
 third_nav_title: Financial & Social Wellness
 ---

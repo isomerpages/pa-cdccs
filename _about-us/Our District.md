@@ -1,6 +1,6 @@
 ---
 title: Our District
-permalink: /about-us/our-district
+permalink: /about-us/our-district/
 description: ""
 ---
 ![Central Singapore District Map](/images/About%20Us/pa-central-sg-district-map-fa.jpg)

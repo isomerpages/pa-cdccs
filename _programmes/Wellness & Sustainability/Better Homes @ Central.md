@@ -1,6 +1,6 @@
 ---
 title: Better Homes @ Central
-permalink: /programmes/Wellness-and-Sustainability/permalink/
+permalink: /programmes/wellness-and-sustainability/permalink/
 description: ""
 third_nav_title: Wellness & Sustainability
 ---

@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture
-permalink: /happenings/Upcoming-Events/SkillsFuture/
+permalink: /happenings/upcoming-events/skillsfuture/
 description: ""
 third_nav_title: Upcoming Events
 ---

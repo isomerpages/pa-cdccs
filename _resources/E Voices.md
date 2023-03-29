@@ -1,6 +1,6 @@
 ---
 title: E Voices
-permalink: /resources/e-voices
+permalink: /resources/e-voices/
 description: ""
 ---
 ![E Voices](/images/Resources/ev-sign-up-banner.jpg)

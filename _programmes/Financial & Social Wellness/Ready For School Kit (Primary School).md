@@ -1,6 +1,6 @@
 ---
 title: Ready For School Kit (Primary School)
-permalink: /programmes/Financial-and-Social-Wellness/Ready-For-SchoolKit-Primaryschool
+permalink: /programmes/financial-and-social-wellness/ready-for-schoolkit-primaryschool/
 description: ""
 third_nav_title: Financial & Social Wellness
 ---

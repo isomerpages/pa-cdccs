@@ -1,6 +1,6 @@
 ---
 title: Giraffes Singapore Volunteer Movement
-permalink: /partner-us/giraffes-singapore-volunteer
+permalink: /partner-us/giraffes-singapore-volunteer/
 description: ""
 ---
 ![Giraffes Singapore](/images/Partner%20Us/2018-giraffe-main.jpg)

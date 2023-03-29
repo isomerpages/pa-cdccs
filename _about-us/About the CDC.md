@@ -1,6 +1,6 @@
 ---
 title: About the CDC
-permalink: /about-us/about-the-CDC/
+permalink: /about-us/about-the-cdc/
 description: ""
 ---
 ![About CDC](/images/About%20Us/aboutourcdc.jpg)

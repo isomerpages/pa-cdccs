@@ -1,6 +1,6 @@
 ---
 title: Junior Stars Nurture
-permalink: /programmes/Lifelong-Learning/nurture/
+permalink: /programmes/lifelong-learning/nurture/
 description: ""
 third_nav_title: Lifelong Learning
 ---
