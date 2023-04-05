@@ -1,6 +1,6 @@
 ---
 title: Give and Take Market
-permalink: /programmes/Wellness-and-Sustainability/permalink/
+permalink: /programmes/wellness-and-sustainability/permalink/
 description: ""
 image: /images/Programmes/GiveAndTakeMarket.jpg
 third_nav_title: Wellness & Sustainability

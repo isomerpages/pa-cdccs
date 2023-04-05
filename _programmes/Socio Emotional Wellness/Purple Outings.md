@@ -1,6 +1,6 @@
 ---
 title: Purple Outings
-permalink: /programmes/Socio-Emotional-Wellness/purple-outings/
+permalink: /programmes/socio-emotional-wellness/purple-outings/
 description: ""
 third_nav_title: Socio Emotional Wellness
 ---

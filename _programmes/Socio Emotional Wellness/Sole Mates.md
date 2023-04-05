@@ -1,6 +1,6 @@
 ---
 title: Sole Mates
-permalink: /programmes/Socio-Emotional-Wellness/permalink/
+permalink: /programmes/socio-emotional-wellness/permalink/
 description: ""
 image: ""
 third_nav_title: Socio Emotional Wellness

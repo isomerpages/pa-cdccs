@@ -1,6 +1,6 @@
 ---
 title: EcoKnight SG
-permalink: /programmes/Wellness-and-Sustainability/ecoknight-SG/
+permalink: /programmes/wellness-and-sustainability/ecoknight-sg/
 description: ""
 third_nav_title: Wellness & Sustainability
 ---

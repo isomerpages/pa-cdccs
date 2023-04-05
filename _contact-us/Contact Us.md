@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /contact-us/contact-us
+permalink: /contact-us/contact-us/
 description: ""
 ---
 **For enquiries or to collaborate with the CDC on our programmes and initiatives, please call us at 67157500, or write in to** [PA_CentralSingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)

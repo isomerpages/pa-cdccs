@@ -1,6 +1,6 @@
 ---
 title: Mind Your Health
-permalink: /programmes/Wellness-and-Sustainability/mind-your-health
+permalink: /programmes/wellness-and-sustainability/mind-your-health/
 description: ""
 third_nav_title: Wellness & Sustainability
 ---

@@ -1,6 +1,6 @@
 ---
 title: Our Mayor
-permalink: /about-us/our-mayor
+permalink: /about-us/our-mayor/
 description: ""
 ---
 ![Our Mayor](/images/About%20Us/photo-2021-04-12-17-39-57.jpg)

@@ -1,6 +1,6 @@
 ---
 title: CDC Vouchers Scheme
-permalink: /programmes/CDC-Vouchers-scheme/
+permalink: /programmes/cdc-vouchers-scheme/
 description: ""
 ---
 ![CDC Vouchers Scheme](/images/Programmes/img_1840.jpg)

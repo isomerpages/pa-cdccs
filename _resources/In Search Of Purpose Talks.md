@@ -1,6 +1,6 @@
 ---
 title: In Search Of Purpose Talks
-permalink: /resources/in-search-of-purpose-talks
+permalink: /resources/in-search-of-purpose-talks/
 description: ""
 ---
 ![ISOP Speakers](/images/Programmes/isop-speakers-edit.png)

@@ -1,6 +1,6 @@
 ---
 title: Temasek Trust CDC Lifelong Learning Enabling Fund
-permalink: /programmes/Socio-Emotional-Wellness/TemasekTrust-CDC-LifelongLearning-Fund/
+permalink: /programmes/socio-emotional-wellness/temasektrust-cdc-lifelonglearning-fund/
 description: ""
 third_nav_title: Socio Emotional Wellness
 ---

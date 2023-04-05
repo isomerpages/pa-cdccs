@@ -1,5 +1,5 @@
 ---
 title: Example Title
-permalink: /history-milestones
+permalink: /history-milestones/
 description: ""
 ---

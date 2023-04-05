@@ -1,6 +1,6 @@
 ---
 title: Upcoming Events
-permalink: /happenings/Upcoming-Events/upcoming-events
+permalink: /happenings/upcoming-events/upcoming-events/
 description: ""
 third_nav_title: Upcoming Events
 ---

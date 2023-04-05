@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /programmes/overview
+permalink: /programmes/overview/
 description: ""
 ---
 ![Programmes Overview](/images/Programmes/48475f80-9ab4-4767-8181-ab52e2c936f1_our-programmes-overview.jpg)

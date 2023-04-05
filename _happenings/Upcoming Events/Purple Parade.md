@@ -1,6 +1,6 @@
 ---
 title: Purple Parade
-permalink: /happenings/Upcoming-Events/Purple-Parade
+permalink: /happenings/upcoming-events/purple-parade/
 description: ""
 third_nav_title: Upcoming Events
 ---

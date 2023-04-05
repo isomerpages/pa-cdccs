@@ -1,6 +1,6 @@
 ---
 title: The Purple Parade
-permalink: /programmes/Socio-Emotional-Wellness/purple-parade/
+permalink: /programmes/socio-emotional-wellness/purple-parade/
 description: ""
 third_nav_title: Socio Emotional Wellness
 ---

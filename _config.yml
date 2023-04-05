@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://pa-cdccs-staging.netlify.app
-prod: https://pa-cdccs-prod.netlify.app
+staging: https://staging.d2vktmdc8rb4d9.amplifyapp.com/
+prod: https://master.d2vktmdc8rb4d9.amplifyapp.com/
 shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""

@@ -1,6 +1,6 @@
 ---
 title: Seed A Life Donation
-permalink: /partner-us/seed-a-life-donation
+permalink: /partner-us/seed-a-life-donation/
 description: ""
 ---
 ![Seed A Life Donation](/images/Partner%20Us/screenshot-2019-07-31-at-4-21-36-pm.png)
