@@ -15,8 +15,8 @@ In 2015, partnering with Central Singapore CDC, IAT has transformed into a wider
 
 The programme now offers more students the opportunity to discover their talents and to pursue them alongside their academic goals.
 
-**Contact us:  
-**Mr Qamar Firdaus  
+Contact us:  
+Mr Qamar Firdaus  
 Team Leader,   
 Partnerships & Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
