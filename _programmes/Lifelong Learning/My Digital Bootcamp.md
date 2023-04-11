@@ -6,9 +6,6 @@ third_nav_title: Lifelong Learning
 ---
 ![My Digital Bootcamp](/images/Programmes/mydigitalbootcamp.jpg)
 
-
-**WHAT IS MY DIGITAL BOOTCAMP (SEASON 3) AND HOW IS IT CONDUCTED?**
-
 My Digital Bootcamp is an experiential and hands-on day camp that equips children with digital-
 making skills and allows children to understand the current digital landscape.
 
