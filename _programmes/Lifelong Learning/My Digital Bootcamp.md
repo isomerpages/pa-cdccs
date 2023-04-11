@@ -22,8 +22,8 @@ complements the long-term national SkillsFuture efforts: to give Singaporeans fr
 opportunity to develop skills relevant to the future.
 
 
-**Contact us:  
-**Mr Qamar Firdaus  
+Contact us:  
+Mr Qamar Firdaus  
 Team Leader,   
 Partnerships & Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
