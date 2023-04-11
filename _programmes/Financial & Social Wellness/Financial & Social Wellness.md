@@ -1,8 +1,8 @@
 ---
-title: Financial &amp; Social Wellness
+title: Financial & Social Wellness
 permalink: /programmes/financial-and-social-wellness/financial-socialwellness/
 description: ""
-third_nav_title: Financial &amp; Social Wellness
+third_nav_title: Financial & Social Wellness
 ---
 At Central Singapore CDC, we offer support for the lower-income and lower-skilled through various programmes and initiatives.
 
