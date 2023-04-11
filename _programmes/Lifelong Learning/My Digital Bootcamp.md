@@ -4,8 +4,7 @@ permalink: /programmes/lifelong-learning/mydigitalbootcamp/
 description: ""
 third_nav_title: Lifelong Learning
 ---
-
-
+![My Digital Bootcamp](/images/Programmes/MyDigitalBootcamp.jpg)
 
 
 **WHAT IS MY DIGITAL BOOTCAMP (SEASON 3) AND HOW IS IT CONDUCTED?**
