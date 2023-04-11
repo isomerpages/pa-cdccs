@@ -7,4 +7,4 @@ description: ""
 
 The Central Singapore District is made up of Ang Mo Kio, Bishan-Toa Payoh, Jalan Besar, and Tanjong Pagar Group Representation Constituencies (GRCs), along with Kebun Baru, Marymount, Potong Pasir, Radin Mas, and Yio Chu Kang Single Member Constituencies (SMCs).
 
-Not sure which district you reside in? Locate your district [here](gowhere.gov.sg/cdc).
+Not sure which district you reside in? Locate your district [here](https://www.gowhere.gov.sg/cdc).
