@@ -31,3 +31,16 @@ A programme that allows secondary school students to explore other areas of inte
 		</td>
 	</tr>
 </tbody></table>
+
+<table border="0" width="100%">
+	<tbody><tr>
+		<td width="50%">
+			<img src="/images/Programmes/mydigitalbootcamp.jpg">
+		</td>
+		<td width="50%">
+			<a href="/programmes/lifelong-learning/mydigitalbootcamp/"><b>My Digital Bootcamp</b></a><br>
+An experiential and hands-on day camp that equips children with digital- making skills and allows children to understand the current digital landscape.
+			<br><br><a href="/programmes/lifelong-learning/mydigitalbootcamp/">Find out more &gt;</a>
+		</td>
+	</tr>
+</tbody></table>
