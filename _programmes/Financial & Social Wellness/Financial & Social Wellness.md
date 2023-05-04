@@ -45,7 +45,7 @@ An initiative to help low-income students purchase back-to-school necessities wi
 			<img src="/images/Programmes/7230e959-c572-483d-b4e6-6b908cc40637_cashup-family-savers.jpg">
 		</td>
 		<td width="50%">
-			<a href="/programmes/financial-and-social-wellness/cashup-famil-savers"><b>CashUP Family Savers</b></a><br>
+			<a href="/programmes/financial-and-social-wellness/cashup-famil-savers"><b>CashUP Plus</b></a><br>
 A financial literacy programme to help low-income families start a regular savings habit.
 			<br><br><a href="/programmes/financial-and-social-wellness/cashup-famil-savers">Find out more &gt;</a>
 		</td>
