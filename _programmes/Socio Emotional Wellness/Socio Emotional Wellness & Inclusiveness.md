@@ -77,9 +77,9 @@ An initiative that brings individuals with and without special needs together th
 			<img src="/images/Programmes/solemates.jpg">
 		</td>
 		<td width="50%">
-			<a href="/programmes/socio-emotional-wellness/sole-mates"><b>Soles Mates</b></a><br>
+			<a href="/programmes/socio-emotional-wellness/permalink"><b>Soles Mates</b></a><br>
 Soles Mates is a grant programme that empowers volunteers and groups to engage Persons with Disabilities (PWDs) to keep fit through regular exercise and physical activities such as races and competitions. 
-			<br><br><a href="/programmes/Socio-Emotional-Wellness/sole-mates">Find out more &gt;</a>
+			<br><br><a href="/programmes/Socio-Emotional-Wellness/permalink">Find out more &gt;</a>
 		</td>
 	</tr>
 </tbody></table>
