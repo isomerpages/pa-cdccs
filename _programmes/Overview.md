@@ -3,7 +3,7 @@ title: Overview
 permalink: /programmes/overview/
 description: ""
 ---
-![Programmes Overview](/images/Programmes/48475f80-9ab4-4767-8181-ab52e2c936f1_our-programmes-overview.jpg)
+![Better_Life_Model](/images/About%20Us/BetterLifeModel.png)
 
 Central Singapore CDC develops and runs programmes that reach out to all residents, not just the lower income, by focusing on the following five pillars:
 
