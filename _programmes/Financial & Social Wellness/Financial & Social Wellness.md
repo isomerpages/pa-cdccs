@@ -6,13 +6,6 @@ third_nav_title: Financial & Social Wellness
 ---
 At Central Singapore CDC, we offer support for the lower-income and lower-skilled through various programmes and initiatives.
 
-[Kong Meng San-CDC COVID-19 Relief Fund
-](/programmes/Financial-and-Social-Wellness/KongMengSan-CDC-COVID19-relieffund)
-
-A fund to support more Singaporeans households affected due to loss of jobs, retrenchment or income loss\* as a result of the COVID-19 pandemic.
-
-[Find out more &gt;](/programmes/financial-and-social-wellness/kongmengsan-cdc-covid19-relieffund)
-
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
