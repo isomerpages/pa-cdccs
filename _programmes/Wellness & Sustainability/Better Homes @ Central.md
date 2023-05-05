@@ -1,12 +1,12 @@
 ---
 title: Better Homes @ Central
-permalink: /programmes/wellness-and-sustainability/permalink/
+permalink: /programmes/wellness-and-sustainability/better-homes/
 description: ""
 third_nav_title: Wellness & Sustainability
 ---
 Better Homes @ Central is an initiative to provide youths living in rental flats with a better living and learning environment.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ab3xX-3PEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ab3xX-3PEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 The programme is designed to provide one-off home refurbishment to support families with children staying in public rental flats within Central district. 
 
@@ -26,5 +26,5 @@ Interested organisations may contact the CDC to help refurbish our families’ h
 **Contact us**:  
 Ms Felicia Liu  
 Team Leader,  
-Partnerships & Programmes  
+Partnerships &amp; Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)

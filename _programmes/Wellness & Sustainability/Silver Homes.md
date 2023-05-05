@@ -6,7 +6,7 @@ third_nav_title: Wellness & Sustainability
 ---
 ![Silver Homes](/images/Programmes/8baa7641-2a07-4597-b138-1dfcd9877b00_silver-homes.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXKH6ov-BHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXKH6ov-BHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Silver Homes is a volunteer-driven initiative to create healthy, safe and clean living environments for underprivileged seniors. We hope to improve the mental and physical well-being of seniors through home improvement initiatives such as:
 
@@ -21,5 +21,5 @@ Interested organisations or volunteer groups with at least 25 volunteers aged 16
 **Contact us**:  
 Ms Sheryl Teo  
 Manager,  
-Partnerships & Programmes  
+Partnerships &amp; Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)

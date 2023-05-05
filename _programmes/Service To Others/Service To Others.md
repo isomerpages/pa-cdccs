@@ -9,19 +9,6 @@ At Central Singapore, we hope to inculcate a spirit of volunteerism in the commu
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
-			<img src="/images/Programmes/temasek-fund-a4-021221-(200ppi).jpg">
-		</td>
-		<td width="50%">
-			<a href="/programmes/Service-To-Others/TemasekTrust-CDC-LifelongLearning-Fund"><b>Temasek Trust-CDC Lifelong Learning Enabling Fund</b></a><br>
-				<b>Temasek Trust-CDC Lifelong Learning Enabling Fund</b>&nbsp;is a S$4 million community fund set up to support persons with disabilities in acquiring relevant vocational and independent living skills and emerge stronger from the pandemic..
-			<br><br><a href="https://www.sgenable.sg/your-first-stop/training-consultancy/enabling-academy/training/persons-with-disabilities/temasek-trust-cdc-lifelong-learning-enabling-fund">Find out more &gt;</a>
-		</td>
-	</tr>
-</tbody></table>
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td width="50%">
 			<img src="/images/Programmes/8baa7641-2a07-4597-b138-1dfcd9877b00_silver-homes.jpg">
 		</td>
 		<td width="50%">
