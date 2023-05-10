@@ -12,7 +12,8 @@ Voluntary Welfare Organisations with special needs beneficiaries or Grassroots O
 **Volunteer with us!**  
 Gather a group of 10 to 15 volunteers and bond over fun activities with our friends with special needs! Training sessions will be conducted for all volunteers prior to the actual outings. Funding for refreshments, transport and activities will be borne by the CDC. 
 
-**Contact us**:  
+**Contact Us:**  
 Ms Yogeswari Masilamani  
-Manager, Partnerships & Programmes  
-[pa_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
+Executive,&nbsp;  
+Partnerships &amp; Programmes  
+[pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
