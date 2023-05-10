@@ -27,7 +27,7 @@ To date, there are 10 Nurture Centres in the Central Singapore District, with mo
 Click&nbsp;[**here**](https://www-cdc-gov-sg-admin.cwp.sg/docs/librariesprovider2/documents-cscdc/resources/online-learning-resource-booklet-for-kids!-(3-12-years-old)---june-2021-edition.pdf?sfvrsn=9b2502b6_2)&nbsp;for a list of learning resources for children.  
 (Note: Information accurate as at 10 June 2021)
 
-**Contact us:**  
+**Contact Us:**  
 Mr Qamar Firdaus  
 Team Leader,&nbsp;  
 Partnerships &amp; Programmes  
