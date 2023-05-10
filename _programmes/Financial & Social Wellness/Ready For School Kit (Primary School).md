@@ -17,7 +17,7 @@ The application period for the ‘Ready for School Kit’ programme in 2021 i
 Please kindly approach the Community Club/Centre (CC) nearest to you for more information.
 
 **Contact us:**  
-Mr Wee Peng Yu  
-Team Leader,   
+Mr Timothy Wong  
+Manager,   
 Partnerships & Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
