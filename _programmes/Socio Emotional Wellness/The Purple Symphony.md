@@ -12,6 +12,8 @@ As Singapore’s first all-inclusive orchestra, The Purple Symphony creates an o
 
 The Purple Symphony debuted on 31 July 2015 at the Singapore Conference Hall with 83 pioneer members from various organisations.
 
+Watch all our past performances [here](https://www.youtube.com/playlist?list=PL6KwE0E90VnaQZ_9vCuSrZ6U6bwu0Z5rg)!
+
 To find out more about The Purple Symphony, visit&nbsp;[The Purple Symphony's Facebook Page](https://www.facebook.com/thepurplesymphony/)&nbsp;and&nbsp;[Instagram page](https://www.instagram.com/thepurplesymphony/).
 
 
