@@ -14,8 +14,8 @@ The Purple Symphony debuted on 31 July 2015 at the Singapore Conference Hall wit
 
 To find out more about The Purple Symphony, visit&nbsp;[The Purple Symphony's Facebook Page](https://www.facebook.com/thepurplesymphony/)&nbsp;and&nbsp;[Instagram page](https://www.instagram.com/thepurplesymphony/).
 
-**Join us!**
 
+**Join Us!**&nbsp;  
 Do you have a passion for music and are proficient in a musical instrument? If you are able to commit for a period of one year for both trainings and performances, we want to hear from you! Interested candidates may submit a 2-3 minute clip of your musical performance to us. Shortlisted candidates will be notified for an audition.
 
 **Contact Us:**  
