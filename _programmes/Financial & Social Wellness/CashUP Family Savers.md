@@ -19,7 +19,6 @@ Interested community partners who would like to start the programme may contact 
 **Contact us**:
 
 Mr Wee Peng Yu
-
 Team Leader,   
 Partnerships & Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
