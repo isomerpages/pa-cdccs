@@ -22,7 +22,7 @@ complements the long-term national SkillsFuture efforts: to give Singaporeans fr
 opportunity to develop skills relevant to the future.
 
 
-Contact us:  
+**Contact Us:**  
 Mr Qamar Firdaus  
 Team Leader,   
 Partnerships & Programmes  
