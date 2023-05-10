@@ -4,7 +4,7 @@ permalink: /happenings/upcoming-events/the-purple-parade/
 description: ""
 third_nav_title: Upcoming Events
 ---
-![The Purple Parade](/images/Happenings/purple-parade-happening-image3060f89554664b069faf4d3607a9ffe6.jpg)
+![](/images/Happenings/the%20purple%20parade%202022.JPG)
 
 Every year, Singaporeans gather for The Purple Parade. We come together to support inclusion and celebrate abilities of persons with special needs. As Singapore moves towards SG100, everyone have place in the Singapore story. At The Purple Parade, we reinforce the message of an inclusive Singapore for everyone.
 
