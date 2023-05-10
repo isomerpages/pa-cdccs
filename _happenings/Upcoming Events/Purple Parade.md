@@ -9,4 +9,5 @@ third_nav_title: Upcoming Events
 Every year, Singaporeans gather for The Purple Parade. We come together to support inclusion and celebrate abilities of persons with special needs. As Singapore moves towards SG100, everyone have place in the Singapore story. At The Purple Parade, we reinforce the message of an inclusive Singapore for everyone.
 
 Thank you for Supporting Inclusion and Celebrating Abilities with us in 2022!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VlPaTABSmEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f5RYHmoy8JE" height="315" width="560"></iframe>
