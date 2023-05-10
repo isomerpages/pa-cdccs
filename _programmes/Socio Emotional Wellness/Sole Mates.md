@@ -13,7 +13,7 @@ Through Sole Mates, PWDs are given an opportunity to not only pursue an active l
 
 This programme also enables Social Service Agencies (SSAs) in the disability sector and groups to expand their outreach, connect and build new partnerships.
 
-**Contact us**:  
+**Contact us**:
 Ms Charmaine Phua  
 Manager,
 Partnerships & Programmes
