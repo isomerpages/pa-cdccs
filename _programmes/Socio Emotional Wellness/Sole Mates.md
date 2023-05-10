@@ -15,5 +15,6 @@ This programme also enables Social Service Agencies (SSAs) in the disability sec
 
 **Contact us**:  
 Ms Charmaine Phua  
-Manager (Partnerships & Programmes)  
+Manager,
+Partnerships & Programmes
 [pa_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
