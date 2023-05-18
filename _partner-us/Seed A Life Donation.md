@@ -9,9 +9,5 @@ Do good by donating to Central Singapore CDC's Donation Programme.
 Monthly, yearly or one-off donations are welcome, and tax exemptions are provided.  
 Do your part and help change the lives of our beneficiaries.  
   
-To donate, fill in the [DONATION FORM](/files/Programmes/seedalife-03%20(small).pdf) and mail it to the following address:  
-Central Singapore CDC  
-HDB Hub BizThree  
-490 Lorong 6 Toa Payoh  
-#07-12  
-Singapore 310490
+To donate, fill in the [DONATION FORM](https://form.gov.sg/619b71c89b454c001570dd4e) or scan the QR code below.
+![](/images/Partner%20Us/seed%20a%20life%20-%20qr.png)

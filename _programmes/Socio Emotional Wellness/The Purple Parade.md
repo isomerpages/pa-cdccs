@@ -11,22 +11,23 @@ The Purple Parade is Singapore’s largest annual gathering that seeks to advoca
 *   **Carnival**: A carnival comprising booths by participating organisations from the public and private sectors, to raise funds for organisations in the Disability sector.
 *   **Contingent**: A march-past of various contingent groups from the public and private sector, decked out in unique costumes and props, to show their support for the movement.
 *   **Concert**: An all-inclusive concert showcasing the talents of performers with and without Disabilities. Performing groups include representatives from various organisations in the Disability sector, as well as the 3Ps (People, Public, Private).
-*   **Conversations:** A human library for people to gain a deeper understanding of the Disability community through sharing of personal stories. 
+*   **Conversations:**&nbsp;A human library for people to gain a deeper understanding of the Disability community through sharing of personal stories.&nbsp;
 
 The first Purple Parade was held at Hong Lim Park in 2013. The Parade consists of participating groups and individuals, representing a community of like-minded organisations such as Voluntary Welfare Organisations, schools, social enterprises, government agencies and corporations. They are all united by a common belief that People with Disabilities have abilities and are able to contribute to society.
 
 We celebrated our 10th Anniversary in 2022! For this momentous milestone, we had a 10-week celebration and the return of a physical parade at Suntec City. Over 10,000 participants took part in the massive event, with 200 organisations, 5000 contingent paraders and garnering over 80,000 online engagements. Relive the magic of our 10th Anniversary in the video below!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f5RYHmoy8JE?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f5RYHmoy8JE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-To find out more about The Purple Parade, visit [The Purple Parade's website](https://www.purpleparade.sg/), [Facebook page](https://www.facebook.com/purpleparade) and [Instagram page](https://www.instagram.com/purpleparade/).
+To find out more about The Purple Parade, visit&nbsp;[The Purple Parade's website](https://www.purpleparade.sg/),&nbsp;[Facebook page](https://www.facebook.com/purpleparade)&nbsp;and&nbsp;[Instagram page](https://www.instagram.com/purpleparade/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_k8pGRFKC5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_k8pGRFKC5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Volunteer with us!**  
 Join us as a volunteer for the pre-event Campaign, or sign-up with your organisation to show your support for PWDs as part of the Contingent or Carnival. Individual or group performers with and without Disabilities may indicate your interest to participate in the inclusive Concert.
 
-**Contact us**:  
+**Contact Us:**  
 Ms Charmaine Phua  
-Manager (Partnerships & Programmes)  
-[pa_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
+Manager,&nbsp;  
+Partnerships &amp; Programmes  
+[pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)

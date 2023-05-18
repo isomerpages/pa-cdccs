@@ -12,20 +12,20 @@ As Singapore’s first all-inclusive orchestra, The Purple Symphony creates an o
 
 The Purple Symphony debuted on 31 July 2015 at the Singapore Conference Hall with 83 pioneer members from various organisations.
 
-To find out more about The Purple Symphony, visit [The Purple Symphony's Facebook Page](https://www.facebook.com/thepurplesymphony/) and [Instagram page](https://www.instagram.com/thepurplesymphony/).
+Watch all our past performances [here](https://www.youtube.com/playlist?list=PL6KwE0E90VnaQZ_9vCuSrZ6U6bwu0Z5rg)!
 
-**Join us!**
+To find out more about The Purple Symphony, visit&nbsp;[The Purple Symphony's Facebook Page](https://www.facebook.com/thepurplesymphony/)&nbsp;and&nbsp;[Instagram page](https://www.instagram.com/thepurplesymphony/).
 
+
+**Join Us!**&nbsp;  
 Do you have a passion for music and are proficient in a musical instrument? If you are able to commit for a period of one year for both trainings and performances, we want to hear from you! Interested candidates may submit a 2-3 minute clip of your musical performance to us. Shortlisted candidates will be notified for an audition.
 
-**Contact us:**
+**Contact Us:**  
+Ms Yogeswari Masilamani  
+Executive,&nbsp;  
+Partnerships &amp; Programmes  
+[pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
 
-Ms Yogeswari Masilamani
-
-Executive,   
-Partnerships & Programmes
-
-[pa_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
 
 [The Purple Symphony Concert Booklet 2019](https://go.gov.sg/tps)
 
