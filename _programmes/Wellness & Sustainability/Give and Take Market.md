@@ -16,7 +16,7 @@ The Markets are designed to offer an element of choice. Beneficiaries can 'shop'
 Organisations and individuals who wish to join the programme as givers and volunteers can approach Community Centres/Clubs within Jalan Besar GRC or Central Singapore CDC. 
 
 **Contact us**:  
-Ms Tan Hui Yi 
-Executive,   
-Partnerships & Programmes  
+Ms Tan Hui Yi <br>
+Executive,&nbsp;  <br>
+Partnerships &amp; Programmes  <br>
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
