@@ -48,7 +48,7 @@ Singapore’s largest movement to celebrate the abilities and support the inclus
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
-			<img src="/images/Programmes/5c2d0c2b-7e49-4877-9f6c-54aacd57718a_wecare-art-fund-main-pic.jpg">
+			<img src="/images/Programmes/wecare-art-fund-main-pic.jpg">
 		</td>
 		<td width="50%">
 			<a href="/programmes/socio-emotional-wellness/wecare-arts-fund"><b>WeCare Arts Fund</b></a><br>
