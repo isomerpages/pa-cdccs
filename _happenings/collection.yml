@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - Upcoming Events/Skills For Good Festival 2023.md
       - Upcoming Events/.keep
       - Upcoming Events/Upcoming Events.md
       - Upcoming Events/SkillsFuture.md
