@@ -6,7 +6,10 @@ third_nav_title: Upcoming Events
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TgVlP_QS5bI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**SkillsFuture Advice workshop**&nbsp;is a 90 minutes workshop that empowers you to take charge of your skills upgrading and career development. We have specially curated content, resources and tools that help you to navigate the skill-based economy.&nbsp;
+
+Insert KV
+	
+**SkillsFuture For Good Festival 2023**&nbsp; xxxx
 
 Details of Event
 --------------------
@@ -22,10 +25,10 @@ Details of Event
 Learning Journeys
 --------------------
 
-**Participants will leave from the event venue on Sat, 29 July 2023 for the Learning Journeys  
-(Pre-registration required here, click XXX for more information)**
+**Participants will leave from the event venue on Sat, 29 July 2023 for the Learning Journeys  (Pre-registration required here, click XXX for more information)**&nbsp;
 
-**1) Gain Exclusive Experience Of Shore-To-Ship Drone Operations And Learn About Singapore’s Rich Maritime Heritage! with Skyports Drone Operations **
+
+**1) Gain Exclusive Experience Of Shore-To-Ship Drone Operations And Learn About Singapore’s Rich Maritime Heritage with Skyports Drone Operations** &nbsp;
 
 Get exclusive insights into the operations at Maritime Drone Estate, witness a live flight out to sea. You will also get to speak with drone pilots about their work and what it takes to be part of this growing industry.&nbsp;
 
