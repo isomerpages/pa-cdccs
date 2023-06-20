@@ -48,29 +48,39 @@ XXXXX&nbsp;
 On-site Activities
 --------------------
 
-1.  **Learn The Repair Spirit And Contribute To Sustainable Living By Sustainable Living Lab**
-The on-site “repair gurus” will teach you how to change a 3-pin plug. You will also get to learn how to stitch using basic sewing techniques, and use various glues for diverse materials.&nbsp;
+1.  **Learn The Repair Spirit And Contribute To Sustainable Living By Sustainable Living Lab** &nbsp;
 
-2.  **Experience Care-Giving For A Bedridden Patient By Centre For Seniors &amp; NTUC Learning Hub**
-Learn how to take care of a bedridden patient – try your hand at diaper changing and body wipe.&nbsp;
+The on-site “repair gurus” will teach you how to change a 3-pin plug. You will also get to learn how to stitch using basic sewing techniques, and use various glues for diverse materials. &nbsp;
 
+2.  **Experience Care-Giving For A Bedridden Patient By Centre For Seniors &amp; NTUC Learning Hub** &nbsp;
 
-3.  **Try Your Hand At 3D Printing Simulation By Nanyang Polytechnic**
-See a live demonstration of how a 3D machine does it magic to produce 3D figurines!&nbsp;&nbsp;
+Learn how to take care of a bedridden patient – try your hand at diaper changing and body wipe. &nbsp;
 
 
-4.  **Be Amazed By How You Can DIY Your Smart Home! By Institute of Techincal Education (ITE)**  
+3.  **Try Your Hand At 3D Printing Simulation By Nanyang Polytechnic** &nbsp;
+
+
+See a live demonstration of how a 3D machine does it magic to produce 3D figurines!&nbsp;
+
+
+4.  **Be Amazed By How You Can DIY Your Smart Home! By Institute of Techincal Education (ITE)** &nbsp;
+
+
 See a DIY smart home set-up that you can replicate in your home so you never have to get out of bed to off the lights anymore! &nbsp;
 
 
 5.  **Gain Insights Into The Day Of A Drone Pilot By Skyports Drones Operations**
+
+
 Try a drone simulator and let your learning journey take flight! &nbsp;
 
 
-6.  **Understand Digital Safety By Association of Information Security Professionals (AiSP)**
-Play an exciting cyber hygiene game to learn more about online scams, malware, phishing and more!
+6.  **Understand Digital Safety By Association of Information Security Professionals (AiSP)**&nbsp;
+
+Play an exciting cyber hygiene game to learn more about online scams, malware, phishing and more! &nbsp;
 
 
-7.  **Leverage Technology To Track Your Physical Health By Lion Befrienders**
-Test your physical health at the IM-OK machine to see if you are ok!
+7.  **Leverage Technology To Track Your Physical Health By Lion Befrienders**&nbsp;
 
+
+Test your physical health at the IM-OK machine to see if you are ok! &nbsp;
