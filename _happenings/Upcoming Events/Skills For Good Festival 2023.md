@@ -31,7 +31,7 @@ Get exclusive insights into the operations at Maritime Drone Estate and witness 
 
 **2)  Visit A Sustainable Pacific Aquaculture Crab Farm with Pacific Aquaculture**
 
-Learn how this indoor farm uses technology to save water and operation costs, and recreate the natural habit of crabs to produce high quality food with minimum resources – You will also get to purchase some live crabs!
+Learn how this indoor farm uses technology to save water and operation costs, and recreate the natural habit of crabs to produce high quality food with minimum resources – You will also get to purchase some live crabs! 
 
 
 **3) Understand How Trash Affects Singapore And Participate In A Beach Clean-Up with SG Beach Warriors**
@@ -48,7 +48,7 @@ On-site Activities
 
 **1) Learn The Repair Spirit And Contribute To Sustainable Living By Sustainable Living Lab** 
 
-“Repair gurus” will teach you basic sewing techniques, changing a 3-pin plug, and even using the right glue for different materials. 
+“Repair gurus” will teach you how to give a second lease of life to common household items: Basic sewing techniques, changing a 3-pin plug, and even identifying the right kind of glue for different materials. 
 
 
 **2) Experience Care-Giving For A Bedridden Patient By Centre For Seniors &amp; NTUC Learning Hub**
