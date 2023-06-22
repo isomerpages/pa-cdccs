@@ -61,7 +61,7 @@ Learn how to take care of a bedridden patient and try your hand at diaper changi
 Catch a live 3D printer demonstration and understand the process behind producing 3D figurines! 
 
 
-**4) Be Amazed By How You Can DIY Your Smart Home! By Institute of Techincal Education (ITE)** 
+**4) Be Amazed By How You Can DIY Your Smart Home By Institute of Techincal Education (ITE)** 
 
 Get inspired by a DIY smart home set-up that you can replicate in your home so you never have to get out of bed to turn off the lights! 
 
