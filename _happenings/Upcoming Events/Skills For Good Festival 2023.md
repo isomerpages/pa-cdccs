@@ -19,7 +19,6 @@ Skills For Good Festival 2023 Event Details
 • **Time:**&nbsp;10am-8pm
 
 • **Venue:**&nbsp;Bishan Junction 8 Atrium
-&nbsp;
 
 
 Learning Journeys
@@ -38,6 +37,10 @@ Learn how this indoor farm uses technology to save water and operation costs, an
 **3) Understand How Trash Affects Singapore And Participate In A Beach Clean-Up with SG Beach Warriors**
 
 Gain awareness on water pollution and how it affects marine organisms and eco-lifestyle.  You will participate in collection of data on trash and understand how it affects our environment.
+
+**4) Embark On a Learning Marathon on Our Water and The Environment with Public Utilities Board (PUB)**
+
+Visit the NEWater Visitor Centre, Marina Barrage and the Sustainable Singapore Gallery to learn about the water purification technologies. Hear the Singapore Water Story and understand the importance of water conservation. 
 
 
 On-site Activities
