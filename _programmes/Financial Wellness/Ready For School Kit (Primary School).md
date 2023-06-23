@@ -10,12 +10,6 @@ The Ready for School Kit supports low-income families with school-going children
 
 Each eligible primary school student will receive $100 worth of vouchers for school essentials.
 
-Dear residents,  
-  
-Thank you for your interest in Central Singapore CDC’s ‘Ready for School Kit’ programme.  
-The application period for the ‘Ready for School Kit’ programme in 2021 is open.  
-Please kindly approach the Community Club/Centre (CC) nearest to you for more information.
-
 **Contact us:**  
 Mr Timothy Wong  
 Manager,   
