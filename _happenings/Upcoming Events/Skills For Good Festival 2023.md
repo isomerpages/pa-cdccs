@@ -29,25 +29,30 @@ Learning Journeys
 **1) Gain Exclusive Insights Into Shore-To-Ship Drone Operations And Singapore’s Rich Maritime Heritage!**
     
 
-*Skyports Drone Operations and Maritime & Port Authority of Singapore *
+*Skyports Drone Operations and Maritime & Port Authority of Singapore*
   
 
 Get exclusive access to the Maritime Drone Estate and witness a live commercial drone flight out to sea. Speak with drone pilots about their work and what it takes to be part of this growing industry. Complete your journey with a visit to the Singapore Maritime Gallery and engage in a dialogue on maritime career with an industry representative.
 
 
+**2) Visit A Sustainable Crab Farm**
 
-**2)  Visit A Sustainable Pacific Aquaculture Crab Farm with Pacific Aquaculture**
+*Pacific Aquaculture*
 
-Learn how this indoor farm uses technology to save water and operation costs, and recreate the natural habit of crabs to produce high quality food with minimum resources – You will also get to purchase some live crabs! 
+Learn how this indoor farm uses intricate technology to recreate the natural habitat of crabs. Find out about the Recirculating Aquatic System and how it helps to reduce water usage. You will also have the opportunity to purchase some live crabs home!
 
 
-**3) Understand How Trash Affects Singapore And Participate In A Beach Clean-Up with SG Beach Warriors**
+**3) Understand How Trash Affects Singapore Through A Beach Clean-Up!**
 
-Gain awareness on water pollution and how it affects marine organisms and eco-lifestyle.  You will participate in collection of data on trash and understand how it affects our environment.
+*SG Beach Warriors*
 
-**4) Embark On a Learning Marathon on Our Water and The Environment with Public Utilities Board (PUB)**
+Gain awareness on water pollution and how it affects marine organisms and eco-lifestyle. You will get to participate in data collection on trash and understand how it affects our environment.
 
-Visit the NEWater Visitor Centre, Marina Barrage and the Sustainable Singapore Gallery to learn about the water purification technologies. Hear the Singapore Water Story and understand the importance of water conservation. 
+**4) Embark On A Learning Marathon On Our Water And The Environment!**
+
+*Public Utilities Board*
+
+Visit the NEWater Visitor Centre, Marina Barrage, and the Sustainable Singapore Gallery to learn about water purification technologies. Hear the Singapore Water Story and understand the importance of water conservation.
 
 
 On-site Activities
