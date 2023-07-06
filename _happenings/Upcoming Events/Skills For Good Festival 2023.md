@@ -16,17 +16,24 @@ Skills For Good Festival 2023 Event Details
 
 •  **Date:**&nbsp;Friday – Saturday,  28 - 29 July 2023
 
-• **Time:**&nbsp;10am-8pm
+• **Time:**&nbsp;10am - 8pm
 
-• **Venue:**&nbsp;Bishan Junction 8 Atrium
+• **Venue:**&nbsp;Bishan Junction 8 Atrium, Level 2
 
 
 Learning Journeys
 --------------------
+**Participants will leave from the event venue (Junction 8) for the Learning Journeys.  
+(Pre-registration required here, visit [https://go.gov.sg/sfg23-reg](https://go.gov.sg/sfg23-reg) for more information.)**
 
-**1) Gain Exclusive Experience Of Shore-To-Ship Drone Operations And Learn About Singapore’s Rich Maritime Heritage with Skyports Drone Operations** 
+**1) Gain Exclusive Insights Into Shore-To-Ship Drone Operations And Singapore’s Rich Maritime Heritage!**
+    
 
-Get exclusive insights into the operations at Maritime Drone Estate and witness a live flight out to sea. You will also get to speak with drone pilots about their work and what it takes to be part of this growing industry.
+*Skyports Drone Operations and Maritime & Port Authority of Singapore *
+  
+
+Get exclusive access to the Maritime Drone Estate and witness a live commercial drone flight out to sea. Speak with drone pilots about their work and what it takes to be part of this growing industry. Complete your journey with a visit to the Singapore Maritime Gallery and engage in a dialogue on maritime career with an industry representative.
+
 
 
 **2)  Visit A Sustainable Pacific Aquaculture Crab Farm with Pacific Aquaculture**
