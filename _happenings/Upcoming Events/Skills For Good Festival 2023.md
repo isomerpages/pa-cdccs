@@ -60,7 +60,7 @@ On-site Activities
 
 **1) Cultivate Repair Habits And Contribute To Sustainable Living** 
 
-*Sustainable Living Lab*
+*Sustainable Living Lab* 
 
 The on-site “repair gurus” will teach you how to change a 3-pin plug. You will also get to learn how to stitch using basic sewing techniques. These essential home repair and maintenance skills will help you save money and save the earth at the same time!. 
 
