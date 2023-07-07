@@ -148,7 +148,7 @@ Put on the VR googles to understand how a person living with dementia reacts and
 
 29 July 2023
 
-Test your brain power with interactive games. Learn how these brain processes can help unlock potential individuals with learning disabilities.
+Test your brain power with interactive games. Learn how these brain processes can help unlock potential in individuals with learning disabilities.
 
 **14) Skills and Training Ambassadors**
 
