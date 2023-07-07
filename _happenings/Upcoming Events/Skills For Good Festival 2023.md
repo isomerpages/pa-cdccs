@@ -148,7 +148,7 @@ Put on the VR googles to understand how a person living with dementia reacts and
 
 29 July 2023
 
-Play interactive games to stimulate the brain. Learn how this helps people with disabilities improve their thinking and self-control.
+Test your brain power with interactive games. Learn how these brain processes can help unlock potential individuals with learning disabilities.
 
 **14) Skills and Training Ambassadors**
 
