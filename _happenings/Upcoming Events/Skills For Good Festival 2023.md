@@ -4,7 +4,7 @@ permalink: /happenings/upcoming-events/sfg23/
 description: ""
 third_nav_title: Upcoming Events
 ---
-![](/images/Happenings/sfg23a4.jpg)
+![](/images/Happenings/Skills%20For%20Good%20Festival%202023/sfg2023poster.jpg)
 
 Organised by Central Singapore Community Development Council, the **Skills for Good Festival 2023** aims to promote skills for the good of **Self**, **Community** and for **Life**. 
 
