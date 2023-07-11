@@ -8,7 +8,7 @@ third_nav_title: Upcoming Events
 
 Organised by Central Singapore Community Development Council, the **Skills for Good Festival 2023** aims to promote skills for the good of **Self**, **Community** and for **Life**. 
 
-This year’s edition will feature new learning journeys where participants go on learning field trips across Singapore to learn firsthand from industry experts about trends, jobs and skills in Singapore’s key growth areas – the **Digital, Green and Care economies**.
+This year’s edition will feature new learning journeys where participants go on learning field trips across Singapore to learn firsthand from industry experts about trends, jobs and skills in Singapore’s key growth areas – the **Green, Digital and Care economies**.
 
 
 Skills For Good Festival 2023 Event Details
@@ -56,7 +56,7 @@ On-site Activities
 **Cultivate Repair Habits And Contribute To Sustainable Living** 
 *Sustainable Living Lab* 
 
-The on-site “repair gurus” will teach you how to change a 3-pin plug. You will also get to learn how to stitch using basic sewing techniques. These essential home repair and maintenance skills will help you save money and save the earth at the same time!. 
+The on-site “repair gurus” will teach you how to change a 3-pin plug. You will also get to learn how to stitch using basic sewing techniques. These essential home repair and maintenance skills will help you save money and save the earth at the same time! 
 
 
 **Reduce Food Waste with Innovative Recipes**
@@ -125,11 +125,9 @@ Learn how to pick the right food to increase your nutrition intake! Improve your
 *National Council of Social Service*
 
 **28 July 2023**
-
 Put on the VR googles to understand how a person living with dementia reacts and thinks in different environments. Acquire knowledge about how you can support them.
 
 **29 July 2023**
-
 Test your brain power with interactive games. Learn how these brain processes can help unlock potential in individuals with learning disabilities.
 
 **Skills and Training Ambassadors**
