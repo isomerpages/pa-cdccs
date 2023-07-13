@@ -1,0 +1,5 @@
+collections:
+  old-pages:
+    output: true
+    order:
+      - EcoKnight SG.md

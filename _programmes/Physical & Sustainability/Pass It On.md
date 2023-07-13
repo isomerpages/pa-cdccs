@@ -2,10 +2,9 @@
 title: Pass It On
 permalink: /programmes/wellness-and-sustainability/pass-it-on/
 description: ""
-third_nav_title: Wellness & Sustainability
+third_nav_title: Physical & Sustainability
 ---
-
-![](/images/Programmes/pass-it-on.jpg)
+![](/images/Programmes/Pass%20It%20On/pass-it-on-2023.jpg)
 Non-profit organisations and community partners can request for used household appliances and furniture for their needy clients; residents can also share and donate their pre-loved items through the online portal ([www.passiton.org.sg](http://www.passiton.org.sg/)).  
   
 How it works:
@@ -13,8 +12,8 @@ How it works:
 1.  Register as a donor or user on the Pass-It-On&nbsp;[website](http://www.passiton.org.sg/).
 2.  Complete the donation form with details of the items you would like to give away.
 3.  Provide your contact details along with a brief description and photos of the items for donation.
-4.  Indicate if you would like The Helping Hand to collect the items from your home at a nominal fee, or if you would like to deliver the items to the Voluntary Welfare Organisation directly.
-5.  Wait for a response from the Voluntary Welfare Organisations who are in need of your donated items.
+4.  Indicate if you would like The Helping Hand to collect the items from your home at a nominal fee, or if you would like to deliver the items to the Social Service Agencies directly.
+5.  Wait for a response from the Social Service Agencies who are in need of your donated items.
 
 Aside from furniture, the following home items and appliances are commonly needed:
 
@@ -25,7 +24,7 @@ Aside from furniture, the following home items and appliances are commonly neede
 *   Washing machines
 *   Thermos flasks
 
-You may also browse through a list of items requested by the Voluntary Welfare Organisations under the ‘Wish List‘ section, and choose to donate any of these items.
+You may also browse through a list of items requested by the Social Service Agencies under the ‘Wish List‘ section, and choose to donate any of these items.
 
 Please contact Mr Ryan Neo, or Ms Gina Ang for more information.
 

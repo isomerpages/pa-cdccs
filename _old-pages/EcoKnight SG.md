@@ -2,7 +2,6 @@
 title: EcoKnight SG
 permalink: /programmes/wellness-and-sustainability/ecoknight-sg/
 description: ""
-third_nav_title: Wellness & Sustainability
 ---
 ![EcoKnight SG](/images/Programmes/3c60d1bc-32a9-4010-a3e1-498f47dc5f05_6-rs.jpg)
 

@@ -2,11 +2,11 @@
 title: Mind Your Health
 permalink: /programmes/wellness-and-sustainability/mind-your-health/
 description: ""
-third_nav_title: Wellness & Sustainability
+third_nav_title: Physical & Sustainability
 ---
 ![Mind Your Health](/images/Programmes/myh-photo.jpeg)
 
-**MIND Your Health** is a series of community outreach educational talks and/or resource materials by Central Singapore CDC to promote understanding and encourage everyone to take positive action for mental wellness.
+**MIND Your Health**&nbsp;is a series of community outreach educational talks and/or resource materials by Central Singapore CDC to promote understanding and encourage everyone to take positive action for mental wellness.
 
 **SCHEDULE**
 
@@ -64,6 +64,6 @@ third_nav_title: Wellness & Sustainability
 
 **Contact us:**  
 Ms Jadee Choa  
-Manager,   
-Partnerships & Programmes  
+Manager,&nbsp;  
+Partnerships &amp; Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
