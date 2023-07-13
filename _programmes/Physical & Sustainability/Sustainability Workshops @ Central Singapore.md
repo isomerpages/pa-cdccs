@@ -6,12 +6,13 @@ third_nav_title: Physical & Sustainability
 ---
 ![Upcycling @ Central Singapore](/images/Programmes/330.jpg)
 
-Upcycling @ Central Singapore aims to encourage residents to move towards a ZERO-WASTE lifestyle by repurposing their unwanted items into useful products through the following programmes:
+Sustainability Workshops @ Central Singapore encourages the act of upcycling, which is the conversion unwanted items into something useful. 
 
-
-**Project Upcycle**
-![Project Upcycle](/images/Programmes/f00fe9b0-381c-46da-b11d-aefa23c6c223_image3.jpg)
-Project Upcycle is one of the zero waste initiatives by Central Singapore CDC to create awareness and encourage the act of upcycling amongst residents. Conducted by experienced “upcyclers”, the programme brings hands-on upcycling workshops to the heartlands, schools, community events and spaces to encourage residents to repurpose used items into something new and useful.  
+Our Sustainability Workshops aims to:
+* Teach participants how to repurpose items into something useful in accordance to the ‘Lifestyle’ theme – upcycled products which are functional and practical to be used in one’s daily lifestyle.
+* Raise awareness on the environmental consequences of waste and consumerism
+* Encourage a zero-waste lifestyle
+* Create better environmental value
   
 
 **Contact Us**  
