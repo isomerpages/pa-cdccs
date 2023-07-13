@@ -6,9 +6,7 @@ third_nav_title: Physical & Sustainability
 ---
 ![Silver Homes](/images/Programmes/silver-homes.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXKH6ov-BHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-Silver Homes is a volunteer-driven initiative to create healthy, safe and clean living environments for underprivileged seniors. We hope to improve the mental and physical well-being of seniors through home improvement initiatives such as:
+Silver Homes is a volunteer-driven initiative to create healthy, safe and clean living environments for disadvantaged seniors. We hope to improve the mental and physical well-being of seniors through home improvement initiatives such as:
 
 *   Spring cleaning
 *   Painting
