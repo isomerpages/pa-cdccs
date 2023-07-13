@@ -38,9 +38,9 @@ Pass-It-On is one of Central Singapore CDC’s green initiatives towards a zero-
 			<img src="/images/Programmes/GiveAndTakeMarket.jpg">
 		</td>
 		<td width="50%">
-			<a href="/programmes/wellness-and-sustainability/pass-it-on"><b>Give and Take Market</b></a><br>
+			<a href="/programmes/wellness-and-sustainability/permalink/give-and-take-market"><b>Give and Take Market</b></a><br>
 Give and Take Market is a programme by Jalan Besar GRC and Central Singapore CDC to promote the spirit of giving and assist families in need. It aims to lighten the cost of living for lower-income families with children living in rental flats in Jalan Besar. 
-			<br><a href="/programmes/Wellness-and-Sustainability/Give-and-Take-Market">Find out more &gt;</a>
+			<br><a href="/programmes/wellness-and-sustainability/permalink/give-and-take-market">Find out more &gt;</a>
 		</td>
 	</tr>
 </tbody></table>
@@ -51,8 +51,8 @@ Give and Take Market is a programme by Jalan Besar GRC and Central Singapore CDC
 			<img src="/images/Programmes/BetterHomes.png">
 		</td>
 		<td width="50%">
-			<a href="/programmes/wellness-and-sustainability/better-homes"><b>Better Homes @ Central</b></a><br>
-Better Homes @ Central is an initiative to provide youths living in rental flats with a better living and learning environment.
+			<a href="/programmes/wellness-and-sustainability/better-homes"><b>Better Homes @ Central Singapore</b></a><br>
+Better Homes @ Central Singapore is an initiative to provide families with school-going children and youths with a better living and learning environment.
 			<br><a href="/programmes/wellness-and-sustainability/better-homes">Find out more &gt;</a>
 		</td>
 	</tr>
