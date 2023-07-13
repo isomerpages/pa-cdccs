@@ -4,7 +4,7 @@ permalink: /programmes/wellness-and-sustainability/pass-it-on/
 description: ""
 third_nav_title: Physical & Sustainability
 ---
-![](/images/Programmes/pass-it-on.jpg)
+![](/images/Programmes/Pass%20It%20On/pass-it-on-2023.jpg)
 Non-profit organisations and community partners can request for used household appliances and furniture for their needy clients; residents can also share and donate their pre-loved items through the online portal ([www.passiton.org.sg](http://www.passiton.org.sg/)).  
   
 How it works:
