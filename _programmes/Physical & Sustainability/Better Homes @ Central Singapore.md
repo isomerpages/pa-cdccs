@@ -4,7 +4,7 @@ permalink: /programmes/wellness-and-sustainability/better-homes/
 description: ""
 third_nav_title: Physical & Sustainability
 ---
-Better Homes @ Central is an initiative to provide youths living in rental flats with a better living and learning environment.
+Better Homes @ Central Singapore is an initiative to provide families with school-going children and youths with a better living and learning environment.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ab3xX-3PEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
