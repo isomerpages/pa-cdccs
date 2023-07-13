@@ -35,7 +35,7 @@ Pass-It-On is one of Central Singapore CDC’s green initiatives towards a zero-
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
-			<img src="/images/Programmes/GiveAndTakeMarket.jpg">
+			<img src="/images/Programmes/Give%20&amp;%20Take%20Market/give-and-take-market-23.jpg">
 		</td>
 		<td width="50%">
 			<a href="/programmes/wellness-and-sustainability/permalink/give-and-take-market"><b>Give and Take Market</b></a><br>
