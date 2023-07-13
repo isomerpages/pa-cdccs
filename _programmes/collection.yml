@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - Overview.md
-      - Wellness & Sustainability/.keep
-      - Wellness & Sustainability/Physical Wellness & Sustainability.md
-      - Wellness & Sustainability/Better Homes @ Central.md
-      - Wellness & Sustainability/Give and Take Market.md
-      - Wellness & Sustainability/Silver Homes.md
-      - Wellness & Sustainability/Mind Your Health.md
-      - Wellness & Sustainability/EcoKnight SG.md
-      - Wellness & Sustainability/Upcycling @ Central Singapore.md
-      - Wellness & Sustainability/Pass It On.md
+      - Physical & Sustainability/.keep
+      - Physical & Sustainability/Physical Wellness & Sustainability.md
+      - Physical & Sustainability/Better Homes @ Central.md
+      - Physical & Sustainability/Give and Take Market.md
+      - Physical & Sustainability/Silver Homes.md
+      - Physical & Sustainability/Mind Your Health.md
+      - Physical & Sustainability/EcoKnight SG.md
+      - Physical & Sustainability/Upcycling @ Central Singapore.md
+      - Physical & Sustainability/Pass It On.md
       - Financial Wellness/Financial Wellness.md
       - Financial Wellness/.keep
       - Financial Wellness/Ready For School Kit (Primary School).md
