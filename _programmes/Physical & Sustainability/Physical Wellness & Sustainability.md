@@ -9,7 +9,7 @@ At Central Singapore CDC, we advocate eating well, living well, and thinking wel
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
-			<img src="/images/Programmes/silver-homes.jpg">
+			<img src="/images/Programmes/Silver%20Homes/silver%20homes%202023.jpg">
 		</td>
 		<td width="50%">
 			<a href="/programmes/wellness-and-sustainability/silver-homes"><b>Silver Homes</b></a><br>
@@ -22,7 +22,7 @@ A programme that aims to create a healthy, clean and safe homes for disadvantage
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
-			<img src="/images/Programmes/pass-it-on.jpg">
+			<img src="/images/Programmes/Pass%20It%20On/pass-it-on-2023.jpg">
 		</td>
 		<td width="50%">
 			<a href="/programmes/wellness-and-sustainability/pass-it-on"><b>Pass-It-On</b></a><br>
