@@ -13,7 +13,7 @@ At Central Singapore CDC, we advocate eating well, living well, and thinking wel
 		</td>
 		<td width="50%">
 			<a href="/programmes/wellness-and-sustainability/silver-homes"><b>Silver Homes</b></a><br>
-A programme that aims to create a healthy, clean and safe home for seniors.
+A programme that aims to create a healthy, clean and safe homes for disadvantaged seniors.
 			<br><br><a href="/programmes/wellness-and-sustainability/silver-homes">Find out more &gt;</a>
 		</td>
 	</tr>
