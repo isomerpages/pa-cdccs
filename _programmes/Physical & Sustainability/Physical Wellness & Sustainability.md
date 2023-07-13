@@ -58,28 +58,14 @@ Better Homes @ Central Singapore is an initiative to provide families with schoo
 	</tr>
 </tbody></table>
 
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td width="50%">
-			<img src="/images/Programmes/3c60d1bc-32a9-4010-a3e1-498f47dc5f05_6-rs.jpg">
-		</td>
-		<td width="50%">
-			<a href="/programmes/wellness-and-sustainability/ecoknight-sg"><b>EcoKnight SG</b></a><br>
-			<b>EcoKnight SG</b>&nbsp;is an initiative by Central Singapore Community Development Council and National Environment Agency - Central Regional Office that aims to foster a community of EcoKnight SG who cares and champions a Zero Waste environment as a way of life. The EcoKnight SG Award recognises passionate and proactive individuals who have contributed selflessly and helped to achieve a Zero Waste Singapore.
-			<br><a href="/programmes/wellness-and-sustainability/ecoknight-sg">Find out more &gt;</a>
-		</td>
-	</tr>
-</tbody></table>
-
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
 			<img src="/images/Programmes/330.jpg">
 		</td>
 		<td width="50%">
-			<a href="/programmes/wellness-and-sustainability/upcycling-central-singapore"><b>Upcycling @ Central Singapore</b></a><br>
-Upcycling @ Central Singapore aims to minimise wastage by encouraging residents to turn their unwanted items into useful products. Residents may look forward to picking up the art of upcycling and turn their trash into treasure through a series of regular upcycling workshops organised by Central Singapore CDC. Residents may also showcase and promote their creative upcycled products at the Central Singapore Market.
+			<a href="/programmes/wellness-and-sustainability/upcycling-central-singapore"><b>Sustainability Workshops @ Central Singapore</b></a><br>
+Sustainability Workshops @ Central Singapore provides a series of sustainability workshops to members of the public and community partners to promote the care for environment to Central Singapore District residents. These workshops invite the residents to rethink the concept of waste, mainly through the 6Rs (Refuse, Reduce, Reuse, Repair, Repurpose and Recycle).
 			<br><a href="/programmes/wellness-and-sustainability/upcycling-central-singapore">Find out more &gt;</a>
 		</td>
 	</tr>
