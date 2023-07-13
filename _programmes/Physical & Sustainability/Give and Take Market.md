@@ -6,8 +6,7 @@ image: /images/Programmes/GiveAndTakeMarket.jpg
 third_nav_title: Physical & Sustainability
 ---
 
-
-Give and Take Market is a programme by Jalan Besar GRC and Central Singapore CDC to promote the spirit of giving and assist families in need. It aims to lighten the cost of living for lower-income families with children living in rental flats in Jalan Besar. 
+![](/images/Programmes/Give%20&amp;%20Take%20Market/give-and-take-market-23.jpg)Give and Take Market is a programme by Jalan Besar GRC and Central Singapore CDC to promote the spirit of giving and assist families in need. It aims to lighten the cost of living for lower-income families with children living in rental flats in Jalan Besar. 
 
 The Markets are rotated on a monthly basis throughout the four divisions of Jalan Besar GRC. 
 
