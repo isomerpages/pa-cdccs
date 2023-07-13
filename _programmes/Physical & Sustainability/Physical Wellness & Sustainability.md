@@ -64,9 +64,9 @@ Better Homes @ Central Singapore is an initiative to provide families with schoo
 			<img src="/images/Programmes/330.jpg">
 		</td>
 		<td width="50%">
-			<a href="/programmes/wellness-and-sustainability/upcycling-central-singapore"><b>Sustainability Workshops @ Central Singapore</b></a><br>
+			<a href="/programmes/wellness-and-sustainability/sustainability-workshops/"><b>Sustainability Workshops @ Central Singapore</b></a><br>
 Sustainability Workshops @ Central Singapore provides a series of sustainability workshops to members of the public and community partners to promote the care for environment to Central Singapore District residents. These workshops invite the residents to rethink the concept of waste, mainly through the 6Rs (Refuse, Reduce, Reuse, Repair, Repurpose and Recycle).
-			<br><a href="/programmes/wellness-and-sustainability/upcycling-central-singapore">Find out more &gt;</a>
+			<br><a href="/programmes/wellness-and-sustainability/sustainability-workshops/">Find out more &gt;</a>
 		</td>
 	</tr>
 </tbody></table>
