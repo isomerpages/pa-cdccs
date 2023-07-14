@@ -50,6 +50,13 @@ Gain awareness on water pollution and how it affects marine organisms and eco-li
 Visit the NEWater Visitor Centre, Marina Barrage, and the Sustainable Singapore Gallery to learn about water purification technologies. Hear the Singapore Water Story and understand the importance of water conservation.
 
 
+**Learn About Sustainbility And Participate In An Upcycling Workshop** <br>
+
+*Public Utilities Board and Central Singapore Community Development Council*
+
+Visit the Sustainable Singapore Gallery to understand the different aspects of sustainability in Singapore. Learn how to reduce plastic waste by converting unwanted plastic packaging into a bucket for simple storage at home.
+
+
 On-site Activities
 --------------------
 
