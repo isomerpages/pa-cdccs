@@ -146,10 +146,10 @@ Speak with Skills Ambassadors who can help you identify the skills and training 
 
 Speak with career coaches to gain better clarity about yourself, as well as the employment and training landscape. The coaches will help you:
 
-1.  Develop greater self-awareness;&nbsp;
+1.  Develop greater self-awareness;
     
 2.  Understand your career interests and preferences;
     
-3.  Recognise your work motivations; and&nbsp;
+3.  Recognise your work motivations;
     
-4.  Assess your strengths and share tips to overcome barriers to employment.
+4.  Assess your strengths and share tips to overcome barriers to employment
