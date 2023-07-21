@@ -50,6 +50,13 @@ Gain awareness on water pollution and how it affects marine organisms and eco-li
 Visit the NEWater Visitor Centre, Marina Barrage, and the Sustainable Singapore Gallery to learn about water purification technologies. Hear the Singapore Water Story and understand the importance of water conservation.
 
 
+**Learn About Sustainbility And Participate In An Upcycling Workshop** <br>
+
+*Public Utilities Board and Central Singapore Community Development Council*
+
+Visit the Sustainable Singapore Gallery to understand the different aspects of sustainability in Singapore. Learn how to reduce plastic waste by converting unwanted plastic packaging into a bucket for simple storage at home.
+
+
 On-site Activities
 --------------------
 
@@ -139,12 +146,10 @@ Speak with Skills Ambassadors who can help you identify the skills and training 
 
 Speak with career coaches to gain better clarity about yourself, as well as the employment and training landscape. The coaches will help you:
 
-```
-1.  Develop greater self-awareness;&nbsp;
+1.  Develop greater self-awareness;
     
 2.  Understand your career interests and preferences;
     
-3.  Recognise your work motivations; and&nbsp;
+3.  Recognise your work motivations;
     
-4.  Assess your strengths and share tips to overcome barriers to employment.
-```
+4.  Assess your strengths and share tips to overcome barriers to employment
