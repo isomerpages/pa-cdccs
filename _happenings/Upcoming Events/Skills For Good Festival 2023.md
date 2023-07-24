@@ -100,7 +100,7 @@ Try a drone simulator and let your learning journey take flight! Come view the i
 
 Worried about the rising scam cases? Play a cyber hygiene game to learn more about online scams, malware and phishing. Secure your devices and online platforms with tips on creating strong passwords. Exciting prizes to be won!
     
-**Improve Your Life With Technology** <br>
+**Improve Your Life With Digital Skills And Knowledge** <br>
 *Infocomm Media Development Authority*
 
 Say goodbye to queueing at the bank! Learn how to use digital platforms and mobile applications to perform transactions. Explore online communication tools like ZOOM to connect with your friends wherever you are.
