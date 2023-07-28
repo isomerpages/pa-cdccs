@@ -20,6 +20,23 @@ Skills For Good Festival 2023 Event Details
 
 • **Venue:**&nbsp;Bishan Junction 8 Atrium, Level 2
 
+Special Segment
+--------------------
+**1. SkillsFuture Advice** <br>
+Fri, 28 July 2023 (6.30pm-7.00pm) and Sat, 29 July 2023 (6.30-7.00pm) <br>
+
+Join us to learn:
+- Latest workforce trends &amp; emerging skills
+- Tips to kickstart your learning journey
+- Useful resources for your career &amp; personal development
+
+**2. Learn the Art of Storytelling** <br>
+Fri, 28 July 2023 (5.30pm-6.00pm) <br>
+Ever heard the phrase "facts tell, while stories sell?" How do you convince someone that you’re the right candidate to hire? Join us at this workshop and discover how stories can improve your ability to convey your value to the potential employer and create a powerful impression.
+
+**3. Create a Concise and Persuasive Introduction of Yourself** <br>
+Sat, 29 July 2023 (5.30pm-6.00pm) <br>
+Learn how to tackle the question – tell me more about yourself? Craft your elevator pitch with the right structure and content to score a home run with your interviews.
 
 Learning Journeys
 --------------------
