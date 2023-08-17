@@ -11,16 +11,16 @@ Organised by Central Singapore Community Development Council, the **Skills for G
 This year’s edition will feature new learning journeys where participants go on learning field trips across Singapore to learn firsthand from industry experts about trends, jobs and skills&nbsp;in Singapore’s key growth areas – the&nbsp;**Green, Digital and Care economies**.
 
 
-Skills For Good Festival 2023 Event Details
+# Skills For Good Festival 2023 Event Details
 --------------------
 
-•  **Date:**&nbsp;Friday – Saturday,  28 - 29 July 2023
+* **Date:** Friday – Saturday,  28 - 29 July 2023
 
-• **Time:**&nbsp;10am - 8pm
+* **Time:** 10am - 8pm
+ 
+* **Venue:** Bishan Junction 8 Atrium, Level 2
 
-• **Venue:**&nbsp;Bishan Junction 8 Atrium, Level 2
-
-Special Segment
+## Special Segment
 --------------------
 **1. SkillsFuture Advice** <br>
 Fri, 28 July 2023 (6.30pm-7.00pm) and Sat, 29 July 2023 (6.30-7.00pm) <br>
@@ -38,7 +38,7 @@ Ever heard the phrase "facts tell, while stories sell?" How do you convince some
 Sat, 29 July 2023 (5.30pm-6.00pm) <br>
 Learn how to tackle the question – tell me more about yourself? Craft your elevator pitch with the right structure and content to score a home run with your interviews.
 
-Learning Journeys
+## Learning Journeys
 --------------------
 **Participants will leave from the event venue (Junction 8) for the Learning Journeys.  
 (Pre-registration required here, visit [https://go.gov.sg/sfg23-reg](https://go.gov.sg/sfg23-reg) for more information.)**
@@ -74,7 +74,7 @@ Visit the NEWater Visitor Centre, Marina Barrage, and the Sustainable Singapore 
 Visit the Sustainable Singapore Gallery to understand the different aspects of sustainability in Singapore. Learn how to reduce plastic waste by converting unwanted plastic packaging into a bucket for simple storage at home.
 
 
-On-site Activities
+## On-site Activities
 --------------------
 
 **Cultivate Repair Habits And Contribute To Sustainable Living** <br>
