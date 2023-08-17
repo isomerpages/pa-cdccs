@@ -9,11 +9,11 @@ Non-profit organisations and community partners can request for used household a
   
 How it works:
 
-1.  Register as a donor or user on the Pass-It-On&nbsp;[website](http://www.passiton.org.sg/).
-2.  Complete the donation form with details of the items you would like to give away.
-3.  Provide your contact details along with a brief description and photos of the items for donation.
-4.  Indicate if you would like The Helping Hand to collect the items from your home at a nominal fee, or if you would like to deliver the items to the Social Service Agencies directly.
-5.  Wait for a response from the Social Service Agencies who are in need of your donated items.
+1.   Register as a donor or user on the Pass-It-On&nbsp;[website](http://www.passiton.org.sg/).
+2.   Complete the donation form with details of the items you would like to give away.
+3.   Provide your contact details along with a brief description and photos of the items for donation.
+4.   Indicate if you would like The Helping Hand to collect the items from your home at a nominal fee, or if you would like to deliver the items to the Social Service Agencies directly.
+5.   Wait for a response from the Social Service Agencies who are in need of your donated items.
 
 Aside from furniture, the following home items and appliances are commonly needed:
 
