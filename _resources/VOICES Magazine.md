@@ -3,7 +3,7 @@ title: VOICES Magazine
 permalink: /resources/voices-magazine/
 description: ""
 ---
-![ISSUE 95: Apr 2023](/images/Resources/voices-april23-cover.png)
+[ISSUE 95: Special Edition - Building A Better Life (2020 - 2023)]
 
 [ISSUE 95: Apr 2023](https://go.gov.sg/voices-april-2023)
 
