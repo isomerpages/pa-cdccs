@@ -4,7 +4,7 @@ permalink: /resources/voices-magazine/
 description: ""
 ---
 
-[[ISSUE 96: Special Edition - Building A Better Life (2020 - 2023)]](https://go.gov.sg/voices-sep-23)<br>
+![](/images/voices%20special%20edition.JPG)[[ISSUE 96: Special Edition - Building A Better Life (2020 - 2023)]](https://go.gov.sg/voices-sep-23)<br>
 <br>[ISSUE 95: Apr 2023](https://go.gov.sg/voices-april-2023)
 
 [ISSUE 94: Dec 2022](https://go.gov.sg/voices-dec-2022)
