@@ -2,4 +2,4 @@ collections:
   job-vacancies:
     output: true
     order:
-      - Jobs.md
+      - West Area.md
