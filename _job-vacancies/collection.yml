@@ -2,7 +2,7 @@ collections:
   job-vacancies:
     output: true
     order:
-      - South.md
-      - North.md
       - East.md
       - West.md
+      - South.md
+      - North.md
