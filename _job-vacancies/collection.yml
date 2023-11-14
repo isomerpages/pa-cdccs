@@ -1,0 +1,4 @@
+collections:
+  job-vacancies:
+    output: true
+    order: []
