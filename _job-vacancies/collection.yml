@@ -1,4 +1,5 @@
 collections:
   job-vacancies:
     output: true
-    order: []
+    order:
+      - Jobs.md
