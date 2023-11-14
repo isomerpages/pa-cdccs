@@ -23,4 +23,5 @@ Timing/Shifts: 5 Day Week<br>
 Salary Upto : UP TO  $ 2000/ month<br>
 [Find more details &gt;&gt;](https://www.fastjobs.sg/singapore-job-ad/1899449/admin-assistant/california-laundry-pte-ltd/?offset=2&amp;source=web-jobfeed)
 
-Visit [here](https://www.fastjobs.sg/singapore-jobs/en/all-categories-jobs/Admin+assistant-jobs-search) for the list of Admin Assistant jobs. 
+[Admin assistant Jobs](https://www.fastjobs.sg/singapore-jobs/en/all-categories-jobs/Admin+assistant-jobs-search)<br>
+[Manager Jobs](https://www.fastjobs.sg/singapore-jobs/en/all-categories-jobs/manager+jobs-jobs-search)
