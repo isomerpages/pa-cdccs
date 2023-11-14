@@ -21,10 +21,4 @@ Location: Boon Lay - EW27 <br>
 Job Types: Full Time <br>
 Timing/Shifts: 5 Day Week<br>
 Salary Upto : UP TO  $ 2000/ month
-
-
-
-
-
-
-
+[Find more details &gt;&gt;](https://www.fastjobs.sg/singapore-job-ad/1899449/admin-assistant/california-laundry-pte-ltd/?offset=2&amp;source=web-jobfeed)
