@@ -2,4 +2,5 @@ collections:
   job-vacancies:
     output: true
     order:
+      - East.md
       - West.md
