@@ -65,4 +65,12 @@ sections:
       url: https://www.gowhere.gov.sg/cdc
       alt: Image alt text
       image: /images/Home/map (large).jpg
+  - infopic:
+      title: JOBS
+      subtitle: Search Jobs
+      id: infopic
+      description: Browse and know about more vacancies.
+      button: Find more
+      url: /job-vacancies/west/
+      alt: Image alt text
 ---
