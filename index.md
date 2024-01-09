@@ -7,24 +7,23 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/278947400_10159107874658192_3988189581687924530_n.jpg
+      background: /images/Key_Visual_2024.png
       url: /get-started
   - infopic:
-      subtitle: E-VOICES
       description: Your Monthly Dose of News & Happenings!
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/resources/e-voices
       alt: Image alt text
       image: /images/Home/E-Voices (large).png
+      title: E-VOICES
   - infopic:
-      subtitle: VOICES
       description: Check out our latest issue of VOICES here!
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/resources/voices-magazine
       alt: Image alt text
       image: /images/Home/VOICES (large).png
+      title: VOICES
   - infopic:
-      subtitle: VOLUNTEER WITH US
       description: Be a part of our Giraffes Singapore Volunteer Movement. Stick your
         neck out for the common good and make a difference for communities in
         need!
@@ -32,6 +31,7 @@ sections:
       url: https://centralsingapore.cdc.gov.sg/partner-us/giraffes-singapore-volunteer
       alt: Image alt text
       image: /images/Home/CS-CDC-Website-thumbnails-(large).jpg
+      title: VOLUNTEER WITH US
   - infopic:
       subtitle: IN SEARCH OF PURPOSE TALKS
       description: The In Search of Purpose Talk Series by Central Singapore CDC aims
