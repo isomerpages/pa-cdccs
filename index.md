@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Key_Visual_2024.png
+      background: /images/CDC_Voucher_Banner.PNG
       url: /get-started
   - infopic:
       description: Your Monthly Dose of News & Happenings!
@@ -33,7 +33,6 @@ sections:
       image: /images/Home/CS-CDC-Website-thumbnails-(large).jpg
       title: VOLUNTEER WITH US
   - infopic:
-      subtitle: IN SEARCH OF PURPOSE TALKS
       description: The In Search of Purpose Talk Series by Central Singapore CDC aims
         to inspire young adults to give back to the community and discover their
         purpose in life.
@@ -41,16 +40,16 @@ sections:
       url: https://centralsingapore.cdc.gov.sg/programmes/service-to-others/in-search-of-purpose-talks
       alt: Image alt text
       image: /images/Home/ISOP.png
+      title: IN SEARCH OF PURPOSE TALKS
   - infopic:
-      subtitle: ABOUT US
       description: The Central Singapore Community Development Council (CDC) serves
         residents living in the Central Singapore District.
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/about-us/about-the-cdc
       alt: Image alt text
       image: /images/Home/About Us (large).png
+      title: ABOUT US
   - infopic:
-      subtitle: CDC Vouchers scheme
       description: This community scheme is designed to help identified households to
         defray the cost of living and support our local businesses tide through
         this COVID-19 period.
@@ -58,6 +57,7 @@ sections:
       url: https://centralsingapore.cdc.gov.sg/programmes/cdc-vouchers-scheme
       alt: Image alt text
       image: /images/Home/CDC Vouchers (large).png
+      title: CDC Vouchers Scheme
   - infopic:
       description: To find out which District you are residing in, please visit
         www.pa.gov.sg to access our District Locator.
