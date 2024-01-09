@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CDC_Voucher_Banner.PNG
+      background: /images/Updated_key_visual2.png
       url: /get-started
   - infopic:
       description: Your Monthly Dose of News & Happenings!
