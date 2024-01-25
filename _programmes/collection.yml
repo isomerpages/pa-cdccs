@@ -1,0 +1,37 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Overview.md
+      - Physical & Sustainability/.keep
+      - Physical & Sustainability/Physical Wellness & Sustainability.md
+      - Physical & Sustainability/Better Homes @ Central Singapore.md
+      - Physical & Sustainability/Give and Take Market.md
+      - Physical & Sustainability/Silver Homes.md
+      - Physical & Sustainability/Mind Your Health.md
+      - Physical & Sustainability/Sustainability Workshops @ Central Singapore.md
+      - Physical & Sustainability/Pass It On.md
+      - Financial Wellness/Financial Wellness.md
+      - Financial Wellness/.keep
+      - Financial Wellness/Ready For School Kit (Primary School).md
+      - Financial Wellness/Ready For School Kit (Secondary School).md
+      - Financial Wellness/CashUP Plus.md
+      - Socio Emotional Wellness/.keep
+      - Socio Emotional Wellness/Socio Emotional Wellness & Inclusiveness.md
+      - Socio Emotional Wellness/Temasek Trust CDC Lifelong Learning Enabling
+        Fund.md
+      - Socio Emotional Wellness/The Purple Symphony.md
+      - Socio Emotional Wellness/The Purple Parade.md
+      - Socio Emotional Wellness/WeCare Arts Fund.md
+      - Socio Emotional Wellness/Purple Outings.md
+      - Socio Emotional Wellness/Sole Mates.md
+      - Lifelong Learning/.keep
+      - Lifelong Learning/Lifelong Learning.md
+      - Lifelong Learning/My Digital Bootcamp.md
+      - Lifelong Learning/Junior Stars Nurture.md
+      - Lifelong Learning/I Am Talented.md
+      - Service To Others/Service To Others.md
+      - Service To Others/.keep
+      - Service To Others/Bless Our City.md
+      - Service To Others/In Search Of Purpose Talks.md
+      - CDC Vouchers Scheme.md

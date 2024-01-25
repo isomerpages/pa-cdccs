@@ -1,0 +1,7 @@
+collections:
+  resources:
+    output: true
+    order:
+      - E Voices.md
+      - VOICES Magazine.md
+      - In Search Of Purpose Talks.md

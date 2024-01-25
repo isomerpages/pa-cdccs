@@ -1,0 +1,8 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About the CDC.md
+      - Our District.md
+      - Our Mayor.md
+      - Mayors Note.md
