@@ -2,4 +2,5 @@ collections:
   old-pages:
     output: true
     order:
+      - Temasek Trust CDC Lifelong Learning Enabling Fund.md
       - EcoKnight SG.md
