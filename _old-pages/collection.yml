@@ -2,5 +2,6 @@ collections:
   old-pages:
     output: true
     order:
+      - I Am Talented.md
       - Temasek Trust CDC Lifelong Learning Enabling Fund.md
       - EcoKnight SG.md
