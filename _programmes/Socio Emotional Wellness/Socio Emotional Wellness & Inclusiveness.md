@@ -63,11 +63,11 @@ An initiative that brings individuals with and without special needs together th
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
-			<img src="/images/Programmes/solemates.jpg">
+			<img src="/images/Programmes/SM1.jpg">
 		</td>
 		<td width="50%">
-			<a href="/programmes/socio-emotional-wellness/sole-mates"><b>Soles Mates</b></a><br>
-Soles Mates is a grant programme that empowers volunteers and groups to engage Persons with Disabilities (PWDs) to keep fit through regular exercise and physical activities such as races and competitions. 
+			<a href="/programmes/socio-emotional-wellness/sole-mates"><b>Sole Mates</b></a><br>
+Sole Mates provides support to empower partners and Persons with Disabilities (PWDs) to keep fit with a buddy through regular exercise activities, races, competitions. Through Sole Mates, PWDs are given an opportunity to not only pursue an active lifestyle but also forge strong friendships within our community, fostering a more inclusive society in Singapore through sports. 
 			<br><br><a href="/programmes/socio-emotional-wellness/sole-mates">Find out more &gt;</a>
 		</td>
 	</tr>
