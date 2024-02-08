@@ -2,7 +2,6 @@
 title: I Am Talented
 permalink: /programmes/lifelong-learning/i-am-talented/
 description: ""
-third_nav_title: Lifelong Learning
 ---
 ![I am talented](/images/Programmes/0cc08d44-2957-4866-bd69-e9c10f290d0b_i-am-talented.jpg)
 The I Am Talented (IAT) programme is anchored on the core belief of providing youths in Singapore with opportunities for self-discovery. These opportunities come in the form of participation in skills-based workshops and sharing sessions. The programme also aims to inspire youths towards attaining excellence in both non-academic and academic pursuits.

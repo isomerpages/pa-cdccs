@@ -4,10 +4,11 @@ permalink: /programmes/socio-emotional-wellness/sole-mates/
 description: ""
 image: ""
 third_nav_title: Socio Emotional Wellness
+variant: markdown
 ---
-![Sole_Mates](/images/Programmes/solemates.jpg)
+![Sole_Mates](/images/Programmes/SM1.jpg)
 
-Soles Mates is a grant programme that empowers volunteers and groups to engage Persons with Disabilities (PWDs) to keep fit through regular exercise and physical activities such as races and competitions. 
+Sole Mates is a grant programme that empowers volunteers and groups to engage Persons with Disabilities (PWDs) to keep fit through regular exercise and physical activities such as races and competitions. 
 
 Through Sole Mates, PWDs are given an opportunity to not only pursue an active lifestyle, but also forge strong friendships within the community, fostering a more inclusive society in Singapore through sports. 
 
