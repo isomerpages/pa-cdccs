@@ -50,11 +50,12 @@ A grant scheme to support Voluntary Welfare Organisations with arts-related proj
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
-			<img src="/images/Programmes/purple-outings-2.jpg">
+			<img src="/images/Programmes/PO3.jpg">
 		</td>
 		<td width="50%">
 			<a href="/programmes/socio-emotional-wellness/purple-outings"><b>Purple Outings</b></a><br>
-An initiative that brings individuals with and without special needs together through regular outings and bonding activities.
+Purple Outings is a volunteer-driven inclusive initiative to engage Persons with Disabilities (PWDs). The programme typically involves curating excursions to allow PWDs and volunteers to spend quality time together.
+This is to foster awareness for PWD communities and help build meaningful relationships with partners and volunteers.
 			<br><br><a href="/programmes/socio-emotional-wellness/purple-outings">Find out more &gt;</a>
 		</td>
 	</tr>
