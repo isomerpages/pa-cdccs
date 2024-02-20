@@ -3,6 +3,7 @@ title: Financial Wellness
 permalink: /programmes/financial-and-social-wellness/financial-socialwellness/
 description: ""
 third_nav_title: Financial Wellness
+variant: markdown
 ---
 At Central Singapore CDC, we offer support for the lower-income and lower-skilled through various programmes and initiatives.
 
@@ -35,12 +36,12 @@ An initiative to help low-income students purchase back-to-school necessities wi
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
-			<img src="/images/Programmes/7230e959-c572-483d-b4e6-6b908cc40637_cashup-family-savers.jpg">
+			<img src="/images/Programmes/cashup-plus.jpg">
 		</td>
 		<td width="50%">
 			<a href="/images/Programmes/cashup-plus"><b>CashUP PLUS</b></a><br>
 A financial literacy programme to help low-income families start a regular savings habit.
-			<br><br><a href="/programmes/financial-and-social-wellness/cashup-famil-savers">Find out more &gt;</a>
+			<br><br><a href="/programmes/financial-and-social-wellness/cashup-plus">Find out more &gt;</a>
 		</td>
 	</tr>
 </tbody></table>
