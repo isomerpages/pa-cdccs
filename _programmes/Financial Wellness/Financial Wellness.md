@@ -36,7 +36,7 @@ An initiative to help low-income students purchase back-to-school necessities wi
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
-			<img src="/images/Programmes/7230e959-c572-483d-b4e6-6b908cc40637_cashup-family-savers.jpg">
+			<img src="/images/Programmes/cashup-plus.jpg">
 		</td>
 		<td width="50%">
 			<a href="/images/Programmes/cashup-plus"><b>CashUP PLUS</b></a><br>
