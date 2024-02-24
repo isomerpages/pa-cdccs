@@ -3,13 +3,14 @@ title: Service To Others
 permalink: /programmes/service-to-others/service-to-others/
 description: ""
 third_nav_title: Service To Others
+variant: markdown
 ---
 At Central Singapore, we hope to inculcate a spirit of volunteerism in the community.
 
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
-			<img src="/images/Programmes/8baa7641-2a07-4597-b138-1dfcd9877b00_silver-homes.jpg">
+			<img src="/images/Capture.png">
 		</td>
 		<td width="50%">
 			<a href="/programmes/service-to-others/bless-our-city"><b>Bless Our City</b></a><br>
