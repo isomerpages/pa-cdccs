@@ -25,4 +25,3 @@ variant: markdown
 [ISSUE 88: Dec 2019](https://go.gov.sg/voices-dec-2019)
 
 [ISSUE 87: Jul 2019](https://go.gov.sg/voices-jul-2019)
-
