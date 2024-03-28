@@ -2,10 +2,13 @@
 title: VOICES Magazine
 permalink: /resources/voices-magazine/
 description: ""
+variant: markdown
 ---
+![](/images/Resources/voices\_march\_2024.png)[ISSUE 97: March 2024 - Celebrating Women @ Central](https://go.gov.sg/voices-march-2024)
 
-![](/images/voices%20special%20edition.JPG)[[ISSUE 96: Special Edition - Building A Better Life (2020 - 2023)]](https://go.gov.sg/voices-sep-23)<br>
-<br>[ISSUE 95: Apr 2023](https://go.gov.sg/voices-april-2023)
+[ISSUE 96: Sep  2023](https://go.gov.sg/voices-sep-23)
+
+[ISSUE 95: Apr 2023](https://go.gov.sg/voices-april-2023)
 
 [ISSUE 94: Dec 2022](https://go.gov.sg/voices-dec-2022)
 
