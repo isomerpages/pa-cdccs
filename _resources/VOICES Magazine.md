@@ -26,12 +26,3 @@ variant: markdown
 
 [ISSUE 87: Jul 2019](https://go.gov.sg/voices-jul-2019)
 
-[ISSUE 86: Feb 2019](https://go.gov.sg/voices-feb-2019)
-
-[ISSUE 85: Jun 2018](https://go.gov.sg/voices-jun-2018)
-
-[ISSUE 84: Jan 2018](https://go.gov.sg/voices-jan-2018)
-
-[ISSUE 83: Aug 2017](https://go.gov.sg/voices-aug-2017)
-
-[ISSUE 82: Apr 2017](https://go.gov.sg/voices-apr-2017)
