@@ -16,7 +16,7 @@ the community.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/programmes/service-to-others/bless-our-city" rel="noopener noreferrer nofollow" target="_blank">Bless Our City</a></strong>
+<p><strong><a href="/programmes/service-to-others/bless-our-city" rel="noopener noreferrer nofollow" target="_blank">Bless Our City</a></strong> 
 <br><strong>“Bless Our City” Grant Programme</strong>&nbsp;is a joint initiative
 by Far East Organization (FEO) and Central Singapore Community Development
 Council (CDC) over two years in 2019 and 2020 to&nbsp;<strong>make lives better for various communities in need regardless of race or religion</strong>.
