@@ -26,7 +26,7 @@ initiatives such as:</p>
 <p>Replacement of bedframes and mattress sets</p>
 </li>
 </ul>
-<p><strong>Volunteer with us!</strong>
+<p><strong>Volunteer with us!</strong> 
 <br>Interested organisations or volunteer groups with at least 25 volunteers
 aged 16 and above may contact the CDC to help refurbish our seniors' homes.</p>
 <p><strong>Contact us</strong>: Mr Delon Lim, Partnerships &amp; Programmes
