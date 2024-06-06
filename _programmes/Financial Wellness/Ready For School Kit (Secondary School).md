@@ -3,6 +3,7 @@ title: Ready For School Kit (Secondary School)
 permalink: /programmes/financial-and-social-wellness/ready-for-school-kit-secondaryschool/
 description: ""
 third_nav_title: Financial Wellness
+variant: markdown
 ---
 ![Ready for School Kit (Secondary)](/images/Programmes/whatsapp-image-2021-01-24-at-10-48-59-pm.jpeg)
 
@@ -12,7 +13,7 @@ Each eligible secondary school student will receive $150 worth of vouchers for s
 
 
 **Contact us:**  
-Mr Timothy Wong  
-Manager,   
+Ms Cindy Yong
+Executive,   
 Partnerships & Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
