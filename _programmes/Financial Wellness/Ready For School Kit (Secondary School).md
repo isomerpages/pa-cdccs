@@ -9,7 +9,7 @@ variant: markdown
 
 The Ready for School Kit supports low-income families with school-going students who face additional financial burden during the back-to-school season. These families have difficulties coping with the increase in expenditure and their child may return for the new school term without being fully equipped with the school necessities. With Ready for School Kit, we hope to help these students enjoy new school term like their peers and focus on their academic studies with lesser stress.
 
-Each eligible secondary school student will receive $150 worth of vouchers for school essentials.
+Each eligible secondary school student will receive $200 worth of vouchers for school essentials.
 
 
 **Contact us:**  
