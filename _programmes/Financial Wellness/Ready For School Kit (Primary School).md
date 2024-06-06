@@ -12,7 +12,7 @@ The Ready for School Kit supports low-income families with school-going children
 Each eligible primary school student will receive $120 worth of vouchers for school essentials.
 
 **Contact us:**  
-Mr Timothy Wong  
-Manager,   
+Ms Cindy Yong 
+Executive,   
 Partnerships & Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
