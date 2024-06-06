@@ -14,7 +14,7 @@ At Central Singapore CDC, we offer support for the lower-income and lower-skille
 		</td>
 		<td width="50%">
 			<a href="/programmes/financial-and-social-wellness/ready-for-schoolkit-primaryschool"><b>Ready For School Kit (Primary School)</b></a><br>
-An initiative to help low-income children purchase back-to-school necessities with $100 worth of book and shopping vouchers.
+An initiative to help low-income children purchase back-to-school necessities.
 			<br><br><a href="/programmes/financial-and-social-wellness/ready-for-schoolkit-primaryschool">Find out more &gt;</a>
 		</td>
 	</tr>
