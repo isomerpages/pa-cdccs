@@ -15,7 +15,7 @@ Owner, Mr Abu Bakar, shared that he has experienced his worst business downturn,
 Mr Bakar recounted, “this (CDC Vouchers) scheme came just in time to help the community and small heartland businesses like us. We are also honoured to be able to help lower-income families in need.”
 
 The five Community Development Councils are heartened that the ‘CDC Vouchers Scheme’ was able to help Singaporean households with their daily expenses, as well as support local hawkers and heartland merchants. 
-![CDCVoucher2024-small](/images/Key_Visual_2024.png)
+![CDCVoucher2024-small](/images/Banner_with_words.png)
 
 Through the CDC Vouchers Scheme June 2024 . Singaporean households will receive a separate **$300 ‘CDC Vouchers'**. 
 
