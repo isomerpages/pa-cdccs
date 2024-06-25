@@ -14,8 +14,9 @@ Owner, Mr Abu Bakar, shared that he has experienced his worst business downturn,
 
 Mr Bakar recounted, “this (CDC Vouchers) scheme came just in time to help the community and small heartland businesses like us. We are also honoured to be able to help lower-income families in need.”
 
-The five Community Development Councils are heartened that the ‘CDC Vouchers Scheme’ was able to help identified lower-income households defray their cost of living, as well as support local heartland businesses and hawkers affected during the height of the pandemic in 2020.
-![CDCVoucher2024-small](/images/Key_Visual_2024.png)
-The CDC Vouchers Scheme 2024 was launched by Deputy Prime Minister (DPM) and Minister for Finance Mr Lawrence Wong. Singaporean households will receive a separate **$500 ‘CDC Vouchers'** to help defray their cost of living. This new tranche of CDC vouchers aims to support households with their daily essentials and will continue to support the local businesses. 
+The five Community Development Councils are heartened that the ‘CDC Vouchers Scheme’ was able to help Singaporean households with their daily expenses, as well as support local hawkers and heartland merchants. 
+![CDCVoucher2024-small](/images/Banner_with_words.png)
 
-Of the $500 worth of CDC vouchers, $250 CDC Vouchers can be spent at participating hawkers and heartland merchants (identified by the teal CDC Voucher Decal) and the other $250 CDC Supermarket Vouchers can be spent at participating supermarkets (identified by the yellow CDC Voucher Decal). Residents can find the list of participating hawkers, heartland merchants and supermarkets near them at [go.gov.sg/cdcvouchers](go.gov.sg/cdcvouchers).
+Through the CDC Vouchers Scheme June 2024 . Singaporean households will receive a separate **$300 CDC Vouchers**. 
+
+Of the $300 worth of CDC vouchers, $150 CDC Vouchers can be spent at participating hawkers and heartland merchants (identified by the teal CDC Voucher Decal) and the other $150 CDC Supermarket Vouchers can be spent at participating supermarkets (identified by the yellow CDC Voucher Decal). Residents can find the list of participating hawkers, heartland merchants and supermarkets near them at [go.gov.sg/cdcvouchers](go.gov.sg/cdcvouchers).

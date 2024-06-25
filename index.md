@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Updated_key_visual2.png
+      background: /images/BannerJune2024.png
       url: /get-started
   - infopic:
       description: Your Monthly Dose of News & Happenings!
