@@ -15,6 +15,8 @@ Organised by Central Singapore Community Development Council, the **Skills for G
 
 The 2024’s edition will feature new learning journeys where participants will go on learning field trips across Singapore to learn firsthand from industry experts about trends, jobs and skills&nbsp;in Singapore’s key growth areas – the&nbsp;**Green, Digital and Care economies**.
 
+# Engagement Booths
+
 ![](/images/sfg_01.jpg)
 ![](/images/sfg_02.jpg)
 ![](/images/sfg_03.jpg)
@@ -31,6 +33,7 @@ This learning journey is recommended for fresh graduates and adults looking for 
 **Registration:** 10.45am - 11.45am<br>
 
 **What to expect**: Embark on a learning journey to McDonald's for a glimpse into the operations of one of the world's largest fast-food chains. - Witness how technology is integrated into self-service kiosks and kitchen operations to enhance service speed, order accuracy and customisation capabilities in order to boost customers satisfaction. - Delve into McDonald's comprehensive training and skill development framework to understand its commitment to nurturing talent and fostering career growth across diverse demographic profile of employees. - Explore diverse career paths within McDonald's for progression and professional development opportunities.<br>
+
 *Organised in partnership with Social Service Institute (SSI*).
 [Register here! (to hyperlink to](https://go.gov.sg/sfg2024-cscdcsfamacs)) [https://go.gov.sg/sfg2024-cscdcsfamacs)](https://go.gov.sg/sfg2024-cscdcsfamacs))
 
@@ -53,6 +56,7 @@ OR
 **Registration:** 10.15am - 10.45am<br>
 
 **What to expect**: Embark on a learning journey to Cisco and witness firsthand latest collaboration tools, include the role of AI in enhancing collaboration by bridging physical and virtual spaces, ensuring seamless interactions and efficient communication across teams. - Tour a people-first workspaces and understand what are the essential digital skills needed to navigate today's hybrid work settings. - Gain career insights from Cisco HR team to pursue a career in cybersecurity. <br>
+
 *Organised in partnership with Cisco.* <br> [Register here for 26 July (to hyperlink to](https://go.gov.sg/sfg2024-ciscofri)) [https://go.gov.sg/sfg2024-ciscofri)](https://go.gov.sg/sfg2024-ciscofri))<br>[Register here for 27 July (to hyperlink to](https://go.gov.sg/sfg2024-ciscosat)) [https://go.gov.sg/sfg2024-ciscosat)](https://go.gov.sg/sfg2024-ciscosat))
 
 <br>
@@ -80,6 +84,6 @@ This learning journey is recommended for fresh graduates or adults looking for a
 **Registration:** 9.45am - 10.15am<br>
 
 **What to expect:** Learn how sustainable practices and technology are adopted in the production of eggs. - Hear first-hand from an employee who made a mid-career switch from laboratory to farm. - Hands-on activity to make your own marinated ramen eggs!<br>
+
 *Organised in partnership with N&amp;N Agriculture. <br>
 [Register here! (to hyperlink to](https://go.gov.sg/sfg2024-eggfarm)) [https://go.gov.sg/sfg2024-eggfarm)](https://go.gov.sg/sfg2024-eggfarm))
-
