@@ -87,4 +87,4 @@ This learning journey is recommended for fresh graduates or adults looking for a
 **What to expect:** Learn how sustainable practices and technology are adopted in the production of eggs. - Hear first-hand from an employee who made a mid-career switch from laboratory to farm. - Hands-on activity to make your own marinated ramen eggs!<br>
 
 *Organised in partnership with N&amp;N Agriculture. <br>
-[Register here! (to hyperlink to](https://go.gov.sg/sfg2024-eggfarm)) [https://go.gov.sg/sfg2024-eggfarm)](https://go.gov.sg/sfg2024-eggfarm))
+[Register here!](https://go.gov.sg/sfg2024-eggfarm)
