@@ -34,7 +34,8 @@ This learning journey is recommended for fresh graduates and adults looking for 
 **Reporting Venue:** Plaza Singapura Main Atrium<br>
 **Registration:** 10.45am - 11.45am<br>
 
-**What to expect**: <br>Embark on a learning journey to McDonald's for a glimpse into the operations of one of the world's largest fast-food chains. <br>
+**What to expect**: 
+- Embark on a learning journey to McDonald's for a glimpse into the operations of one of the world's largest fast-food chains. <br>
 - Witness how technology is integrated into self-service kiosks and kitchen operations to enhance service speed, order accuracy and customisation capabilities in order to boost customers satisfaction.<br>
 - Delve into McDonald's comprehensive training and skill development framework to understand its commitment to nurturing talent and fostering career growth across diverse demographic profile of employees. <br>
 - Explore diverse career paths within McDonald's for progression and professional development opportunities.<br>
@@ -62,7 +63,7 @@ OR
 **Registration:** 10.15am - 10.45am<br>
 
 **What to expect**: <br>
-Embark on a learning journey to Cisco and witness firsthand latest collaboration tools, include the role of AI in enhancing collaboration by bridging physical and virtual spaces, ensuring seamless interactions and efficient communication across teams.<br>
+- Embark on a learning journey to Cisco and witness firsthand latest collaboration tools, include the role of AI in enhancing collaboration by bridging physical and virtual spaces, ensuring seamless interactions and efficient communication across teams.<br>
 - Tour a people-first workspaces and understand what are the essential digital skills needed to navigate today's hybrid work settings. <br>
 - Gain career insights from Cisco HR team to pursue a career in cybersecurity. <br>
 
@@ -79,9 +80,12 @@ Embark on a learning journey to Cisco and witness firsthand latest collaboration
 **Reporting Venue:** Plaza Singapura Main Atrium<br>
 **Registration:** 10am - 10.30am<br>
 
-**What to expect:**  Tour a local pallet manufacturing facility to gain insights into the industry and sustainability scene in Singapore.<br>
-- Find out how CREUSE actively repairs and upcycles wooden waste. - Identify and learn about different pallet materials.<br>
--  Visit the upcycling production site to learn how the pallets are processed. - Hands-on activity to create your own take-home souvenir from upcycled wood!<br>
+**What to expect:**  
+- Tour a local pallet manufacturing facility to gain insights into the industry and sustainability scene in Singapore.<br>
+- Find out how CREUSE actively repairs and upcycles wooden waste.
+- Identify and learn about different pallet materials.<br>
+- Visit the upcycling production site to learn how the pallets are processed.
+- Hands-on activity to create your own take-home souvenir from upcycled wood!<br>
 
 *Organised in partnership with CREUSE*.<br>
 [Register here!](https://go.gov.sg/sfg2024-creuse)
@@ -96,7 +100,8 @@ This learning journey is recommended for fresh graduates or adults looking for a
 **Reporting Venue:** Plaza Singapura Main Atrium<br>
 **Registration:** 9.45am - 10.15am<br>
 
-**What to expect:** Learn how sustainable practices and technology are adopted in the production of eggs.<br>
+**What to expect:** 
+- Learn how sustainable practices and technology are adopted in the production of eggs.<br>
 - Hear first-hand from an employee who made a mid-career switch from laboratory to farm.<br>
 - Hands-on activity to make your own marinated ramen eggs!<br>
 
