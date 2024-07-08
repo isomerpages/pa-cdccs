@@ -34,7 +34,8 @@ This learning journey is recommended for fresh graduates and adults looking for 
 
 **What to expect**: Embark on a learning journey to McDonald's for a glimpse into the operations of one of the world's largest fast-food chains. - Witness how technology is integrated into self-service kiosks and kitchen operations to enhance service speed, order accuracy and customisation capabilities in order to boost customers satisfaction. - Delve into McDonald's comprehensive training and skill development framework to understand its commitment to nurturing talent and fostering career growth across diverse demographic profile of employees. - Explore diverse career paths within McDonald's for progression and professional development opportunities.<br>
 
-*Organised in partnership with Social Service Institute (SSI*).
+*Organised in partnership with Social Service Institute (SSI*).  <br>
+[Register here!](https://go.gov.sg/sfg2024-cscdcsfamacs)
 
 
 <br>
@@ -62,21 +63,22 @@ OR
 [Register here for 27 July](https://go.gov.sg/sfg2024-ciscosat)
 <br>
 
-**Explore the World of Wooden Pallet Recycling @ CREUSE! (Sat, 27 Jul 2024)**
+**Explore the World of Wooden Pallet Recycling @ CREUSE!**
 <br>This learning journey is recommended for fresh graduates and adults looking for a mid-career switch or employment in the green economy.
 
 **Date:** Sat, 27 Jul 2024<br>
-**Time:** 11.15am - 1.15pm<br>
+**Time:** 11.15am - 1.45pm<br>
 **Reporting Venue:** Plaza Singapura Main Atrium<br>
 **Registration:** 10am - 10.30am<br>
 
 **What to expect:**  Tour a local pallet manufacturing facility to gain insights into the industry and sustainability scene in Singapore. - Find out how CREUSE actively repairs and upcycles wooden waste. - Identify and learn about different pallet materials. - Visit the upcycling production site to learn how the pallets are processed. - Hands-on activity to create your own take-home souvenir from upcycled wood!<br>
 
-*Organised in partnership with CREUSE*.[Register here! (to hyperlink to :](https://go.gov.sg/sfg2024-creuse)) [https://go.gov.sg/sfg2024-creuse)](https://go.gov.sg/sfg2024-creuse))
+*Organised in partnership with CREUSE*.<br>
+[Register here!](https://go.gov.sg/sfg2024-creuse)
 
 <br>
 
-**Cracking the Wonders of Egg Story! (Sat, 27 Jul 2024)**<br>
+**Cracking the Wonders of Egg Story!**<br>
 This learning journey is recommended for fresh graduates or adults looking for a mid-career switch, who are passionate about sustainable farming.
 
 **Date:** Sat, 27 Jul 2024<br>
