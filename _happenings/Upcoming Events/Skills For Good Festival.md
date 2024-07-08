@@ -24,7 +24,7 @@ The 2024’s edition will feature new learning journeys where participants will 
 
 # **Learning Journey**
 
-**Experience a day in McFamily @ McDonald's! (Fri, 26 Jul 2024)** <br>
+**Experience a day in McFamily @ McDonald's!** <br>
 This learning journey is recommended for fresh graduates and adults looking for a mid-career switch or employment.
 
 **Date:** Fri, 26 Jul 2024<br>
@@ -35,12 +35,12 @@ This learning journey is recommended for fresh graduates and adults looking for 
 **What to expect**: Embark on a learning journey to McDonald's for a glimpse into the operations of one of the world's largest fast-food chains. - Witness how technology is integrated into self-service kiosks and kitchen operations to enhance service speed, order accuracy and customisation capabilities in order to boost customers satisfaction. - Delve into McDonald's comprehensive training and skill development framework to understand its commitment to nurturing talent and fostering career growth across diverse demographic profile of employees. - Explore diverse career paths within McDonald's for progression and professional development opportunities.<br>
 
 *Organised in partnership with Social Service Institute (SSI*).
-[Register here! (to hyperlink to](https://go.gov.sg/sfg2024-cscdcsfamacs)) [https://go.gov.sg/sfg2024-cscdcsfamacs)](https://go.gov.sg/sfg2024-cscdcsfamacs))
+
 
 <br>
 <br>
 
-**Dive into the Future of Cybersecurity @ Cisco! (Fri, 26 Jul OR Sat, 27 Jul 2024)**<br>
+**Dive into the Future of Cybersecurity @ Cisco!**<br>
 This learning journey is recommended for fresh graduates and adults looking for a mid-career switch or employment in the cybersecurity space.<br>
 <br>
 **Date:** Fri, 26 Jul 2024<br>
@@ -57,8 +57,9 @@ OR
 
 **What to expect**: Embark on a learning journey to Cisco and witness firsthand latest collaboration tools, include the role of AI in enhancing collaboration by bridging physical and virtual spaces, ensuring seamless interactions and efficient communication across teams. - Tour a people-first workspaces and understand what are the essential digital skills needed to navigate today's hybrid work settings. - Gain career insights from Cisco HR team to pursue a career in cybersecurity. <br>
 
-*Organised in partnership with Cisco.* <br> [Register here for 26 July (to hyperlink to](https://go.gov.sg/sfg2024-ciscofri)) [https://go.gov.sg/sfg2024-ciscofri)](https://go.gov.sg/sfg2024-ciscofri))<br>[Register here for 27 July (to hyperlink to](https://go.gov.sg/sfg2024-ciscosat)) [https://go.gov.sg/sfg2024-ciscosat)](https://go.gov.sg/sfg2024-ciscosat))
-
+*Organised in partnership with Cisco.* <br> 
+[Register here for 26 July](https://go.gov.sg/sfg2024-ciscofri) <br>
+[Register here for 27 July](https://go.gov.sg/sfg2024-ciscosat)
 <br>
 
 **Explore the World of Wooden Pallet Recycling @ CREUSE! (Sat, 27 Jul 2024)**
