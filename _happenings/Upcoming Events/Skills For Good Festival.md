@@ -101,4 +101,4 @@ This learning journey is recommended for fresh graduates or adults looking for a
 - Hands-on activity to make your own marinated ramen eggs!<br>
 
 *Organised in partnership with N&amp;N Agriculture. <br>
-[Register here!](https://go.gov.sg/sfg2024-eggfarm)
+[Register here!](https://go.gov.sg/sfg2024-eggfarm)**
