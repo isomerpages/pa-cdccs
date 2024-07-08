@@ -9,11 +9,13 @@ Organised by Central Singapore Community Development Council, the **Skills for G
 
 
 
-![](/images/SFG___New_V3.jpg)
+![](/images/WhatsApp_Image_2024_07_08_at_10_38_51_AM.jpg)
 
 
 
 The 2024’s edition will feature new learning journeys where participants will go on learning field trips across Singapore to learn firsthand from industry experts about trends, jobs and skills&nbsp;in Singapore’s key growth areas – the&nbsp;**Green, Digital and Care economies**.
+
+[Register for the event now](https://form.gov.sg/66863b11f110b161b6e2035e) to redeem a free mystery gift!
 
 # Engagement Booths
 
