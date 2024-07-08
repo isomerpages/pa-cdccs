@@ -22,7 +22,7 @@ The 2024’s edition will feature new learning journeys where participants will 
 ![](/images/sfg_05.jpg) <br>
 ![](/images/sfg_06.jpg) <br>
 ![](/images/sfg_07.jpg) <br>
-![](/images/sfg_08.jpg)
+![](/images/sfg_08_1.jpg)
 
 # **Learning Journey**
 
