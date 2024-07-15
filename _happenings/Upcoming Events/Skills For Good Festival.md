@@ -19,8 +19,8 @@ The 2024’s edition will feature new learning journeys where participants will 
 
 # Engagement Booths
 
-![](/images/sfg_05.jpg) <br>
-![](/images/sfg_06.jpg) <br>
+![](/images/sfg_05_1.jpg) <br>
+![](/images/sfg_06_1.jpg) <br>
 ![](/images/sfg_07.jpg) <br>
 ![](/images/sfg_08_1.jpg)
 
