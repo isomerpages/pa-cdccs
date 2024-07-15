@@ -19,8 +19,8 @@ The 2024’s edition will feature new learning journeys where participants will 
 
 # Engagement Booths
 
-![](/images/sfg_05.jpg) <br>
-![](/images/sfg_06.jpg) <br>
+![](/images/sfg_05_1.jpg) <br>
+![](/images/sfg_06_1.jpg) <br>
 ![](/images/sfg_07.jpg) <br>
 ![](/images/sfg_08_1.jpg)
 
@@ -30,9 +30,9 @@ The 2024’s edition will feature new learning journeys where participants will 
 This learning journey is recommended for fresh graduates and adults looking for a mid-career switch or employment.
 
 **Date:** Fri, 26 Jul 2024<br>
-**Time:** 12pm - 4pm<br>
+**Time:** 11:45am - 4pm<br>
 **Reporting Venue:** Plaza Singapura Main Atrium<br>
-**Registration:** 10.45am - 11.45am<br>
+**Registration:** 11:00am - 11.45am<br>
 
 **What to expect**: 
 - Embark on a learning journey to McDonald's for a glimpse into the operations of one of the world's largest fast-food chains. <br>
@@ -53,14 +53,14 @@ This learning journey is recommended for fresh graduates and adults looking for 
 **Date:** Fri, 26 Jul 2024<br>
 **Time:** 1.30pm – 3.45pm<br>
 **Reporting Venue:** Plaza Singapura Main Atrium<br>
-**Registration:** 12.30pm - 1pm<br>
+**Registration:** 12.00pm - 12:45pm<br>
 
 OR
 
 **Date:** Sat, 27 Jul 2024<br>
 **Time:** 11.15am – 1.30pm<br>
 **Reporting Venue:** Plaza Singapura Main Atrium<br>
-**Registration:** 10.15am - 10.45am<br>
+**Registration:** 9:45am - 10:30am<br>
 
 **What to expect**: <br>
 - Embark on a learning journey to Cisco and witness firsthand latest collaboration tools, include the role of AI in enhancing collaboration by bridging physical and virtual spaces, ensuring seamless interactions and efficient communication across teams.<br>
@@ -78,7 +78,7 @@ OR
 **Date:** Sat, 27 Jul 2024<br>
 **Time:** 11.15am - 1.45pm<br>
 **Reporting Venue:** Plaza Singapura Main Atrium<br>
-**Registration:** 10am - 10.30am<br>
+**Registration:** 9:30am - 10:15am<br>
 
 **What to expect:**  
 - Tour a local pallet manufacturing facility to gain insights into the industry and sustainability scene in Singapore.<br>
