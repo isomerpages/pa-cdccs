@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Financial Wellness
 variant: markdown
 ---
-![CashUP Plus](/images/Programmes/cashup-plus.jpg) <br>
+![](/images/WhatsApp_Image_2024_07_15_at_5_12_49_PM.jpg) <br>
 CashUP Plus Programme targets residents who have fallen through the cracks and face financial difficulties and debts. Our programme aims to help low-income residents and constituents of Central Singapore District start a money-saving habit to break out of the poverty cycle.
 
 The intention is to offer a coordinated support so that affected beneficiaries can be assisted timely and build up their knowledge on money management.
