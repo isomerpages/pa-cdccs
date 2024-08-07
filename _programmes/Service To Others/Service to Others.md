@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Service To Others
 variant: tiptap
 ---
-<p>At Central Singapore, we hope to inculcate a spirit of volunteerism in
-the community.</p>
+<h3>At Central Singapore, we hope to inculcate a spirit of volunteerism in the community.</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
