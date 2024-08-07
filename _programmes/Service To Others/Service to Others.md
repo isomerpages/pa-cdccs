@@ -33,8 +33,7 @@ It encourages individuals to ‘<strong>Stick Your Necks Out for the Common Good
 volunteer with us today!</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Central_SG_CDC_Volunteer_Opportunities_Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Central SG CDC Volunteer Opportunities K</a>
-<a href="/files/Central_SG_CDC_Volunteer_Opportunities_Kit__For_Corporates_.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/Central_SG_CDC_Volunteer_Opportunities_Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">it</a>
+<p><a href="/files/Central_SG_CDC_Volunteer_Opportunities_Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Central SG CDC Volunteer Opportunities Kit</a>
 </p>
 </li>
 </ul>
@@ -42,6 +41,4 @@ volunteer with us today!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
