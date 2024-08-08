@@ -1,6 +1,6 @@
 ---
 title: Giraffes Singapore Volunteer Movement
-permalink: /programmes/service-to-others/bless-our-city/
+permalink: /programmes/service-to-others/giraffes-singapore-volunteer-movement/
 description: ""
 third_nav_title: Service To Others
 variant: markdown
