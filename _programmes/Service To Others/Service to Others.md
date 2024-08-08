@@ -22,11 +22,11 @@ the community.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/programmes/service-to-others/giraffes-singapore-volunteer-movement" rel="noopener noreferrer nofollow" target="_blank">Giraffes Singapore Volunteer Movement</a></strong>
+<p><strong><a href="/programmes/service-to-others/giraffes-singapore-volunteer-movement/" rel="noopener noreferrer nofollow" target="_blank">Giraffes Singapore Volunteer Movement</a></strong>
 <br><strong>Giraffes Singapore</strong>&nbsp;is a&nbsp;<strong>volunteer movement by Central Singapore CDC</strong>.
 It encourages individuals to ‘<strong>Stick Your Necks Out for the Common Good</strong>’.
 <br>
-<br><a href="/programmes/service-to-others/giraffes-singapore-volunteer-movement" rel="noopener noreferrer nofollow" target="_blank">Find out more &gt;</a>
+<br><a href="/programmes/service-to-others/giraffes-singapore-volunteer-movement/" rel="noopener noreferrer nofollow" target="_blank">Find out more &gt;</a>
 </p>
 <p></p>
 <p><a href="https://go.gov.sg/volunteeringwithcscdc" rel="noopener noreferrer nofollow" target="_blank">Register</a> to
