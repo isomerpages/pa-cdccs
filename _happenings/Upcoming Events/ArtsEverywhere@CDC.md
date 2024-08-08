@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Events
 ---
-<p><strong><a href="https://safe.menlosecurity.com/https://www.cdc.gov.sg/artseverywhere-cdc/#ae_page_about" rel="noopener noreferrer nofollow" target="_blank"><u>About ArtsEverywhere@CDC</u></a></strong> | <strong><a href="https://safe.menlosecurity.com/https://www.cdc.gov.sg/artseverywhere-cdc/#ae_page_calendar" rel="noopener noreferrer nofollow" target="_blank"><u>Calendar of Events</u></a></strong> | <strong><a href="https://safe.menlosecurity.com/https://www.cdc.gov.sg/artseverywhere-cdc/#ae_page_programme" rel="noopener noreferrer nofollow" target="_blank"><u>Programme Information</u></a></strong>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_08_at_9_43_47_AM.jpg">
+</div>
 <p></p>
 <p></p>
 <h3>About ArtsEverywhere@CDC</h3>
