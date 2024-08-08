@@ -1,5 +1,5 @@
 ---
-title: Service To Others
+title: Service to Others
 permalink: /programmes/service-to-others/service-to-others/
 description: ""
 third_nav_title: Service To Others
@@ -7,21 +7,26 @@ variant: tiptap
 ---
 <p>At Central Singapore, we hope to inculcate a spirit of volunteerism in
 the community.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Capture.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_001_121.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/programmes/service-to-others/bless-our-city" rel="noopener noreferrer nofollow" target="_blank">Bless Our City</a></strong> 
-<br><strong>“Bless Our City” Grant Programme</strong>&nbsp;is a joint initiative
-by Far East Organization (FEO) and Central Singapore Community Development
-Council (CDC) over two years in 2019 and 2020 to&nbsp;<strong>make lives better for various communities in need regardless of race or religion</strong>.
+<p></p>
+<p><strong><a href="/programmes/service-to-others/giraffes-singapore-volunteer-movement" rel="noopener noreferrer nofollow" target="_blank">Giraffes Singapore Volunteer Movement</a></strong>
+<br><strong>Giraffes Singapore</strong>&nbsp;is a&nbsp;<strong>volunteer movement by Central Singapore CDC</strong>.
+It encourages individuals to ‘<strong>Stick Your Necks Out for the Common Good</strong>’.
 <br>
-<br><a href="/programmes/service-to-others/bless-our-city" rel="noopener noreferrer nofollow" target="_blank">Find out more &gt;</a>
+<br><a href="/programmes/service-to-others/giraffes-singapore-volunteer-movement" rel="noopener noreferrer nofollow" target="_blank">Find out more &gt;</a>
 </p>
 <p></p>
 <p><a href="https://go.gov.sg/volunteeringwithcscdc" rel="noopener noreferrer nofollow" target="_blank">Register</a> to
