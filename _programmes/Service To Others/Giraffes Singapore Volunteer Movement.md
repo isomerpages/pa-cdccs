@@ -17,6 +17,6 @@ Catch up on past Giraffes Singapore campaigns:
 
 **Contact us**:  
 Mr Joash Phang  
-Manager,&nbsp;  
+Manager&nbsp;  
 Partnerships &amp; Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
