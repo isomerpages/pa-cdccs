@@ -28,9 +28,10 @@ A Programme that aims to provide Central Singapore District residents with local
 			<img src="/images/SCH_BUS_FARE.jpg">
 		</td>
 		<td width="50%">
-			<a href="/programmes/financial-and-social-wellness/school-bus-fare-subsidy-grant&quot;"><b>School Bus Fare Subsidy Grant</b></a><br>
+			<a href="/programmes/financial-and-social-wellness/school-bus-fare-subsidy-grant">
+				<b>School Bus Fare Subsidy Grant</b></a><br>
 An initiative to support families affected by the school bus fare hikes.
-			<br><br><a href="/programmesschool-bus-fare-subsidy-grant/">Find out more &gt;</a>
+			<br><br><a href="/programmes/financial-and-social-wellness/school-bus-fare-subsidy-grant">Find out more &gt;</a>
 		</td>
 	</tr>
 </tbody></table>
