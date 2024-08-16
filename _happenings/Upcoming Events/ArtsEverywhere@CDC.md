@@ -32,11 +32,11 @@ programmes in your heartlands.</p>
 <summary><strong>AUGUST 2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Saturday, 3 August</strong>
+<p><strong>Saturday, 10 August</strong>
 <br>Programme: <em>Melodic Flowers</em> by yIN Harmony
-<br>Venue: Neighbourhood Centre, Blk 371 Bukit Batok Street 31
-<br>Time: Fringe Activities (3.30 - 4.30pm; 5.30 - 6.30pm), Performance (4.30
-- 5.30pm; 6.30 - 7.30pm</p>
+<br>Venue: Toa Payoh HDB Hub
+<br>Time: Fringe Activities (12 - 1pm; 2 - 3pm), Performance &amp; Meet-and-Greet
+(1 - 2pm; 3 - 4pm)</p>
 </div>
 </details>
 </div>
