@@ -61,30 +61,38 @@ Singapore Markets:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sat, 16 Nov 2024</p>
+<p><strong>Sat, 16 Nov 2024</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9am to 3pm</p>
+<p><strong>9am to 3pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marymount</p>
+<p><strong>Marymount</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bishan Active Park</p>
+<p><strong>Bishan Active Park</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sun, 1 Dec 2024</p>
+<p><strong>Sun, 1 Dec 2024</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9am to 12pm</p>
+<p><strong>9am to 12pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yio Chu Kang</p>
+<p><strong>Yio Chu Kang</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lentor Estate</p>
+<p><strong>Lentor Estate</strong>
+</p>
 </td>
 </tr>
 </tbody>
