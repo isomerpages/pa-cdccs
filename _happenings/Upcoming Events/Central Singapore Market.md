@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Events
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_16_145833.png">
+</div>
 <p>Organised by the Central Singapore Community Development Council (CDC),
 the Central Singapore Market is “A Market with a Difference”. It brings
 together local farmers, entrepreneurs, and artists, offering them a platform
