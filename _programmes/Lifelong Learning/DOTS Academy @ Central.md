@@ -37,10 +37,9 @@ journeys, and niche interest activities.</p>
 <p><strong>If you’re a community, grassroots organisations, or schools serving youths and are based in Central Singapore district, reach out to us to nominate your youths for this initiative.</strong>
 </p>
 <p></p>
-<p></p>
 <p>Contact Us:</p>
 <p>Ms Melissa Wong</p>
 <p>Manager,</p>
 <p>Partnerships &amp; Programmes</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">pa_centralsingapore@pa.gov.sg</a>
-</p>
+<p>pa_centralsingapore@pa.gov.sg</p>
+<p></p>
