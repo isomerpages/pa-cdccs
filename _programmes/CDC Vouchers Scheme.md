@@ -19,4 +19,4 @@ The five Community Development Councils are heartened that the ‘CDC Vouchers S
 
 Through the CDC Vouchers Scheme June 2024 . Singaporean households will receive a separate **$300 CDC Vouchers**. 
 
-Of the $300 worth of CDC vouchers, $150 CDC Vouchers can be spent at participating hawkers and heartland merchants (identified by the teal CDC Voucher Decal) and the other $150 CDC Supermarket Vouchers can be spent at participating supermarkets (identified by the yellow CDC Voucher Decal). Residents can find the list of participating hawkers, heartland merchants and supermarkets near them at [go.gov.sg/cdcvouchers] (https://vouchers.cdc.gov.sg/)).
+Of the $300 worth of CDC vouchers, $150 CDC Vouchers can be spent at participating hawkers and heartland merchants (identified by the teal CDC Voucher Decal) and the other $150 CDC Supermarket Vouchers can be spent at participating supermarkets (identified by the yellow CDC Voucher Decal). Residents can find the list of participating hawkers, heartland merchants and supermarkets near them at [go.gov.sg/cdcvouchers](https://vouchers.cdc.gov.sg/).
