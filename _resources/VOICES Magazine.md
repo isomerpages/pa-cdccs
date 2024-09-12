@@ -4,7 +4,10 @@ permalink: /resources/voices-magazine/
 description: ""
 variant: markdown
 ---
-![](/images/Resources/VOICES_March_2024_resized.jpg)[ISSUE 97: Mar 2024 - Celebrating Women @ Central](https://go.gov.sg/voices-march-2024)
+![](/images/VOICES_Aug_24_Cover_Photo.jpg)
+[ISSUE 98: Aug 2024](https://go.gov.sg/voices-aug-2024)
+
+[ISSUE 97: Mar 2024 - Celebrating Women @ Central](https://go.gov.sg/voices-march-2024)
 
 [ISSUE 96: Sep  2023](https://go.gov.sg/voices-sep-23)
 
