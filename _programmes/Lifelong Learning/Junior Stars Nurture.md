@@ -3,6 +3,7 @@ title: Junior Stars Nurture
 permalink: /programmes/lifelong-learning/nurture/
 description: ""
 third_nav_title: Lifelong Learning
+variant: markdown
 ---
 ![Junior Stars Nurture](/images/Programmes/a38z1106_opz5f62c838795f41f09f9d91389022b306.jpg)
 
@@ -23,9 +24,6 @@ To date, there are 10 Nurture Centres in the Central Singapore District, with mo
 **Volunteer with us!  
 **We welcome interested organisations and volunteer groups to help out in an existing Nurture Centre, or to start your own Centre with a group of 20 children and 5 regular volunteers. Organisations and groups who are keen to set-up Nurture centres need to submit an application with a proposal.  
   
-**Resource Kit**  
-Click&nbsp;[**here**](https://www-cdc-gov-sg-admin.cwp.sg/docs/librariesprovider2/documents-cscdc/resources/online-learning-resource-booklet-for-kids!-(3-12-years-old)---june-2021-edition.pdf?sfvrsn=9b2502b6_2)&nbsp;for a list of learning resources for children.  
-(Note: Information accurate as at 10 June 2021)
 
 **Contact Us:**  
 Mr Qamar Firdaus  
