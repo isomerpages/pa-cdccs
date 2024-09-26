@@ -36,7 +36,7 @@ email us at <strong><a href="mailto:jobsnearme@fastjobs.sg" rel="noopener norefe
 CDC at <strong><a href="https://go.gov.sg/cscdcjobsnearmeemployer" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cscdcjobsnearmeemployer</a></strong>
 </p>
 <p><strong>Contact us</strong>:
-<br>Mr Timothy Wong
-<br>Manager,&nbsp;
+<br>Mr Wee Peng Yu
+<br>Senior Manager,&nbsp;
 <br>Partnerships &amp; Programmes<a href="mailto:pa_centralsingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>pa_centralsingapore@pa.gov.sg</u></a>
 </p>

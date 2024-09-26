@@ -18,7 +18,7 @@ _“The programme makes me be able to talk about my core issues, I don’t have 
 Residents may sign up for the programme via referrals from Social Service Offices (SSOs), Grassroots Organisations, or Central Singapore CDC.
 
 **Contact us**: <br>
-Mr Timothy Wong <br>
-Manager,&nbsp;  
+Mr Wee Peng Yu <br>
+Senior Manager,&nbsp;  
 Partnerships &amp; Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
