@@ -67,4 +67,17 @@ Ensembles
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>NOVEMBER 2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Saturday, 16 November</strong>
+<br>Programme: <em>Evergreen Classics</em> by Ding Yi Music Company
+<br>Venue: Toa Payoh HDB Hub
+<br>Time: Fringe Activities (12 – 1pm; 2 – 3pm), Performance &amp; Meet-and-greet
+(1 -2pm; 3 – 4pm)</p>
+</div>
+</details>
+</div>
 <p></p>
