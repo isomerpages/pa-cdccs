@@ -47,35 +47,21 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Sun, 15 Sep 2024</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>9am to 12pm</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Ang Mo Kio - Hougang</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Ci Yuan CC, Level 2</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Sat, 16 Nov 2024</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9am to 3pm</strong>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>1pm to 6pm</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Marymount</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Bishan Active Park</strong>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -91,7 +77,43 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lentor Estate</strong>
+<p><strong>Countryside Playground @ Lentor Estate</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sat, 11 Jan 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TBC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Kampong Glam</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Zhongshan Park</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sat, 1 Mar 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9am to 1pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Potong Pasir</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Potong Pasir Square</strong>
 </p>
 </td>
 </tr>
