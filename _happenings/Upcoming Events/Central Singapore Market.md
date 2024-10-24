@@ -113,7 +113,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Potong Pasir Square</strong>
+<p><strong>Town Square @ Potong Pasir</strong>
 </p>
 </td>
 </tr>
