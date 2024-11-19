@@ -1,6 +1,6 @@
 ---
 title: Central Singapore Market
-permalink: /central-singapore-market/
+permalink: /programmes/wellness-and-sustainability/central-singapore-market/
 variant: tiptap
 description: ""
 third_nav_title: Physical & Sustainability
