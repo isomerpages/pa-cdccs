@@ -3,12 +3,11 @@ title: Central Singapore Market
 permalink: /central-singapore-market/
 variant: tiptap
 description: ""
-third_nav_title: Upcoming Events
+third_nav_title: Physical & Sustainability
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_16_at_3_41_11_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_16_145833.png">
 </div>
 <p>Organised by the Central Singapore Community Development Council (CDC),
 the Central Singapore Market is “A Market with a Difference”. It brings
@@ -20,7 +19,6 @@ produce and healthy food and beverage options</p>
 products and experiences such as Eco Workshops</p>
 <p>• <strong>Inclusion of Persons with Disabilities:</strong> Persons with
 Disabilities can showcase their talents and earn a livelihood</p>
-<p></p>
 <p></p>
 <p>Check out the calendar below for the upcoming Central Singapore Markets:</p>
 <table style="minWidth: 100px">
@@ -119,4 +117,4 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </tr>
 </tbody>
 </table>
-<p>*Schedule and timing are subject to change.</p>
+<p></p>
