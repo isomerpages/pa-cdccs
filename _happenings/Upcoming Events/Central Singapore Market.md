@@ -77,7 +77,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Countryside Playground @ Lentor Estate</strong>
+<p><strong>Countryside Playground @ Lentor Loop</strong>
 </p>
 </td>
 </tr>
@@ -87,7 +87,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TBC</strong>
+<p><strong>10:30am to 4pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
