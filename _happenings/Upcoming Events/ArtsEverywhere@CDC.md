@@ -29,46 +29,6 @@ programmes in your heartlands.</p>
 <h3>Calendar of Events</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>AUGUST 2024</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Saturday, 10 August</strong>
-<br>Programme: <em>Melodic Flowers</em> by yIN Harmony
-<br>Venue: Toa Payoh HDB Hub
-<br>Time: Fringe Activities (12 - 1pm; 2 - 3pm), Performance &amp; Meet-and-Greet
-(1 - 2pm; 3 - 4pm)</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>SEPTEMBER 2024</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Saturday, 7 September</strong>
-<br>Programme: The Purple Symphony
-<br>Venue: Toa Payoh HDB Hub
-<br>Time: Fringe Activities (12 - 1pm; 2 - 3pm), Performance &amp; Meet-and-Greet
-(1 - 2pm; 3 - 4pm)</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>OCTOBER 2024</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Saturday, 5 October</strong>
-<br>Programme: <em>Music in the heART_lands!</em> by Philharmonic Wind Orchestra
-Ensembles
-<br>Venue: Toa Payoh HDB Hub
-<br>Time: Fringe Activities (12 - 1pm; 2 - 3pm), Performance &amp; Meet-and-Greet
-(1 - 2pm; 3 - 4pm)</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>NOVEMBER 2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -82,7 +42,7 @@ Ensembles
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>December 2024</strong>
+<summary><strong>DECEMBER 2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Programme: <em>Music in the heART_lands!</em> by Philharmonic Wind Orchestra
