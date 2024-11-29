@@ -46,24 +46,6 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Sat, 16 Nov 2024</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>1pm to 6pm</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Marymount</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Bishan Active Park</strong>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Sun, 1 Dec 2024</strong>
 </p>
@@ -87,7 +69,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10:30am to 4pm</strong>
+<p><strong>3pm to 7pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
