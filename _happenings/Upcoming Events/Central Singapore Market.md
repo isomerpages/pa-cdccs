@@ -95,7 +95,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Town Square @ Potong Pasir</strong>
+<p><strong>Town Square @ Potong Pasir (1, Potong Pasir Ave 1)</strong>
 </p>
 </td>
 </tr>
@@ -113,9 +113,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sports @ Buona Vista</strong>
-</p>
-<p><strong>1A Commonwealth Drive</strong>
+<p><strong>Sports @ Buona Vista (1A Commonwealth Drive)</strong>
 </p>
 </td>
 </tr>
