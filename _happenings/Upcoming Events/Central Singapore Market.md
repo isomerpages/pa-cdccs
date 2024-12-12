@@ -47,24 +47,6 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sun, 1 Dec 2024</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9am to 12pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Yio Chu Kang</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Countryside Playground @ Lentor Loop</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Sat, 11 Jan 2025</strong>
 </p>
 </td>
@@ -77,7 +59,25 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Zhongshan Park</strong>
+<p><strong>Zhongshan Park (along Balestier Road)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sat, 25 Jan 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TBC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Moulmein-Cairnhill</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Pek Kio Park (beside Pek Kio Market)</strong>
 </p>
 </td>
 </tr>
@@ -96,6 +96,26 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Town Square @ Potong Pasir</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sat, 5 Apr 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10am to 1pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Buona Vista</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sports @ Buona Vista</strong>
+</p>
+<p><strong>1A Commonwealth Drive</strong>
 </p>
 </td>
 </tr>
