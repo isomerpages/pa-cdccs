@@ -69,7 +69,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TBC</strong>
+<p><strong>9am to 1pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
