@@ -56,7 +56,7 @@ An initiative to help low-income children purchase back-to-school necessities.
 		</td>
 		<td width="50%">
 			<a href="/programmes/financial-and-social-wellness/school-starter-kit-secondaryschool"><b>School Starter Kit @ Central (Secondary School)</b></a><br>
-An initiative to help low-income students purchase back-to-school necessities with $150 worth of book and shopping vouchers.
+An initiative to help low-income students purchase back-to-school necessities with $200 worth of book and shopping vouchers.
 			<br><br><a href="/programmes/financial-and-social-wellness/school-starter-kit-secondaryschool">Find out more &gt;</a>
 		</td>
 	</tr>
