@@ -42,7 +42,7 @@ An initiative to support families affected by the school bus fare hikes.
 			<img src="/images/Programmes/rfsk-(pri).png">
 		</td>
 		<td width="50%">
-			<a href="/programmes/financial-and-social-wellness/ready-for-schoolkit-primaryschool"><b>School Starter Kit @ Central (Primary School)</b></a><br>
+			<a href="/programmes/financial-and-social-wellness/school-starter-kit-primaryschool"><b>School Starter Kit @ Central (Primary School)</b></a><br>
 An initiative to help low-income children purchase back-to-school necessities.
 			<br><br><a href="/programmes/financial-and-social-wellness/ready-for-schoolkit-primaryschool">Find out more &gt;</a>
 		</td>
@@ -57,7 +57,7 @@ An initiative to help low-income children purchase back-to-school necessities.
 		<td width="50%">
 			<a href="/programmes/financial-and-social-wellness/ready-for-school-kit-secondaryschool"><b>School Starter Kit @ Central (Secondary School)</b></a><br>
 An initiative to help low-income students purchase back-to-school necessities with $150 worth of book and shopping vouchers.
-			<br><br><a href="/programmes/financial-and-social-wellness/ready-for-school-kit-secondaryschool">Find out more &gt;</a>
+			<br><br><a href="/programmes/financial-and-social-wellness/school-starter-kit-secondaryschool">Find out more &gt;</a>
 		</td>
 	</tr>
 </tbody></table>
