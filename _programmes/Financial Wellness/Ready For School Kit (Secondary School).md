@@ -15,5 +15,5 @@ Each eligible secondary school student will receive $200 worth of vouchers for s
 **Contact us:**  
 Mr Kelvyn Li
 <br>Assistant Director&nbsp;  
-<br>Partnerships &amp; Programmes  
+Partnerships &amp; Programmes  
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
