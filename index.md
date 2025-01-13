@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BannerJune2024.png
+      background: /images/PACDC_web_banner_31_dec_1.jpg
       url: /get-started
   - infopic:
       description: Your Monthly Dose of News & Happenings!
