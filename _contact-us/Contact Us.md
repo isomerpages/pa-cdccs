@@ -10,7 +10,7 @@ variant: markdown
 
 1.  **Social Assistance**
 
-To locate your nearest Social Service Office, please visit:<br>&nbsp;https://www.msf.gov.sg/our-services/directories#socialtab
+To locate your nearest Social Service Office, please visit:<br>         [https://www.msf.gov.sg/our-services/directories](https://www.msf.gov.sg/our-services/directories)
 ,<br> call 1800-222-0000, or email&nbsp;msf\_email@msf.gov.sg.*   
 
 2. **Employment Assistance**
