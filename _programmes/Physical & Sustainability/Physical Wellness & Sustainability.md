@@ -3,6 +3,7 @@ title: Physical Wellness & Sustainability
 permalink: /programmes/wellness-and-sustainability/physicalwellness-sustainability/
 description: ""
 third_nav_title: Physical & Sustainability
+variant: markdown
 ---
 At Central Singapore CDC, we advocate eating well, living well, and thinking well.
 
