@@ -29,27 +29,14 @@ programmes in your heartlands.</p>
 <h3>Calendar of Events</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NOVEMBER 2024</strong>
+<summary><strong>February 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Saturday, 16 November</strong>
+<p><strong>Sunday, 23 February</strong>
 <br>Programme: <em>Evergreen Classics</em> by Ding Yi Music Company
-<br>Venue: Toa Payoh HDB Hub
+<br>Venue: United Square
 <br>Time: Fringe Activities (12 – 1pm; 2 – 3pm), Performance &amp; Meet-and-greet
-(1 -2pm; 3 – 4pm)</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>DECEMBER 2024</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Programme: <em>Music in the heART_lands!</em> by Philharmonic Wind Orchestra
-Ensembles
-<br>Venue: Town Square@Potong Pasir
-<br>Time: Fringe Activities (12pm - 1pm; 2pm - 3pm), Performance (1pm - 2pm;
-3pm - 4pm)</p>
+(11:00am -11:45am; 1:00pm – 1:45pm)</p>
 </div>
 </details>
 </div>
