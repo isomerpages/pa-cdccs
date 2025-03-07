@@ -50,24 +50,26 @@ located at:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>This series of workshops enhances</p>
-<p>children’s physical health and emotional</p>
-<p>well-being by empowering them to</p>
-<p>strengthen both body and mind. It also</p>
-<p>develops personal effectiveness and life</p>
-<p>skills, equipping children to make</p>
-<p>responsible decisions and lead with</p>
-<p>confidence.</p>
+<p>This series of workshops enhances children’s physical health and emotional
+well-being by empowering them to strengthen both body and mind. It also
+develops personal effectiveness and life skills, equipping children to
+make responsible decisions and lead with confidence.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This series of workshops prepares</p>
-<p>children with relevant skills to navigate</p>
-<p>and thrive in a dynamic, future-focused</p>
-<p>world.</p>
+<p>This series of workshops prepares children with relevant skills to navigate
+and thrive in a dynamic, future-focused world.</p>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Digital</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Art Science</p>
-<p>Environmental Sustainabilit</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Digital</p>
+</li>
+<li>
+<p>Art Science</p>
+</li>
+<li>
+<p>Environmental Sustainability</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
