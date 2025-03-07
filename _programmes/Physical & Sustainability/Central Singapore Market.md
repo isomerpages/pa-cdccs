@@ -45,65 +45,11 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sat , 11 Jan 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3pm to 7pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Kampong Glam</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Zhongshan Park (along Balestier Road)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sat, 25 Jan 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9am to 1pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Moulmein-Cairnhil</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Pek Kio Park (beside Pek Kio Market)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sat, 1 Mar 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9am to 1pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Potong Pasir</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Town Square @ Potong Pasir (1, Potong Pasir Ave 1)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Sat, 5 Apr 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10am to 1pm</strong>
+<p><strong>9am to 1pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,7 +57,85 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sports @ Buona Vista (1A Commonwealth Drive)</strong>
+<p><strong>Sports @ Buona Vista</strong>
+</p>
+<p><strong>(115A Commonwealth Drive S149596)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun, 6 Apr 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10am to 3pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Kebun Bahru</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Thomson Green Playground</strong>
+</p>
+<p><strong>(Thomson Green, S574905)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun, 13 Apr 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3pm to 7pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Jalan Besar</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Zhongshan Park</strong>
+</p>
+<p><strong>(Along Balestier Road)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sat, 26 Apr 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9.30am to 2pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ang Mo Kio - Hougang</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ci Yuan CC, Level 1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun 27 Apr 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1pm to 6pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Marymount</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bishan Bus Interchange</strong>
 </p>
 </td>
 </tr>
