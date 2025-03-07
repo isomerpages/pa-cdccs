@@ -58,7 +58,6 @@ make responsible decisions and lead with confidence.</p>
 <td rowspan="1" colspan="1">
 <p>This series of workshops prepares children with relevant skills to navigate
 and thrive in a dynamic, future-focused world.</p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Digital</p>
