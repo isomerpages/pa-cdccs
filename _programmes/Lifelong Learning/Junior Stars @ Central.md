@@ -33,331 +33,52 @@ groups by helping children to:</p>
 <p>To date, there are 10 Nurture Centres in the Central Singapore District,
 with more than 200 children under the programme. Our existing Centres are
 located at:</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Nurture @</strong>
+<th rowspan="1" colspan="1">
+<p><strong>Self – Mastery</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Address</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Activity Day<br>&amp; Time</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Ang Mo Kio GRC &amp;Sengkang West SMC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Yio Chu Kang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yio Chu Kang Zone 9 RC Centre</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
+</th>
+<th rowspan="1" colspan="1">
+<p>Skills for the Future</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Blk 646 Ang Mo Kio Ave St 61
-<br>#01-4935, S(560646)</p>
+<p>This series of workshops enhances</p>
+<p>children’s physical health and emotional</p>
+<p>well-being by empowering them to</p>
+<p>strengthen both body and mind. It also</p>
+<p>develops personal effectiveness and life</p>
+<p>skills, equipping children to make</p>
+<p>responsible decisions and lead with</p>
+<p>confidence.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7pm – 9pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Teck Ghee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teck Ghee PCF</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Saturday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Blk 322 Ang Mo Kio Ave 3
-<br>#01-1928, S(560322)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10.30am – 12pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Jalan Kayu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jalan Kayu Zone 7 RC Centre</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Saturday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Blk 981D Buangkok Crescent
-<br>#01-07, S(537981)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10am – 12pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>&nbsp;&nbsp;Ang Mo Kio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;ITE College Central</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Saturday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Ang Mo Kio Drive S(567720)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10am - 12pm&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Jalan Besar GRC &amp; Potong Pasir SMC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Whampoa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AWWA Family Service Centre</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Blk 107 Towner Road
-<br>#01-356, S(321107)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7pm – 9pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Kreta Ayer
-<br>– Kim Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Catch+ Centre</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thursday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Blk 10, Jalan Kukoh,
-<br>#04-55, S(162010)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6pm – 8pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Kampong Glam
-<br>(Stamford
-<br>Primary)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Stamford Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Friday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;1 Victoria Lane S(198423)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2pm - 4pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Bishan –Toa Payoh GRC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Toa Payoh
-<br>Central
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Toa Payoh Central Zone 1 RC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Saturday
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Blk 58 Lor 4 Toa Payoh S(319380)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;9am - 11am
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>&nbsp;
-<br>
-</p>
-<p>Toa Payoh East</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Toa Payoh East Community Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Saturday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>160 Lorong 6 Toa Payoh,
-<br>S(319380)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.30am – 1pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Sin Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ai Tong School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Saturday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>100 Bright Hill Drive,
-<br>S(579646)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10am – 12pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>TanjongPagar GRC &amp; Radin Mas SMC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Henderson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>WeLL Centre</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Blk 93 Henderson Road</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.45pm – 5.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>#01-212, S(150093)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5.30pm – 7.15pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Lengkok Bahru</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Leng Kee Community Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Saturday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>400 Lengkok Bahru</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2pm – 4pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>#03-07/#03-09, S(159049)</p>
-</td>
-<td rowspan="1" colspan="1">
+<p>This series of workshops prepares</p>
+<p>children with relevant skills to navigate</p>
+<p>and thrive in a dynamic, future-focused</p>
+<p>world.</p>
 <p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Digital</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Art Science</p>
+<p>Environmental Sustainabilit</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>**Volunteer with us!
-<br>**We welcome interested organisations and volunteer groups to help out
-in an existing Nurture Centre, or to start your own Centre with a group
-of 20 children and 5 regular volunteers. Organisations and groups who are
-keen to set-up Nurture centres need to submit an application with a proposal.</p>
+<p></p>
+<p>If you are a community organisation, grassroots group, or school within
+the Central Singapore district and are interested in joining any of these
+workshops, please contact us.</p>
 <p><strong>Contact Us:</strong>
-<br>Mr Qamar Firdaus
-<br>Team Leader,&nbsp;
+<br>Ms YsabelaGoh
+<br>Assistant Director,&nbsp;
 <br>Partnerships &amp; Programmes
 <br><a href="mailto:pa_centralsingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_centralsingapore@pa.gov.sg</a>
 </p>
