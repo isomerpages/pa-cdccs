@@ -77,7 +77,7 @@ located at:</p>
 the Central Singapore district and are interested in joining any of these
 workshops, please contact us.</p>
 <p><strong>Contact Us:</strong>
-<br>Ms YsabelaGoh
+<br>Ms Ysabela Goh
 <br>Assistant Director,&nbsp;
 <br>Partnerships &amp; Programmes
 <br><a href="mailto:pa_centralsingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_centralsingapore@pa.gov.sg</a>
