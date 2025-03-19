@@ -69,7 +69,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10am to 3pm</strong>
+<p><strong>9am to 3pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,7 +79,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 <td rowspan="1" colspan="1">
 <p><strong>Thomson Green Playground</strong>
 </p>
-<p><strong>(Thomson Green, S574905)</strong>
+<p><strong>(Behind Salem Chapel at 1 Thomson Hills Drive, S574746)</strong>
 </p>
 </td>
 </tr>
@@ -127,7 +127,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1pm to 6pm</strong>
+<p><strong>2pm to 8:30pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

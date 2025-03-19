@@ -30,9 +30,7 @@ groups by helping children to:</p>
 <p>Become motivated and self-directed learners</p>
 </li>
 </ul>
-<p>To date, there are 10 Nurture Centres in the Central Singapore District,
-with more than 200 children under the programme. Our existing Centres are
-located at:</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
