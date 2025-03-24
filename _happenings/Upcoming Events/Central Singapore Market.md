@@ -119,24 +119,6 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sun 27 Apr 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2pm to 8:30pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Marymount</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Bishan Bus Interchange</strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>*Schedule and timing are subject to change.</p>
