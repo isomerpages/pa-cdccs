@@ -29,14 +29,14 @@ programmes in your heartlands.</p>
 <h3>Calendar of Events</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>February 2025</strong>
+<summary><strong>April 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Sunday, 23 February</strong>
-<br>Programme: <em>Evergreen Classics</em> by Ding Yi Music Company
-<br>Venue: United Square
-<br>Time: Fringe Activities (12 – 1pm; 2 – 3pm), Performance &amp; Meet-and-greet
-(11:00am -11:45am; 1:00pm – 1:45pm)</p>
+<p><strong>Saturday, 12 April</strong>
+<br>Programme: <em>TBA</em> 
+<br>Venue: Somme Park
+<br>Time: Fringe Activities (4:30pm – 5:00pm ; 6:15pm – 6:45pm), Performance
+&amp; Meet-and-greet (5:00pm -5:30pm; 6:45pm – 7:15pm)</p>
 </div>
 </details>
 </div>
