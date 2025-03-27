@@ -9,28 +9,18 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG___7_of_28_.jpg">
 </div>
-<p>Junior Stars Nurture is a 40-week community programme for disadvantaged
-children aged 7 to 12. The programme comprises two core modules – Communications
-(20 weeks) and Problem-Solving (20 weeks).</p>
-<p>The activity-based curriculum is designed to be interactive, engaging
-and child-centric. With targeted lesson plans for each Primary Level, the
-programme aims to complement existing educational efforts and help children
-strengthen their academic foundation while developing essential skills
-that will equip them for the future.</p>
-<p>Nurture supports and complements the efforts of MOE schools and self-help
-groups by helping children to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Build confidence as communicators</p>
-</li>
-<li>
-<p>Develop as effective problem solvers</p>
-</li>
-<li>
-<p>Become motivated and self-directed learners</p>
-</li>
-</ul>
-<p></p>
+<p>‘Junior Stars' by Central Singapore CDC aims to narrow the gap by providing
+equal learning opportunities for children from lower-income families in
+the Central Singapore district. We will also expose children aged 7 to
+12 to future-ready skillsets for jobs of the future, helping them achieve
+a better life</p>
+<p>The new 'Junior Stars @ Central' offers a "Plug-and-Play" model, providing
+flexibility for community partners to come on board at any time. The new
+format offers an expanded program menu for partners, focusing on three
+key areas: personal well-being, personal effectiveness, and future-ready
+topics.</p>
+<p>Under the Programme Menu, we offer a range of workshops under 1) Self-Mastery
+and 2) Skills for the Future series</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
