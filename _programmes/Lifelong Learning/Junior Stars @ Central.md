@@ -16,10 +16,10 @@ the Central Singapore district. We will also expose children aged 7 to
 a better life</p>
 <p>The new 'Junior Stars @ Central' offers a "Plug-and-Play" model, providing
 flexibility for community partners to come on board at any time. The new
-format offers an expanded program menu for partners , focusing on three
+format offers an expanded program menu for partners, focusing on three
 key areas: personal well-being, personal effectiveness, and future-ready
 topics.</p>
-<p>Under the Programme Menu, we offer a range of workshops under 1)Self-Mastery
+<p>Under the Programme Menu, we offer a range of workshops under 1) Self-Mastery
 and 2) Skills for the Future series</p>
 <table style="minWidth: 50px">
 <colgroup>
