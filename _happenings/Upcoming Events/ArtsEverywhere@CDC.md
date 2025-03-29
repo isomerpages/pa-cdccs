@@ -30,16 +30,15 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <summary><strong>April 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Saturday, 12 April</strong>
-<br>Programme: <em>TBA</em> 
+<p><strong>Saturday, 12 April</strong> 
 <br>Venue: Somme Park
-<br>Time: Fringe Activities (4:30pm – 5:00pm ; 6:15pm – 6:45pm), Performance
-&amp; Meet-and-greet (5:00pm -5:30pm; 6:45pm – 7:15pm)</p>
+<br>
+</p>
 <p></p>
 <p><strong>Saturday, 26 April</strong>
-<br>Programme: <em>TBA</em> 
 <br>Venue: Biddari Community Club
-<br>Time: TBA</p>
+<br>
+</p>
 <p></p>
 </div>
 </details>
