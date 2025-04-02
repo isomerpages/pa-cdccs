@@ -24,8 +24,6 @@ A&nbsp;**Grant Support**&nbsp;to JCs and IHLs for meaningful projects to better 
 ![](/images/GiraffeSG_Heroes.png)
 A&nbsp;**Recognition Programme**&nbsp;to honour Individuals and Organisations who have made significant contributions to better the lives of constituents in Central.
 
-**Contact us**:  
-Mr Joash Phang  
-Manager&nbsp;  
-Partnerships &amp; Programmes  
-[pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
+Join us in making a difference! Pledge your support by&nbsp;**donating and volunteering**&nbsp;to drive positive change in out community. Let’s come together to build a&nbsp;**Do-Good District.**
+
+**Donate &amp; Volunteer**&nbsp;**[HERE](https://linktr.ee/giraffesSG)**!
