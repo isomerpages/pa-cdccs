@@ -6,14 +6,23 @@ third_nav_title: Service To Others
 variant: markdown
 ---
 ![Giraffes Singapore](/images/Partner%20Us/2018-giraffe-main.jpg)<br>
-**Giraffes Singapore**&nbsp;is a&nbsp;**volunteer movement by Central Singapore CDC**. It encourages individuals to ‘**Stick Your Necks Out for the Common Good**’.
+GiraffeSG @ Central is a&nbsp;**movement by Central Singapore CDC**&nbsp;to encourage individuals to&nbsp;**stick their necks out for the common good.**
 
-In line with our mission to build a do-good district, the CDC works closely with a pool of committed ‘Giraffe’ volunteers to serve our communities in need. Our ‘Giraffe’ volunteers play a vital role in expanding our outreach to the vulnerable by contributing their skills, expertise, and networks.
+In 2025, The GiraffeSG @ Central, rebranded from Giraffes Singapore, comprises of 3 key components:
 
-Catch up on past Giraffes Singapore campaigns:
+**GiraffeSG Campaign**
+![](/images/GiraffeSG_Campaign.jpg)
 
-*   [Giraffe Heroes](https://www.youtube.com/watch?v=kySkyxLLdA8)
-*   [Giraffe Park](https://www.facebook.com/watch/?v=1711230715838606)
+An&nbsp;**Awareness Campaign**&nbsp;to Call on Individuals and Organisations to Volunteer and/or Donate.
+
+**GiraffeSG Grant**
+![](/images/GiraffeSG_Grant.jpg)
+
+A&nbsp;**Grant Support**&nbsp;to JCs and IHLs for meaningful projects to better the lives of constituents in Central.
+
+**GiraffeSG Heroes**
+![](/images/GiraffeSG_Heroes.png)
+A&nbsp;**Recognition Programme**&nbsp;to honour Individuals and Organisations who have made significant contributions to better the lives of constituents in Central.
 
 **Contact us**:  
 Mr Joash Phang  
