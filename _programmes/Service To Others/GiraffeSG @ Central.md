@@ -6,9 +6,9 @@ third_nav_title: Service To Others
 variant: markdown
 ---
 ![Giraffes Singapore](/images/Partner%20Us/2018-giraffe-main.jpg)<br>
-GiraffeSG @ Central is a&nbsp;**movement by Central Singapore CDC**&nbsp;to encourage individuals to&nbsp;**stick their necks out for the common good.**
+GiraffeSG is a&nbsp;**movement by Central Singapore CDC**&nbsp;to encourage individuals to&nbsp;**stick their necks out for the common good.**
 
-In 2025, The GiraffeSG @ Central, rebranded from Giraffes Singapore, comprises of 3 key components:
+In 2025, the GiraffeSG, rebranded from Giraffes Singapore, comprises of 3 key components:
 
 <table border="0" width="100%">
 	<tbody><tr>
@@ -26,11 +26,11 @@ In 2025, The GiraffeSG @ Central, rebranded from Giraffes Singapore, comprises o
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
-			<img src="/images/GiraffeSG_Campaign.jpg">
+			<img src="/images/GiraffeSG_Grant.jpg">
 		</td>
 		<td width="50%">
-			<b>GiraffeSG Campaign</b>
-		<br> An Awareness Campaign to Call on Individuals and Organisations to Volunteer and/or Donate.
+			<b>GiraffeSG Grant</b>
+		<br> A Grant Support to JCs, IHLs &amp; Partners for meaningful projects to better the lives of constituents in Central.
 				</td>
 	</tr>
 </tbody></table>
