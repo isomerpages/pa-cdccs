@@ -51,4 +51,4 @@ In 2025, the GiraffeSG, rebranded from Giraffes Singapore, comprises of 3 key co
 
 Join us in making a difference! Pledge your support by&nbsp;**donating and volunteering**&nbsp;to drive positive change in out community. Let’s come together to build a&nbsp;**Do-Good District.**
 
-**Donate &amp; Volunteer**&nbsp;**[HERE](https://linktr.ee/giraffesSG)**!
+**Donate &amp; Volunteer**&nbsp;**[HERE](https://go.gov.sg/giraffesg)**!
