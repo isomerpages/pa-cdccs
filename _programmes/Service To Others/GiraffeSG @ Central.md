@@ -18,8 +18,24 @@ In 2025, The GiraffeSG @ Central, rebranded from Giraffes Singapore, comprises o
 		<td width="50%">
 			<b>GiraffeSG Campaign</b>
 		<br> An Awareness Campaign to Call on Individuals and Organisations to Volunteer and/or Donate.
-		
+				</td>
+	</tr>
+</tbody></table>
 <br>
+
+<table border="0" width="100%">
+	<tbody><tr>
+		<td width="50%">
+			<img src="/images/GiraffeSG_Campaign.jpg">
+		</td>
+		<td width="50%">
+			<b>GiraffeSG Campaign</b>
+		<br> An Awareness Campaign to Call on Individuals and Organisations to Volunteer and/or Donate.
+				</td>
+	</tr>
+</tbody></table>
+<br>
+
 		
 
 		
@@ -46,4 +62,4 @@ A&nbsp;**Recognition Programme**&nbsp;to honour Individuals and Organisations wh
 
 Join us in making a difference! Pledge your support by&nbsp;**donating and volunteering**&nbsp;to drive positive change in out community. Let’s come together to build a&nbsp;**Do-Good District.**
 
-**Donate &amp; Volunteer**&nbsp;**[HERE](https://linktr.ee/giraffesSG)**!</td></tr></tbody></table>
+**Donate &amp; Volunteer**&nbsp;**[HERE](https://linktr.ee/giraffesSG)**!
