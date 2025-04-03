@@ -34,7 +34,7 @@ to Joash at <a href="mailto:PA_CentralSingapore@pa.gov.sg" rel="noopener norefer
 </p>
 <p></p>
 <p></p>
-<p><a href="/files/Central_SG_CDC_Volunteer_Opportunities_Kit_.pdf" rel="noopener noreferrer nofollow" target="_blank">Central SG CDC Volunteer Opportunities Kit</a>
+<p><a href="/files/FINAL_CDC_Volunteer_Opportunities_Kit_2_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Central SG CDC Volunteer Opportunities Kit</a>
 </p>
 </td>
 </tr>
