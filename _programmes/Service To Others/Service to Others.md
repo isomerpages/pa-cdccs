@@ -34,7 +34,8 @@ volunteer with us today! If you wish to volunteer or Do-Good with us, register
 or write to Joash at <a href="mailto:PA_CentralSingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_CentralSingapore@pa.gov.sg</a>
 </p>
 <p></p>
-<p><a href="/files/Central_SG_CDC_Volunteer_Opportunities_Kit_.pdf" rel="noopener nofollow" target="_blank">Central Sg CDC Volunteer Opportunities Kit</a>
+<p></p>
+<p><a href="/files/Central_SG_CDC_Volunteer_Opportunities_Kit_.pdf" rel="noopener noreferrer nofollow" target="_blank">Central SG CDC Volunteer Opportunities Kit</a>
 </p>
 </td>
 </tr>
