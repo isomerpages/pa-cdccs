@@ -49,30 +49,6 @@ In 2025, the GiraffeSG, rebranded from Giraffes Singapore, comprises of 3 key co
 </tbody></table>
 <br>
 
-		
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-**GiraffeSG Grant**
-![](/images/GiraffeSG_Grant.jpg)
-
-A&nbsp;**Grant Support**&nbsp;to JCs and IHLs for meaningful projects to better the lives of constituents in Central.
-
-**GiraffeSG Heroes**
-![](/images/GiraffeSG_Heroes.png)
-A&nbsp;**Recognition Programme**&nbsp;to honour Individuals and Organisations who have made significant contributions to better the lives of constituents in Central.
-
 Join us in making a difference! Pledge your support by&nbsp;**donating and volunteering**&nbsp;to drive positive change in out community. Let’s come together to build a&nbsp;**Do-Good District.**
 
 **Donate &amp; Volunteer**&nbsp;**[HERE](https://linktr.ee/giraffesSG)**!
