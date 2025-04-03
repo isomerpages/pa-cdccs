@@ -22,21 +22,20 @@ the community.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/programmes/service-to-others/giraffes-singapore-volunteer-movement/" rel="noopener noreferrer nofollow" target="_blank">Giraffes Singapore Volunteer Movement</a></strong>
-<br><strong>Giraffes Singapore</strong>&nbsp;is a&nbsp;<strong>volunteer movement by Central Singapore CDC</strong>.
-It encourages individuals to ‘<strong>Stick Your Necks Out for the Common Good</strong>’.
+<p><strong><a href="/programmes/service-to-others/giraffes-singapore-volunteer-movement/" rel="noopener noreferrer nofollow" target="_blank">GiraffeSG @ Central</a></strong>
+<br><strong>GiraffesSG @ Central</strong>&nbsp;is a<strong> movement by Central Singapore CDC</strong> to
+encourage individuals to <strong>stick their necks out for the common good</strong>.
 <br>
 <br><a href="/programmes/service-to-others/giraffes-singapore-volunteer-movement/" rel="noopener noreferrer nofollow" target="_blank">Find out more &gt;</a>
 </p>
 <p></p>
-<p><a href="https://go.gov.sg/volunteeringwithcscdc" rel="noopener noreferrer nofollow" target="_blank">Register</a> to
-volunteer with us today!</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Central_SG_CDC_Volunteer_Opportunities_Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Central SG CDC Volunteer Opportunities Kit</a>
+<p>If you wish to volunteer or Do-Good with us, <a href="https://form.gov.sg/65ee9e79c89f9e178ef44c33" rel="noopener nofollow" target="_blank">register</a> or write
+to Joash at <a href="mailto:PA_CentralSingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_CentralSingapore@pa.gov.sg</a>
 </p>
-</li>
-</ul>
+<p></p>
+<p></p>
+<p><a href="/files/FINAL_CDC_Volunteer_Opportunities_Kit_2_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Central SG CDC Volunteer Opportunities Kit</a>
+</p>
 </td>
 </tr>
 </tbody>
