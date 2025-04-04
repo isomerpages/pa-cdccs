@@ -42,7 +42,7 @@ In 2025, the GiraffeSG, rebranded from Giraffes Singapore, comprises of 3 key co
 			<img src="/images/GiraffeSG_Heroes_png.jpg">
 		</td>
 		<td width="50%">
-			<b>GiraffeSG Hereos</b>
+			<b>GiraffeSG Heroes</b>
 		<br> A Recognition Programme to honour Individuals and Organisations who have made significant contributions to better the lives of constituents in Central.
 				</td>
 	</tr>
