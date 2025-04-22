@@ -48,4 +48,3 @@ An initiative to help low-income students purchase back-to-school necessities wi
 		</td>
 	</tr>
 </tbody></table>
-
