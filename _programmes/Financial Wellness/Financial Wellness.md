@@ -29,22 +29,10 @@ A Programme that aims to provide Central Singapore District residents with local
 			<img src="/images/Programmes/rfsk-(pri).png">
 		</td>
 		<td width="50%">
-			<a href="/programmes/financial-and-social-wellness/school-starter-kit-primaryschool"><b>School Starter Kit @ Central (Primary School)</b></a><br>
-An initiative to help low-income children purchase back-to-school necessities.
+			<a href="/programmes/financial-and-social-wellness/school-starter-kit-primaryschool"><b>School Starter Kit @ Central (Primary &amp; Secondary School)</b></a><br>
+An initiative to help low-income students purchase back-to-school necessities.
 			<br><br><a href="/programmes/financial-and-social-wellness/school-starter-kit-primaryschool">Find out more &gt;</a>
 		</td>
 	</tr>
 </tbody></table>
 
-<table border="0" width="100%">
-	<tbody><tr>
-		<td width="50%">
-			<img src="/images/Programmes/whatsapp-image-2021-01-24-at-10-48-59-pm.jpeg">
-		</td>
-		<td width="50%">
-			<a href="/programmes/financial-and-social-wellness/school-starter-kit-secondaryschool"><b>School Starter Kit @ Central (Secondary School)</b></a><br>
-An initiative to help low-income students purchase back-to-school necessities with $200 worth of book and shopping vouchers.
-			<br><br><a href="/programmes/financial-and-social-wellness/school-starter-kit-secondaryschool">Find out more &gt;</a>
-		</td>
-	</tr>
-</tbody></table>
