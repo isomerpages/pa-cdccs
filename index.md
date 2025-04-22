@@ -63,5 +63,5 @@ sections:
         details over a phone call. Call the 24/7 ScamShield Helpline at 1799 if
         you are unsure.
       button: Find out more
-      url: www.scamshield.gov.sg
+      url: http://www.scamshield.gov.sg/
 ---
