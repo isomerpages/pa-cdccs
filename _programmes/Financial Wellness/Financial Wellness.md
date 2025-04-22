@@ -22,19 +22,6 @@ A Programme that aims to provide Central Singapore District residents with local
 </tbody></table>
 
 
-<table border="0" width="100%">
-	<tbody><tr>
-		<td width="50%">
-			<img src="/images/SCH_BUS_FARE.jpg">
-		</td>
-		<td width="50%">
-			<a href="/programmes/financial-and-social-wellness/school-bus-fare-subsidy-grant">
-				<b>School Bus Fare Subsidy Grant</b></a><br>
-An initiative to support families affected by the school bus fare hikes.
-			<br><br><a href="/programmes/financial-and-social-wellness/school-bus-fare-subsidy-grant">Find out more &gt;</a>
-		</td>
-	</tr>
-</tbody></table>
 
 <table border="0" width="100%">
 	<tbody><tr>
@@ -58,19 +45,6 @@ An initiative to help low-income children purchase back-to-school necessities.
 			<a href="/programmes/financial-and-social-wellness/school-starter-kit-secondaryschool"><b>School Starter Kit @ Central (Secondary School)</b></a><br>
 An initiative to help low-income students purchase back-to-school necessities with $200 worth of book and shopping vouchers.
 			<br><br><a href="/programmes/financial-and-social-wellness/school-starter-kit-secondaryschool">Find out more &gt;</a>
-		</td>
-	</tr>
-</tbody></table>
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td width="50%">
-			<img src="/images/Programmes/cashup-plus.jpg">
-		</td>
-		<td width="50%">
-			<a href="/images/Programmes/cashup-plus"><b>CashUP PLUS</b></a><br>
-A financial literacy programme to help low-income families start a regular savings habit.
-			<br><br><a href="/programmes/financial-and-social-wellness/cashup-plus">Find out more &gt;</a>
 		</td>
 	</tr>
 </tbody></table>
