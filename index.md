@@ -57,8 +57,7 @@ sections:
       alt: Image alt text
       image: /images/Home/map (large).jpg
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: Advisory
       id: infobar
       description: PA officials will NEVER ask you to transfer money or disclose bank
         details over a phone call. Call the 24/7 ScamShield Helpline at 1799 if
