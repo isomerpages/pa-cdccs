@@ -4,7 +4,12 @@ permalink: /resources/voices-magazine/
 description: ""
 variant: tiptap
 ---
-<a class="isomer-image-wrapper" href="https://go.gov.sg/voices-december-2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/VOICES_Dec_24_Front_Cover.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Voices_Apr_2025_Issue_Cover.jpg">
+</div>
+<p><a href="https://heyzine.com/flip-book/1b96e8d9db.html" rel="noopener noreferrer nofollow" target="_blank">ISSUE 100: Apr 2025</a>
+</p>
 <p><a href="https://go.gov.sg/voices-december-2024" rel="noopener noreferrer nofollow" target="_blank">ISSUE 99: Dec 2024</a>
 </p>
 <p><a href="https://go.gov.sg/voices-aug-2024" rel="noopener noreferrer nofollow" target="_blank">ISSUE 98: Aug 2024</a>
