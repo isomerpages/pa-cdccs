@@ -29,7 +29,7 @@ A Programme that aims to provide Central Singapore District residents with local
 			<img src="/images/SSK.jpg">
 		</td>
 		<td width="50%">
-			<a href="/programmes/financial-and-social-wellness/school-starter-kit-primaryschool"><b>School Starter Kit @ Central (Primary &amp; Secondary School)</b></a><br>
+			<a href="/programmes/financial-and-social-wellness/school-starter-kit/"><b>School Starter Kit @ Central (Primary &amp; Secondary School)</b></a><br>
 An initiative to help low-income students purchase back-to-school necessities.
 			<br><br><a href="/programmes/financial-and-social-wellness/school-starter-kit-primaryschool">Find out more &gt;</a>
 		</td>
