@@ -1,6 +1,6 @@
 ---
-title: School Starter Kit (Primary School)
-permalink: /programmes/financial-and-social-wellness/school-starter-kit-primaryschool/
+title: School Starter Kit
+permalink: /programmes/financial-and-social-wellness/school-starter-kit/
 description: ""
 third_nav_title: Financial Wellness
 variant: markdown
