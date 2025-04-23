@@ -45,66 +45,6 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sat, 5 Apr 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9am to 1pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Buona Vista</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sports @ Buona Vista</strong>
-</p>
-<p><strong>(115A Commonwealth Drive S149596)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sun, 6 Apr 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9am to 3pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Kebun Bahru</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Thomson Green Playground</strong>
-</p>
-<p><strong>(Behind Salem Chapel at 1 Thomson Hills Drive, S574746)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sun, 13 Apr 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3pm to 7pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Jalan Besar</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Zhongshan Park</strong>
-</p>
-<p><strong>(Along Balestier Road)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Sat, 26 Apr 2025</strong>
 </p>
 </td>
