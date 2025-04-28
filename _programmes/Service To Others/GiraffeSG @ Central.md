@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Service To Others
 variant: markdown
 ---
-![Giraffes Singapore](/images/Partner%20Us/2018-giraffe-main.jpg)<br>
+![Giraffes Singapore](/images/G_final.jpg)<br>
 GiraffeSG is a&nbsp;**movement by Central Singapore CDC**&nbsp;to encourage individuals to&nbsp;**stick their necks out for the common good.**
 
 In 2025, the GiraffeSG, rebranded from Giraffes Singapore, comprises of 3 key components:
