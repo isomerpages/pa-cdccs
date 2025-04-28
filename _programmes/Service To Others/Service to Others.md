@@ -17,13 +17,13 @@ the community.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_001_121.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/G_final.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong><a href="/programmes/service-to-others/giraffes-singapore-volunteer-movement/" rel="noopener noreferrer nofollow" target="_blank">GiraffeSG @ Central</a></strong>
-<br><strong>GiraffesSG @ Central</strong>&nbsp;is a<strong> movement by Central Singapore CDC</strong> to
+<br><strong>GiraffeSG @ Central</strong>&nbsp;is a<strong> movement by Central Singapore CDC</strong> to
 encourage individuals to <strong>stick their necks out for the common good</strong>.
 <br>
 <br><a href="/programmes/service-to-others/giraffes-singapore-volunteer-movement/" rel="noopener noreferrer nofollow" target="_blank">Find out more &gt;</a>
