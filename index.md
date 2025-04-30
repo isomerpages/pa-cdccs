@@ -12,27 +12,26 @@ sections:
       background: /images/PACDC_web_banner_31_dec_1.jpg
       url: /get-started
   - infopic:
-      description: Your Monthly Dose of News & Happenings!
+      description: Your monthly dose of news & happenings of Central Singapore
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/resources/e-voices
       alt: Image alt text
-      image: /images/Home/E-Voices (large).png
+      image: /images/evoices_1.jpg
       title: E-VOICES
   - infopic:
       description: Check out our latest issue of VOICES here!
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/resources/voices-magazine
       alt: Image alt text
-      image: /images/Home/VOICES (large).png
+      image: /images/VOICES_4.jpg
       title: VOICES
   - infopic:
-      description: Be a part of our Giraffes Singapore Volunteer Movement. Stick your
-        neck out for the common good and make a difference for communities in
-        need!
+      description: Be a part of our GiraffeSG @ Central Movement. Stick your neck out
+        for the common good and make a difference for communities in need!
       button: FIND OUT MORE
-      url: https://centralsingapore.cdc.gov.sg/partner-us/giraffes-singapore-volunteer
+      url: https://centralsingapore.cdc.gov.sg/programmes/service-to-others/giraffes-singapore-volunteer-movement/
       alt: Image alt text
-      image: /images/Home/CS-CDC-Website-thumbnails-(large).jpg
+      image: /images/G_final.jpg
       title: VOLUNTEER WITH US
   - infopic:
       description: This community scheme is designed to help identified households to
