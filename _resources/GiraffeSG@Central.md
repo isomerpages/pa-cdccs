@@ -16,7 +16,6 @@ description: ""
 <details class="isomer-details">
 <summary>Divisions</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3></h3>
 <p>Teck Ghee</p>
 <p>Ang Mo Kio-Hougang</p>
 <p>Buangkok-Fernvale South</p>
@@ -36,6 +35,13 @@ description: ""
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GiraffeSG_Heroes_png.jpg">
 </div>
 <h3>Jalan Besar GRC</h3>
-<p><a href="https://go.gov.sg/volunteer-kampongglam" rel="noopener nofollow" target="_blank">Kampong Glam CO</a>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Divisions</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Kampong Glam - <a href="https://form.gov.sg/682710f6ddc81b6ad1bdc52e" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/682710f6ddc81b6ad1bdc52e</a>
 </p>
+</div>
+</details>
+</div>
 <p></p>
