@@ -11,16 +11,20 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GiraffeSG_Heroes_png.jpg">
 </div>
+<h3>Ang Mo Kio GRC</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Ang Mo Kio GRC</summary>
+<summary>Divisions</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h3></h3>
-<p>Kebun Baru CO - <a href="https://form.gov.sg/682710f6ddc81b6ad1bdc52e" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/682710f6ddc81b6ad1bdc52e</a>
-</p>
-<p>Teck Ghee CO - <a href="https://form.gov.sg/682710f6ddc81b6ad1bdc52e" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/682710f6ddc81b6ad1bdc52e</a>
-</p>
-<p></p>
+<p>Teck Ghee</p>
+<p>Ang Mo Kio-Hougang</p>
+<p>Buangkok-Fernvale South</p>
+<p>Cheng San</p>
+<p>Seletar-Serangoon</p>
+<p>Jalan Kayu</p>
+<p>Kebun Baru</p>
+<p>Yio Chu Kang</p>
 <p></p>
 </div>
 </details>
