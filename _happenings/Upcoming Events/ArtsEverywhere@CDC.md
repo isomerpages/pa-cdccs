@@ -27,7 +27,7 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <h3>Calendar of Events</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>April 2025</strong>
+<summary><strong>June 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Saturday, 12 April</strong> 
@@ -35,8 +35,10 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <br>
 </p>
 <p></p>
-<p><strong>Saturday, 26 April</strong>
-<br>Venue: Biddari Community Club
+<p><strong>Saturday, 28 June 2025</strong>
+<br>Venue: Hougang 1 Mall</p>
+<p>Performing Group: ACT 3 International</p>
+<p>Performance Timing: 13:30pm and 2:30pm
 <br>
 </p>
 <p></p>
