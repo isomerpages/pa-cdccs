@@ -9,7 +9,7 @@ notification: Government officials will NEVER ask you to transfer money
   Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
-      background: /images/PACDC_web_banner_31_dec_1.jpg
+      background: /images/Landing_page_banner_3.png
       url: /get-started
   - infopic:
       description: Your monthly dose of news & happenings of Central Singapore
