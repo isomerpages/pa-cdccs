@@ -30,8 +30,8 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <summary><strong>June 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Saturday, 12 April</strong> 
-<br>Venue: Somme Park
+<p><strong>Saturday, 21 June 2025</strong> 
+<br>Venue: TBC
 <br>
 </p>
 <p></p>
