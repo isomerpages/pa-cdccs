@@ -45,19 +45,37 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sat, 26 Apr 2025</strong>
+<p><strong>Sat, 14 June 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9.30am to 2pm</strong>
+<p><strong>9am to 1pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ang Mo Kio - Hougang</strong>
+<p><strong>Tanjong Pagar - Tiong Bahru</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ci Yuan CC, Level 1</strong>
+<p><strong>Carpark beside Blk 101 Spottiswoode Park Road, (S080101)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sat, 21 June 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9am to 1pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Queenstown</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leng Kee CC</strong>
 </p>
 </td>
 </tr>
