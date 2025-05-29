@@ -38,7 +38,7 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <p><strong>Saturday, 28 June 2025</strong>
 <br>Venue: Hougang 1 Mall</p>
 <p>Performing Group: ACT 3 International</p>
-<p>Performance Timing: 13:30pm and 2:30pm
+<p>Performance Timing: 1pm and 3pm
 <br>
 </p>
 <p></p>
