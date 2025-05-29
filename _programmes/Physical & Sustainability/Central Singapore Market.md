@@ -77,6 +77,8 @@ Disabilities can showcase their talents and earn a livelihood</p>
 <td rowspan="1" colspan="1">
 <p><strong>Leng Kee CC</strong>
 </p>
+<p><strong>400 Lengkok Bahru, Singapore 159049</strong>
+</p>
 </td>
 </tr>
 </tbody>
