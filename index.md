@@ -35,13 +35,12 @@ sections:
       image: /images/G_final.jpg
       title: VOLUNTEER WITH US
   - infopic:
-      description: This community scheme is designed to help identified households to
-        defray the cost of living and support our local businesses tide through
-        this COVID-19 period.
+      description: This community scheme is designed to help Singaporean households to
+        defray the cost of living and support our local businesses.
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/programmes/cdc-vouchers-scheme
       alt: Image alt text
-      image: /images/Home/CDC Vouchers (large).png
+      image: /images/Untitled_4.jpg
       title: CDC Vouchers Scheme
   - infopic:
       description: The Central Singapore Community Development Council (CDC) serves
