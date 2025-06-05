@@ -81,6 +81,60 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun, 13 Jul 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3pm to 7pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Kampong Glam</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Zhongshan Park (Along Balestier Road)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sat, 19 Jul 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>4pm to 7pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Moulmein-Cairnhill</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Balmoral Road (Walkway beside Sui Generis Condominium)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun, 3 Aug 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1pm to 7pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Marymount</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bishan Active Park, Bishan St. 23, S570231</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
