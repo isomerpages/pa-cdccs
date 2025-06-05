@@ -4,7 +4,7 @@ permalink: /programmes/cdc-vouchers-scheme/
 description: ""
 variant: markdown
 ---
-![](/images/Landing_page_banner.png)
+![](/images/Key_Visual_May_2025.png)
 
 As announced in Budget 2025, all Singaporean households will receive an additional $800 in CDC Vouchers to help with daily expenses. The vouchers are distributed in two tranches — $500 in May 2025 and $300 in January 2026.
 
