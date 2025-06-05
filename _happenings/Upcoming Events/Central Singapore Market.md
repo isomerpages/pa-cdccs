@@ -77,9 +77,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Leng Kee CC</strong>
-</p>
-<p><strong>400 Lengkok Bahru, S159049</strong>
+<p><strong>Leng Kee CC, 400 Lengkok Bahru, S159049</strong>
 </p>
 </td>
 </tr>
@@ -93,41 +91,48 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kampong Glam</p>
+<p><strong>Kampong Glam</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhongshan Park</p>
-<p>(Along Balestier Road)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sat, 19 Jul 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4pm to 7pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Moulmein-Cairnhill</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Balmoral Road</p>
-<p>(Walkway beside Sui Generis Condominium)</p>
+<p><strong>Zhongshan Park (Along Balestier Road)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sun, 3 Aug 2025</p>
+<p><strong>Sat, 19 Jul 2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1pm to 7pm</p>
+<p><strong>4pm to 7pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marymount</p>
+<p><strong>Moulmein-Cairnhill</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bishan Active Park</p>
-<p>Biahan St. 23, S570231</p>
+<p><strong>Balmoral Road (Walkway beside Sui Generis Condominium)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun, 3 Aug 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1pm to 7pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Marymount</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bishan Active Park, Bishan St. 23, S570231</strong>
+</p>
 </td>
 </tr>
 </tbody>
