@@ -2,7 +2,6 @@
 title: Mind Your Health
 permalink: /programmes/wellness-and-sustainability/mind-your-health/
 description: ""
-third_nav_title: Physical & Sustainability
 ---
 ![Mind Your Health](/images/Programmes/myh-photo.jpeg)
 
