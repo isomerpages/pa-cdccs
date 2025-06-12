@@ -28,8 +28,6 @@ Partnerships &amp; Programmes
 [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
 
 
-[The Purple Symphony Concert Booklet 2024](https://go.gov.sg/tps-programme-booklet-2024)
+[The Purple Symphony Concert Booklet 2025](https://heyzine.com/flip-book/43cb3bd09d.html)
 
-<a href="https://go.gov.sg/tps-programme-booklet-2024">
-	<img src="/images/TPS_Programme_Booklet_2024_Cover.jpg" alt="The Purple Symphony Concert Booklet 2019" style="width:45%;float:left;">
-</a>
+![](/images/TPS_Concert_Booklet_2025___Cover.jpg)
