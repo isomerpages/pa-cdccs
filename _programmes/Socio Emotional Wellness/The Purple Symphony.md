@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Socio Emotional Wellness
 variant: markdown
 ---
-![The Purple Symphony](/images/Programmes/tps-main.jpg)
+![](/images/2024_0714___0138.jpg)
 
 The Purple Symphony is an inclusive orchestra comprising talented musicians with and without disabilities. Its members play a range of Asian and Western instruments from five key musical sections: Strings (Plucked), Strings (Bow), Wind, Percussion and Choir.
 
