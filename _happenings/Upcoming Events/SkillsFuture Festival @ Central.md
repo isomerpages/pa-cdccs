@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Upcoming Events
 variant: markdown
 ---
-Organised by Central Singapore Community Development Council, the **Skills for Good Festival 2024** aims to promote skills for the good of&nbsp;**Self**,&nbsp;**Community**&nbsp;and for&nbsp;**Life**. 
+Organised by Central Singapore Community Development Council, the **SkillsFuture Festival @ Central 2025** aims to promote skills for the good of&nbsp;**Self**,&nbsp;**Community**&nbsp;and for&nbsp;**Life**. 
 
 
 
@@ -13,7 +13,7 @@ Organised by Central Singapore Community Development Council, the **Skills for G
 
 
 
-The 2024’s edition will feature new learning journeys where participants will go on learning field trips across Singapore to learn firsthand from industry experts about trends, jobs and skills&nbsp;in Singapore’s key growth areas – the&nbsp;**Green, Digital and Care economies**.
+The 2025’s edition will feature new learning journeys where participants will go on learning field trips across Singapore to learn firsthand from industry experts about trends, jobs and skills&nbsp;in Singapore’s key growth areas – the&nbsp;**Green, Digital and Care economies**.
 
 [Register for the event now](https://form.gov.sg/66863b11f110b161b6e2035e) to redeem a free mystery gift! *While stocks last
 
