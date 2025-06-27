@@ -62,24 +62,29 @@ Register your interest [here](https://go.gov.sg/sffcentral2025) to attend the ev
 Present your confirmation email on-site to receive a mystery gift! <br>(Limited to the stated period, while stocks last.)
 
 
+# **Career &amp; Skills Advisory**
+
+Speak to a Career Coach for job or career guidance, or a Skills Ambassador to identify skills gaps and training needs.
+
 # **Learning Journey**
 
-**Experience a day in McFamily @ McDonald's!** <br>
-This learning journey is recommended for fresh graduates and adults looking for a mid-career switch or employment.
+Discover tech innovations via our Learning Journeys across the different industries. Indicate your interest for the following learning journeys via the respective links below.
 
-**Date:** Fri, 26 Jul 2024<br>
-**Time:** 11:45am - 4pm<br>
-**Reporting Venue:** Plaza Singapura Main Atrium<br>
-**Registration:** 11:00am - 11.45am<br>
+**1. Learning Journey @ Huawei Innovation Centre** <br>
+This learning journey is recommended for individuals with an interest or background in engineering.
+
+**Date:** Fri, 25 Jul 2025<br>
+**Time:** 11:30am - 4.30pm<br>
+**Reporting Venue:** Bishan Junction 8 Atrium (Level 2)<br>
+
 
 **What to expect**: 
-- Embark on a learning journey to McDonald's for a glimpse into the operations of one of the world's largest fast-food chains. <br>
-- Witness how technology is integrated into self-service kiosks and kitchen operations to enhance service speed, order accuracy and customisation capabilities in order to boost customers satisfaction.<br>
-- Delve into McDonald's comprehensive training and skill development framework to understand its commitment to nurturing talent and fostering career growth across diverse demographic profile of employees. <br>
-- Explore diverse career paths within McDonald's for progression and professional development opportunities.<br>
+- Take part in an immersive tour of the Huawei Innovation Centre that highlights the company's best sustainability practices. <br>
+- Explore real-world case studies highlighting successful partnerships between Huawei and its local and international collaborators.<br>
+- Join a company sharing session by Huawei representatives. <br>
 
-*Organised in partnership with Social Service Institute (SSI*).  <br>
-[Register here!](https://go.gov.sg/sfg2024-cscdcsfamacs)
+
+[Register here!](https://go.gov.sg/sffcs25-lj-huawei)
 
 
 <br>
