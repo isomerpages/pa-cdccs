@@ -5,24 +5,61 @@ description: ""
 third_nav_title: Upcoming Events
 variant: markdown
 ---
-Organised by Central Singapore Community Development Council, the **SkillsFuture Festival @ Central 2025** aims to promote skills for the good of&nbsp;**Self**,&nbsp;**Community**&nbsp;and for&nbsp;**Life**. 
+Organised by Central Singapore Community Development Council, the **SkillsFuture Festival @ Central 2025** (previously known as Skills For Good Festival) is back at Bishan, Junction 8 this year!
 
 
 
-![](/images/WhatsApp_Image_2024_07_08_at_10_38_51_AM.jpg)
+![](/images/SFF__Central_2025_eDM_Final_w_LLI_logo__1_.png)
 
 
 
-The 2025’s edition will feature new learning journeys where participants will go on learning field trips across Singapore to learn firsthand from industry experts about trends, jobs and skills&nbsp;in Singapore’s key growth areas – the&nbsp;**Green, Digital and Care economies**.
 
-[Register for the event now](https://form.gov.sg/66863b11f110b161b6e2035e) to redeem a free mystery gift! *While stocks last
 
-# Engagement Booths
+# **Job Interviews**
+Interested in a role in the digital or tech industry?
 
-![](/images/sfg_05_1.jpg) <br>
-![](/images/sfg_06_1.jpg) <br>
-![](/images/sfg_07.jpg) <br>
-![](/images/sfg_08_1.jpg)
+Visit [https://go.gov.sg/sff072025](https://go.gov.sg/sff072025) to explore available positions and secure your on-site interview slot!
+
+
+# **Skills Marketplace**
+Try your hands on Artificial Intelligence and technology in trend!<br>
+Complete activities on-site to receive prizes!
+
+**1. Uncover Drones and LiDAR Tech**<br>
+_Academy of Design Arts &amp; Media Singapore_<br>
+
+Learn how drones are used for Thermal Imaging and Light Detection and Ranging (LiDAR). These are valuable skills for roles in construction, urban planning, facilities management, inspection services, and more.<br>
+
+Try your hand at flying a drone with our on-screen simulator, and deepen your understanding of industry-grade drones through the drone showcase.
+
+**2. Discover Your Career Interests with AI!**<br>
+_Aventis Learning Group_<br>
+
+Curious about your ideal career path? Join us and let AI help you uncover careers and courses tailored to your unique persona.
+
+Receive personalised results instantly — a perfect keepsake for your portfolio and a great first step toward your future!
+
+**3. Put Your Cybersecurity Skills To The Test - Can You Escape?**<br>
+_Digital Defence Alliance SG_
+
+Dive into our thrilling online escape game where you put your cybersecurity skills to ultimate test! Solve puzzles, crack codes and challenge your mind.<br>
+
+You will also get to explore interesting coding and cybersecurity courses which you can utilise your SkillsFuture Credits for!
+
+**4. Creating Videos with Gen AI**<br>
+_Institute of Technical Education_
+
+Bring your images to life with Gen AI! Discover how the right prompts add motion, mood, and personality. Transform still shots into eye-catching videos in seconds!
+
+**5. Build Your Own Chatbot**<br>
+_Nanyang Polytechnic_
+
+Future-proof your career with AI and must-have soft skills! Catch a live demonstration of hipp0.ai to find out how simple it is to build your own chatbot!
+
+<br>
+<br>
+Register your interest [here](https://go.gov.sg/sffcentral2025) to attend the event at Junction 8. Present your confirmation email on-site to receive a mystery gift! (Limited to the stated period, while stocks last.)
+
 
 # **Learning Journey**
 
