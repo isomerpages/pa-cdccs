@@ -97,7 +97,7 @@ This learning journey is recommended for individuals who have:
 <br>
 **Date:** Fri, 25 Jul 2025<br>
 **Time:** 1.30pm – 4pm<br>
-**Reporting Venue:** Bishan Junctiom 8 Atrium (Level 2)<br>
+**Reporting Venue:** Bishan Junction 8 Atrium (Level 2)<br>
 
 
 
@@ -111,7 +111,7 @@ green building
 - Get a glimpse of where digital transformation is headed and how
 Schneider Electric is preparing for future industry needs <br>
 
-*[undefined](https://go.gov.sg/sffcs25-lj-schneider)Register here!* <br> <br>
+[Register Here!](https://go.gov.sg/sffcs25-lj-schneider) <br> <br>
 
 
 **Learning Journey @ Maritime Port Authority**
