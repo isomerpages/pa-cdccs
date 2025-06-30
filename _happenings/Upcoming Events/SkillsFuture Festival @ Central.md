@@ -60,8 +60,8 @@ demonstration of hipp0.ai to find out how simple it is to build your own
 chatbot!</p>
 <p>
 <br>
-<br>Register your interest [here](https://go.gov.sg/sffcentral2025) to attend
-the event at Junction 8.
+<br>Register your interest <a href="https://go.gov.sg/sffcentral2025" rel="noopener nofollow" target="_blank">here</a> to
+attend the event at Junction 8.
 <br>Present your confirmation email on-site to receive a mystery gift!
 <br>(Limited to the stated period, while stocks last.)</p>
 <h1><strong>Career &amp; Skills Advisory</strong></h1>
