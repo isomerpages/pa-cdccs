@@ -114,38 +114,23 @@ Schneider Electric is preparing for future industry needs <br>
 *[undefined](https://go.gov.sg/sffcs25-lj-schneider)Register here!* <br> <br>
 
 
-**Explore the World of Wooden Pallet Recycling @ CREUSE!**
-<br>This learning journey is recommended for fresh graduates and adults looking for a mid-career switch or employment in the green economy.
+**Learning Journey @ Maritime Port Authority**
+<br>This learning journey is recommended for individuals with an interest in the maritime industry.
 
-**Date:** Sat, 27 Jul 2024<br>
-**Time:** 11.15am - 1.45pm<br>
+**Date:** Sat, 26 Jul 2025<br>
+**Time:** 1pm - 6pm<br>
 **Reporting Venue:** Plaza Singapura Main Atrium<br>
 **Registration:** 9:30am - 10:15am<br>
 
 **What to expect:**  
-- Tour a local pallet manufacturing facility to gain insights into the industry and sustainability scene in Singapore.<br>
-- Find out how CREUSE actively repairs and upcycles wooden waste.
-- Identify and learn about different pallet materials.<br>
-- Visit the upcycling production site to learn how the pallets are processed.
-- Hands-on activity to create your own take-home souvenir from upcycled wood!<br>
-
-*Organised in partnership with CREUSE*.<br>
-[Register here!](https://go.gov.sg/sfg2024-creuse)
+- Kick off your maritime adventure at the Singapore Maritime Gallery and discover how Singapore became a global maritime hub
+    
+- Get insider insights into innovations shaping the future of maritime operations
+    
+- Board a fully electric harbour craft and explore its cutting-edge technology and charging systems
+    
+<br>
+[Register Here!](https://go.gov.sg/sffcs25-lj-mpa)
 
 <br>
 
-**Cracking the Wonders of Egg Story!**<br>
-This learning journey is recommended for fresh graduates or adults looking for a mid-career switch, who are passionate about sustainable farming.
-
-**Date:** Sat, 27 Jul 2024<br>
-**Time:** 11.15am - 1.30pm<br>
-**Reporting Venue:** Plaza Singapura Main Atrium<br>
-**Registration:** 9.45am - 10.15am<br>
-
-**What to expect:** 
-- Learn how sustainable practices and technology are adopted in the production of eggs.<br>
-- Hear first-hand from an employee who made a mid-career switch from laboratory to farm.<br>
-- Hands-on activity to make your own marinated ramen eggs!<br>
-
-*Organised in partnership with N&amp;N Agriculture. <br>
-[Register here!](https://go.gov.sg/sfg2024-eggfarm)*
