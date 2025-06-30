@@ -133,4 +133,3 @@ Schneider Electric is preparing for future industry needs <br>
 [Register Here!](https://go.gov.sg/sffcs25-lj-mpa)
 
 <br>
-
