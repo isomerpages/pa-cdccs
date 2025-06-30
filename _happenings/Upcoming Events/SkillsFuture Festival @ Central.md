@@ -70,7 +70,7 @@ Speak to a Career Coach for job or career guidance, or a Skills Ambassador to id
 
 Discover tech innovations via our Learning Journeys across the different industries. Indicate your interest for the following learning journeys via the respective links below.
 
-**1. Learning Journey @ Huawei Innovation Centre** <br>
+**Learning Journey @ Huawei Innovation Centre** <br>
 This learning journey is recommended for individuals with an interest or background in engineering.
 
 **Date:** Fri, 25 Jul 2025<br>
