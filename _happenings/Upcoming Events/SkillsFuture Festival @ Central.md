@@ -58,7 +58,7 @@ Future-proof your career with AI and must-have soft skills! Catch a live demonst
 
 <br>
 <br>
-Register your interest [here](https://go.gov.sg/sffcentral2025) to attend the event at Junction 8. <br>
+Register your interest [here](https://go.gov.sg/sffcentral2025)here to attend the event at Junction 8. <br>
 Present your confirmation email on-site to receive a mystery gift! <br>(Limited to the stated period, while stocks last.)
 
 
@@ -90,30 +90,29 @@ This learning journey is recommended for individuals with an interest or backgro
 <br>
 <br>
 
-**Dive into the Future of Cybersecurity @ Cisco!**<br>
-This learning journey is recommended for fresh graduates and adults looking for a mid-career switch or employment in the cybersecurity space.<br>
+**Learning Journey @ Schneider Electric Singapore Innovation Hub**<br>
+This learning journey is recommended for individuals who have:
+- A background in business / engineering / HR
+- An interest in pivoting to sustainability roles.<br>
 <br>
-**Date:** Fri, 26 Jul 2024<br>
-**Time:** 1.30pm – 3.45pm<br>
-**Reporting Venue:** Plaza Singapura Main Atrium<br>
-**Registration:** 12.00pm - 12:45pm<br>
+**Date:** Fri, 25 Jul 2025<br>
+**Time:** 1.30pm – 4pm<br>
+**Reporting Venue:** Bishan Junctiom 8 Atrium (Level 2)<br>
 
-OR
 
-**Date:** Sat, 27 Jul 2024<br>
-**Time:** 11.15am – 1.30pm<br>
-**Reporting Venue:** Plaza Singapura Main Atrium<br>
-**Registration:** 9:45am - 10:30am<br>
+
 
 **What to expect**: <br>
-- Embark on a learning journey to Cisco and witness firsthand latest collaboration tools, include the role of AI in enhancing collaboration by bridging physical and virtual spaces, ensuring seamless interactions and efficient communication across teams.<br>
-- Tour a people-first workspaces and understand what are the essential digital skills needed to navigate today's hybrid work settings. <br>
-- Gain career insights from Cisco HR team to pursue a career in cybersecurity. <br>
+Learn about Schneider Electric's global commitment to energy
+management, automation, and sustainability
+- Understand how innovative digital technology is being harnessed to
+meet long-term sustainability goals, particularly in energy use and
+green building
+- Get a glimpse of where digital transformation is headed and how
+Schneider Electric is preparing for future industry needs <br>
 
-*Organised in partnership with Cisco.* <br> 
-[Register here for 26 July](https://go.gov.sg/sfg2024-ciscofri) <br>
-[Register here for 27 July](https://go.gov.sg/sfg2024-ciscosat)
-<br>
+*[undefined](https://go.gov.sg/sffcs25-lj-schneider)Register here!* <br> <br>
+
 
 **Explore the World of Wooden Pallet Recycling @ CREUSE!**
 <br>This learning journey is recommended for fresh graduates and adults looking for a mid-career switch or employment in the green economy.
