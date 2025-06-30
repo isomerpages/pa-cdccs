@@ -170,6 +170,6 @@ and charging systems</p>
 </li>
 </ul>
 <p>
-<br>[Register Here!](https://go.gov.sg/sffcs25-lj-mpa)
+<br><a href="https://go.gov.sg/sffcs25-lj-mpa" rel="noopener nofollow" target="_blank">Register Here!</a>
 <br>
 </p>
