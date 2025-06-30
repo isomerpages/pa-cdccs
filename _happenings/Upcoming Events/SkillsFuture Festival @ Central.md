@@ -58,7 +58,7 @@ Future-proof your career with AI and must-have soft skills! Catch a live demonst
 
 <br>
 <br>
-Register your interest [here](https://go.gov.sg/sffcentral2025)here to attend the event at Junction 8. <br>
+Register your interest [here](https://go.gov.sg/sffcentral2025) to attend the event at Junction 8. <br>
 Present your confirmation email on-site to receive a mystery gift! <br>(Limited to the stated period, while stocks last.)
 
 
