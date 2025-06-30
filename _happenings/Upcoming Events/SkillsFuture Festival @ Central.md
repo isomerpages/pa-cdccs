@@ -120,7 +120,7 @@ Schneider Electric is preparing for future industry needs <br>
 **Date:** Sat, 26 Jul 2025<br>
 **Time:** 1pm - 6pm<br>
 **Reporting Venue:** Bishan Junction 8 Atrium (Level 2)<br>
-**Registration:** 9:30am - 10:15am<br>
+
 
 **What to expect:**  
 - Kick off your maritime adventure at the Singapore Maritime Gallery and discover how Singapore became a global maritime hub
