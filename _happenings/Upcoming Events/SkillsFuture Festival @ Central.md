@@ -77,7 +77,7 @@ attend the event at Junction 8.
 <p>Discover tech innovations via our Learning Journeys across the different
 industries. Indicate your interest for the following learning journeys
 via the respective links below.</p>
-<p><strong>Learning Journey @ Huawei Innovation Centre</strong> 
+<p><strong>Learning Journey @ Huawei Innovation &amp; Sustainability Centre</strong>
 <br>This learning journey is recommended for individuals with an interest
 or background in engineering.</p>
 <p><strong>Date:</strong> Fri, 25 Jul 2025
