@@ -88,8 +88,8 @@ or background in engineering.</p>
 <p><strong>What to expect</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Take part in an immersive tour of the Huawei Innovation Centre that highlights
-the company's best sustainability practices.
+<p>Take part in an immersive tour of the Huawei Innovation &amp; Sustainability
+Centre highlights the company's best sustainability practices.
 <br>
 </p>
 </li>
