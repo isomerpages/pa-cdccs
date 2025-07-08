@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
   href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
-      background: /images/Landing_page_banner_3.png
+      background: /images/SG60_Artwork_Hero_Image_Adapted.png
       url: /get-started
   - infopic:
       description: Your monthly dose of news & happenings of Central Singapore
