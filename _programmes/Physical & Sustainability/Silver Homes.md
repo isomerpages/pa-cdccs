@@ -29,6 +29,8 @@ initiatives such as:</p>
 <p><strong>Volunteer with us!</strong> 
 <br>Interested organisations or volunteer groups with at least 25 volunteers
 aged 16 and above may contact the CDC to help refurbish our seniors' homes.</p>
-<p><strong>Contact us</strong>: Mr Delon Lim, Partnerships &amp; Programmes
+<p><strong>Contact us</strong>:</p>
+<p>Mr Ryan Neo,</p>
+<p>Partnerships &amp; Programmes
 <br><a href="mailto:pa_centralsingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_centralsingapore@pa.gov.sg</a>
 </p>
