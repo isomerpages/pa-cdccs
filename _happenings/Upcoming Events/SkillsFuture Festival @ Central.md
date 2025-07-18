@@ -99,7 +99,8 @@ attend the event at Junction 8.
 <p>Speak to a Career Coach for job or career guidance</p>
 </li>
 <li>
-<p>Identify skills gaps and training needs with a Skills Ambassador</p>
+<p>Identify skills gaps and training needs with a Skills Ambassador from
+Lifelong Learning Singapore</p>
 </li>
 </ul>
 <h1><strong>Learning Journey</strong></h1>
@@ -140,7 +141,7 @@ Huawei and its local and international collaborators.
 <br>
 <br>
 </p>
-<p><strong>Learning Journey @ Schneider Electric Singapore Innovation Hub</strong>
+<p><strong>[REGISTRATION CLOSED] Learning Journey @ Schneider Electric Singapore Innovation Hub</strong>
 <br>This learning journey is recommended for individuals who have:</p>
 <ul data-tight="true" class="tight">
 <li>
