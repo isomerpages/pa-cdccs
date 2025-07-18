@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <p>Organised by Central Singapore Community Development Council, the <strong>SkillsFuture Festival @ Central 2025</strong> (previously
 known as Skills For Good Festival) is back at Bishan, Junction 8 this year!</p>
+<h1></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SFF__Central_2025_eDM_Final_w_LLI_logo__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_07_18_at_11_21_00_AM.jpg">
 </div>
 <h1><strong>Job Interviews</strong></h1>
 <p>Interested in a role in the digital or tech industry?</p>
