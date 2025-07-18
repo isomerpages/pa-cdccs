@@ -173,7 +173,7 @@ Electric is preparing for future industry needs
 </p>
 </li>
 </ul>
-<p><a href="https://go.gov.sg/sffcs25-lj-schneider" rel="noopener noreferrer nofollow" target="_blank">Register Here!</a> 
+<p>
 <br>
 <br>
 </p>
