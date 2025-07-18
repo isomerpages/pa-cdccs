@@ -97,7 +97,7 @@ attend the event at Junction 8.
 <h1><strong>Career &amp; Skills Advisory</strong></h1>
 <ul data-tight="true" class="tight">
 <li>
-<p>Speak to a Career Coach for job or career guidance</p>
+<p>Speak to an e2i Career Coach for job or career guidance</p>
 </li>
 <li>
 <p>Identify skills gaps and training needs with a Skills Ambassador from
