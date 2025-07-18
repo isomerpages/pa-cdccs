@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <p>Organised by Central Singapore Community Development Council, the <strong>SkillsFuture Festival @ Central 2025</strong> (previously
 known as Skills For Good Festival) is back at Bishan, Junction 8 this year!</p>
+<h1></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SFF__Central_2025_eDM_Final_w_LLI_logo__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_07_18_at_11_21_00_AM.jpg">
 </div>
 <h1><strong>Job Interviews</strong></h1>
 <p>Interested in a role in the digital or tech industry?</p>
@@ -28,36 +29,65 @@ planning, facilities management, inspection services, and more.
 </p>
 <p>Try your hand at flying a drone with our on-screen simulator, and deepen
 your understanding of industry-grade drones through the drone showcase.</p>
-<p><strong>2. Discover Your Career Interests with AI!</strong>
-<br><em>Aventis Learning Group</em>
+<p><strong>2. Cracking the AI code: Prompts &amp; Deepfakes</strong>
+<br><em>Ascendo Academy Pte Ltd</em>
 <br>
+</p>
+<p>Explore SkillsFuture for Digital Workplace 2.0 and learn to use tools
+like Microsoft 365 Co-Pilot and Generative AI in real-world scenarios.
+Gain practical, in-demand digital skills to stay future-ready. Don’t miss
+our <em>Real or Deepfake?</em> quiz—boost your AI awareness, spot manipulated
+media, and sharpen your digital instincts in a fun, engaging way!</p>
+<p><strong>3. Smart Solutions for Efficient Workplaces</strong>
+<br><em>Assure Safety Pte Ltd</em>
+</p>
+<p>Discover how Assure Safety Pte Ltd is transforming industries with its
+easy-to-use digital platform that replaces clunky manual tasks with smooth,
+optimised workflows. Say goodbye to paperwork and hello to boosted productivity
+in operations, compliance, and workforce management.</p>
+<p>Level up your skills with WSQ-certified training in F&amp;B, Environmental
+Cleaning, and Built Environment, alongside essential courses in PDPA, Cybersecurity,
+and Generative AI. Perfect for using your SkillsFuture Credits, these programs
+help build a smarter, safer workforce ready for the future!</p>
+<p>
+<br>
+</p>
+<p><strong>4. Discover Your Career Interests with AI!</strong>
+<br><em>Aventis Graduate School</em>
 </p>
 <p>Curious about your ideal career path? Join us and let AI help you uncover
 careers and courses tailored to your unique persona.</p>
 <p>Receive personalised results instantly — a perfect keepsake for your portfolio
 and a great first step toward your future!</p>
-<p><strong>3. Put Your Cybersecurity Skills To The Test - Can You Escape?</strong>
+<p>
+<br>
+</p>
+<p><strong>5. Put Your Cybersecurity Skills To The Test – Can You Escape?</strong>
 <br><em>Digital Defence Alliance SG</em>
 </p>
 <p>Dive into our thrilling online escape game where you put your cybersecurity
 skills to ultimate test! Solve puzzles, crack codes and challenge your
-mind.
-<br>
-</p>
+mind.</p>
 <p>You will also get to explore interesting coding and cybersecurity courses
-which you can utilise your SkillsFuture Credits for!</p>
-<p><strong>4. Creating Videos with Gen AI</strong>
+which you can utilise your SkillsFuture Credits for!<strong><br></strong>
+</p>
+<p></p>
+<p><strong>6. Creating Videos with Gen AI</strong>
 <br><em>Institute of Technical Education</em>
 </p>
 <p>Bring your images to life with Gen AI! Discover how the right prompts
 add motion, mood, and personality. Transform still shots into eye-catching
 videos in seconds!</p>
-<p><strong>5. Build Your Own Chatbot</strong>
-<br><em>Nanyang Polytechnic</em>
+<p></p>
+<p><strong>7. Digital Innovations: Chatbots &amp; 3D Printing</strong>
 </p>
-<p>Future-proof your career with AI and must-have soft skills! Catch a live
-demonstration of hipp0.ai to find out how simple it is to build your own
-chatbot!</p>
+<p><em>Nanyang Polytechnic</em>
+</p>
+<p>In just 5 minutes, build your own GPT-powered AI sidekick—customised with
+knowledge, instructions, and creative design, including logos. Then, dive
+into the exciting world of 3D printing and CAD modeling in a 1-hour preview
+session. Learn how these technologies are shaping a more sustainable future
+and get inspired to design, build, and innovate.</p>
 <p>
 <br>
 <br>Register your interest <a href="https://go.gov.sg/sffcentral2025" rel="noopener nofollow" target="_blank">here</a> to
@@ -67,10 +97,11 @@ attend the event at Junction 8.
 <h1><strong>Career &amp; Skills Advisory</strong></h1>
 <ul data-tight="true" class="tight">
 <li>
-<p>Speak to a Career Coach for job or career guidance</p>
+<p>Speak to an e2i Career Coach for job or career guidance</p>
 </li>
 <li>
-<p>Identify skills gaps and training needs with a Skills Ambassador</p>
+<p>Identify skills gaps and training needs with a Skills Ambassador from
+Lifelong Learning Singapore</p>
 </li>
 </ul>
 <h1><strong>Learning Journey</strong></h1>
@@ -111,7 +142,7 @@ Huawei and its local and international collaborators.
 <br>
 <br>
 </p>
-<p><strong>Learning Journey @ Schneider Electric Singapore Innovation Hub</strong>
+<p><strong>[REGISTRATION CLOSED] Learning Journey @ Schneider Electric Singapore Innovation Hub</strong>
 <br>This learning journey is recommended for individuals who have:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -142,7 +173,7 @@ Electric is preparing for future industry needs
 </p>
 </li>
 </ul>
-<p><a href="https://go.gov.sg/sffcs25-lj-schneider" rel="noopener noreferrer nofollow" target="_blank">Register Here!</a> 
+<p>
 <br>
 <br>
 </p>
