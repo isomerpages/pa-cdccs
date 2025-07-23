@@ -2,10 +2,10 @@ collections:
   happenings:
     output: true
     order:
-      - Upcoming Events/Central Singapore Market.md
-      - Upcoming Events/ArtsEverywhere@CDC.md
       - Upcoming Events/.keep
       - Upcoming Events/Upcoming Events.md
+      - Upcoming Events/Central Singapore Market.md
+      - Upcoming Events/ArtsEverywhere@CDC.md
       - Upcoming Events/SkillsFuture.md
       - Upcoming Events/SkillsFuture Festival @ Central.md
       - Upcoming Events/The Purple Parade.md
