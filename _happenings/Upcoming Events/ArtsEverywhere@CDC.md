@@ -30,14 +30,11 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <summary><strong>August 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Saturday, 21 June 2025</strong> 
-<br>Venue: TBC
-<br>
-</p>
-<p><strong>Saturday, 28 June 2025</strong>
-<br>Venue: Hougang 1 Mall</p>
-<p>Performing Group: ACT 3 International</p>
-<p>Performance Timing: 1pm and 3pm
+<p></p>
+<p><strong>Saturday, 16 August 2025</strong>
+<br>Venue: Ang Mo Kio Viaduct (Behind Teck Ghee CC)</p>
+<p>Performing Group: Zip Zap Zoom Collective</p>
+<p>Performance Timing: 6:30pm and 8pm
 <br>
 </p>
 <p></p>
