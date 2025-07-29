@@ -16,7 +16,7 @@ Artists/art groups will work directly with the SSA to engage their beneficiaries
 All projects and related costs under the above projects will be supported by the WeCare Arts Fund. For more information, you may contact us at [pa\_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg).
 
 Contact us:  
-Mr Pang Wen Hao  
+Ms Joan Lee  
 Manager,  
 Partnerships & Programmes  
 [pa_centralsingapore@pa.gov.sg](mailto:pa_centralsingapore@pa.gov.sg)
