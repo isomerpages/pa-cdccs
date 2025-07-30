@@ -45,80 +45,6 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sat, 14 June 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9am to 1pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tanjong Pagar - Tiong Bahru</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Carpark beside Blk 101 Spottiswoode Park Road, (S080101)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sat, 21 June 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9am to 1pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Queenstown</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Leng Kee CC</strong>
-</p>
-<p><strong>400 Lengkok Bahru, Singapore 159049</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sun, 13 Jul 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3pm to 7pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Kampong Glam</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Zhongshan Park (Along Balestier Road)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sat, 19 Jul 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>4pm to 7pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Moulmein-Cairnhill</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Balmoral Road (Walkway beside Sui Generis Condominium)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Sun, 3 Aug 2025</strong>
 </p>
 </td>
@@ -132,6 +58,24 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Bishan Active Park, Bishan St. 23, S570231</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sun, 17 Aug 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9am to 1pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Radin Mas</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball court beside block 112, Bukit Purmei Road, S090112</strong>
 </p>
 </td>
 </tr>
