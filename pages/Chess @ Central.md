@@ -11,11 +11,13 @@ installations being set up across Central Singapore district.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Somme_Park.jpg">
 </div>
 <p></p>
-<h4><strong>Why Chess @ Central?</strong></h4>
+<p><strong>Why Chess @ Central?</strong>
+</p>
 <p>Chess is for everyone! These Giant Chess spots are connecting residents
 across generation through shared moments of strategy and fun.</p>
-<p>&nbsp;</p>
-<h4><strong>Where to Play?</strong></h4>
+<p></p>
+<p><strong>Where to Play?</strong>
+</p>
 <p>Spot our Giant Chess Sets at these locations:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -29,7 +31,7 @@ across generation through shared moments of strategy and fun.</p>
 </li>
 </ul>
 <p>Watch this space for more upcoming locations!</p>
-<p>&nbsp;</p>
+<p></p>
 <h3><strong>Chess Workshops for Central Singapore</strong> <strong>District Community! Level Up Your Game!</strong>&nbsp;</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chess_Workshop_at_NYP.jpg">
