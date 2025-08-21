@@ -8,7 +8,7 @@ description: ""
 <p>Chess is for everyone! Chess @ Central is a community-building initiative
 by CS CDC that brings people of all backgrounds together through play.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Somme_Park.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_0713___0050editt.jpg">
 </div>
 <h2><strong>Chess in Your Neighbourhood!</strong></h2>
 <p>Calling all chess enthusiasts! Be on the lookout for our new Giant Chess
