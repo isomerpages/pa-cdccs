@@ -3,6 +3,7 @@ title: Chess @ Central
 permalink: /programmes/lifelong-learning/chess-central/
 variant: tiptap
 description: ""
+third_nav_title: Lifelong Learning
 ---
 <h2><strong>Why Chess @ Central?</strong></h2>
 <p>Chess is for everyone! Chess @ Central is a community-building initiative
