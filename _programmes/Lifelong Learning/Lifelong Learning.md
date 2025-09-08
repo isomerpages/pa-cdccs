@@ -15,7 +15,7 @@ At Central Singapore CDC, we encourage learning regardless of age.
 		<td width="50%">
 			<a href="/programmes/lifelong-learning/nurture"><b>Junior Stars @ Central</b></a><br>
 A 40-week programme for disadvantaged children aged 7 to 12 that helps them develop into confident communicators and effective problem-solvers.
-			<br><br><a href="/programmes/lifelong-learning/nurture">Find out more &gt;</a>
+			<br><br><a href="/programmes/lifelong-learning/juniorstars">Find out more &gt;</a>
 		</td>
 	</tr>
 </tbody></table>

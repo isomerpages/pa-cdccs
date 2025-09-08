@@ -1,6 +1,6 @@
 ---
 title: Junior Stars @ Central
-permalink: /programmes/lifelong-learning/nurture/
+permalink: /programmes/lifelong-learning/juniorstars/
 description: ""
 third_nav_title: Lifelong Learning
 variant: tiptap
