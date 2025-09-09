@@ -47,37 +47,19 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sun, 3 Aug 2025</strong>
+<p><strong>Sun, 16 Nov 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1pm to 7pm</strong>
+<p><strong>1pm to 5pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Marymount</strong>
+<p><strong>Jalan Kayu</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Bishan Active Park, Bishan St. 23, S570231</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sun, 17 Aug 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9am to 1pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Radin Mas</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Basketball court beside block 112, Bukit Purmei Road, S090112</strong>
+<p><strong>Fernvale CC - Level 1 Atrium, 21 Sengkang West Avenue, S797650</strong>
 </p>
 </td>
 </tr>
