@@ -25,19 +25,40 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <p>View the calendar of events below!</p>
 <hr>
 <h3>Calendar of Events</h3>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>August 2025</strong>
+<summary><strong>September 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Saturday, 16 August 2025</strong>
-<br>Venue: Ang Mo Kio Viaduct (Behind Teck Ghee CC)</p>
-<p>Performing Group: Zip Zap Zoom Collective</p>
-<p>Performance Timing: 6:30pm and 8pm
+<br>Venue: Sky Terrace Amphitheatre @ Dawson</p>
+<p>Performing Group: New Stream Brass Band</p>
+<p>Performance Timing: 5:30pm and 6:45pm
 <br>
 </p>
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>October 2025</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Saturday, 11 October 2025</strong>
+<br>Venue: Kreta Ayer Square (Beside Chinatown Complex</p>
+<p>Performing Group: Open Score</p>
+<p>Performance Timing: 6:00pm and 7:30pm</p>
+<p></p>
+<p><strong>Saturday, 18 October 2025</strong>
+<br>Venue: United Square</p>
+<p>Performing Group: Pasat Merdu and Zip Zap Zoom</p>
+<p>Performance Timing: 11:30am, 1:30pm, 3:30pm and 5:00pm</p>
+<p></p>
+<p><strong>Saturday, 19 October 2025</strong>
+<br>Venue: United Square</p>
+<p>Performing Group: Jazz Inc. and New Stream Brass Band</p>
+<p>Performance Timing: 11:30am, 1:30pm, 3:30pm and 5:00pm</p>
 </div>
 </details>
 </div>
