@@ -27,20 +27,6 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <h3>Calendar of Events</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>September 2025</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Saturday, 16 August 2025</strong>
-<br>Venue: Sky Terrace Amphitheatre @ Dawson</p>
-<p>Performing Group: New Stream Brass Band</p>
-<p>Performance Timing: 5:30pm and 6:45pm
-<br>
-</p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
 <summary><strong>October 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
