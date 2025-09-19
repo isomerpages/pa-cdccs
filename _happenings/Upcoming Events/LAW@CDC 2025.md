@@ -1,5 +1,5 @@
 ---
-title: LAW@CDC
+title: LAW@CDC 2025
 permalink: /law-cdc/
 variant: tiptap
 description: ""
