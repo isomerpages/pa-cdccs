@@ -10,7 +10,8 @@ third_nav_title: Upcoming Events
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LAW_CDC_2025_KV.png">
 </div>
 <p>LAW@CDC is a nationwide effort to promote awareness and understanding
-of the law in the community through a series of talks.</p>
+of the law in the community through a series of talks. Click <a href="https://lawawarenessweeks.cdc.gov.sg/" rel="noopener nofollow" target="_blank">here</a> to
+find out more about Law Awareness Weeks @ CDC 2025.</p>
 <p></p>
 <h1><strong>Webinar Topics</strong></h1>
 <p>Register for our webinars to learn about your rights and equip yourself
