@@ -2,7 +2,6 @@
 title: SkillsFuture Festival @ Central
 permalink: /happenings/upcoming-events/sff/
 description: ""
-third_nav_title: Upcoming Events
 variant: tiptap
 ---
 <p>Organised by Central Singapore Community Development Council, the <strong>SkillsFuture Festival @ Central 2025</strong> (previously
