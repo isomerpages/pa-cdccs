@@ -170,9 +170,6 @@ practical legal knowledge to strengthen your impact and stay out of trouble.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_08_Planning_Ahead__Wills__LPAs___End_of_Life_Matters__Civil_Law___website_.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://lawawarenessweeks.cdc.gov.sg/images/2025_10_08_Planning_Ahead__Wills__LPAs___End_of_Life_Matters__Civil_Law___website_.png">
-</div>
 <p><strong>Planning Ahead: Wills, LPAs &amp; End-of-Life Matters (Civil Law)<br>8 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_uI7yxY-aR_y1GwTzQ8oj1Q" rel="noopener nofollow" target="_blank"><u>Register</u>
 </a>
@@ -230,7 +227,7 @@ and peace of mind.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_15_Cyber_Hygiene___Know_Your_Rights___Responsibilities_Online__website_.png">
 </div>
-<p><strong>yber Hygiene – Know Your Rights &amp; Responsibilities Online<br>16 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
+<p><strong>Cyber Hygiene – Know Your Rights &amp; Responsibilities Online<br>16 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_mOMg68nHTs2LYSOU5w5f4Q" rel="noopener nofollow" target="_blank"><u>Register</u>
 </a>
 </p>
