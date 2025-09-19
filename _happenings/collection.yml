@@ -2,7 +2,7 @@ collections:
   happenings:
     output: true
     order:
-      - Upcoming Events/LAW@CDC.md
+      - Upcoming Events/LAW@CDC 2025.md
       - Upcoming Events/Financial Fitness Festival.md
       - Upcoming Events/.keep
       - Upcoming Events/Upcoming Events.md
