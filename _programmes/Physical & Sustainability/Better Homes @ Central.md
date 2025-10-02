@@ -15,7 +15,7 @@ The makeover process includes:
 
 *  Consultation between designers and families to co-create living spaces that suit their lifestyle and needs
 
-*  Engagement of contractors, movers, and cleaners to declutter and renovate the homes
+*  Engagement of contractors, movers, and cleaners to refurbish the homes
 
 *  Provision of basic furnishings such as study tables, beds, and wardrobes
 
