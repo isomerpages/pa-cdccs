@@ -27,36 +27,11 @@ installations being set up across Central Singapore district.</p>
 <p>Teck Ghee Community Club</p>
 </li>
 <li>
-<p>Blk 111, Toa Payoh Lorong 1</p>
+<p>Open Space next to Blk 111, Toa Payoh Lorong 1</p>
+</li>
+<li>
+<p>Botanic Gardens MRT Station</p>
 </li>
 </ul>
 <p>Watch this space for more upcoming locations!</p>
 <p></p>
-<h3><strong>Chess Workshops for Central Singapore</strong> <strong>District Community! Level Up Your Game!</strong>&nbsp;</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chess_Workshop_at_NYP.jpg">
-</div>
-<p>Live or work in Central Singapore? Book a chess workshop at your premises
-for groups of 20-50 participants while session slots are available.</p>
-<p>Beginner or budding champion? Take your pick from our workshops:</p>
-<p></p>
-<p><strong>Basic Introductory Workshop for Beginners </strong>(1 Session,
-2 hours)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Learn the essentials in this beginner-friendly session. Master basic moves and core rules at your own pace.</em>
-</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Basic Introductory Chess Workshop for Beginners + Tips on Chess Strategy and Tactics </strong>(2
-Sessions, 2 hours each)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Build from basics to advanced concepts in this comprehensive workshop. Discover strategic thinking and tactical opportunities.</em>
-</p>
-</li>
-</ul>
-<p></p>
-<p>Email Veronica at <a href="mailto:veronica_sim@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">veronica_sim@pa.gov.sg</a> to arrange
-your preferred workshop today!</p>
