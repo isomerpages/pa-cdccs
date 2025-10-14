@@ -30,7 +30,7 @@ In 2025, the GiraffeSG, rebranded from Giraffes Singapore, comprises of 3 key co
 		</td>
 		<td width="50%">
 			<b>GiraffeSG Grant</b>
-		<br> A Grant Support to JCs, IHLs &amp; Partners for meaningful projects to better the lives of constituents in Central.
+		<br> Grant support for nominated Junior Colleges (JCs) and Institutes of Higher Learning (IHLs) to implement meaningful projects that improve the lives of constituents in Central Singapore.
 				</td>
 	</tr>
 </tbody></table>
