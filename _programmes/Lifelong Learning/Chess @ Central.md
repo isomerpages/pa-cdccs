@@ -30,7 +30,13 @@ installations being set up across Central Singapore district.</p>
 <p>Open Space next to Blk 111, Toa Payoh Lorong 1</p>
 </li>
 <li>
+<p>Bras Basah MRT Station</p>
+</li>
+<li>
 <p>Botanic Gardens MRT Station</p>
+</li>
+<li>
+<p>Ang Mo Kio Community Centre</p>
 </li>
 </ul>
 <p>Watch this space for more upcoming locations!</p>
