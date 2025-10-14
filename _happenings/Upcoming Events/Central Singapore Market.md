@@ -63,6 +63,42 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sat, 6 Dec 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9am to 1pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Henderson-Dawson</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TBC</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sat, 17 Jan 2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10am to 3pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Potong Pasir</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bidadari CC - Event Plaza, 11 Bidadari Park Drive, #01-60, S367803</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>*Schedule and timing are subject to change.</p>
