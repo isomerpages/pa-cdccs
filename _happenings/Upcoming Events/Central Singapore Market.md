@@ -59,7 +59,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Fernvale CC - Level 1 Atrium, 21 Sengkang West Avenue, S797650</strong>
+<p><strong>Fernvale Community Club - Level 1 Atrium, 21 Sengkang West Avenue, S797650</strong>
 </p>
 </td>
 </tr>
@@ -77,7 +77,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TBC</strong>
+<p><strong>ARTRA - 12 Alexandra View, S158736</strong>
 </p>
 </td>
 </tr>
@@ -95,7 +95,7 @@ Disabilities can showcase their talents and earn a livelihood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Bidadari CC - Event Plaza, 11 Bidadari Park Drive, #01-60, S367803</strong>
+<p><strong>Bidadari Community Club - Event Plaza, 11 Bidadari Park Drive, #01-60, S367803</strong>
 </p>
 </td>
 </tr>
