@@ -2,7 +2,6 @@ collections:
   old-pages:
     output: true
     order:
-      - Jobs Nearby @ CDC.md
       - SkillsFuture Festival @ Central.md
       - Mind Your Health.md
       - In Search Of Purpose Talks.md
