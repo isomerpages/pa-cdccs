@@ -11,7 +11,7 @@ At Central Singapore CDC, we offer support for the lower-income and lower-skille
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="50%">
-			<img src="/images/Jobs Nearby @ CDC Logo File.jpg">
+			<img src="/images/LONGJobs.jpg">
 		</td>
 		<td width="50%">
 			<a href="/programmes/financial-and-social-wellness/jobs-nearby-central"><b>Jobs Nearby @ CDC</b></a><br>
