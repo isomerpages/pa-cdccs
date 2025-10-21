@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/aHR0cHM6Ly9zY29udGVudC14c3AxLTEueHguZmJjZG4ubmV0L3YvdDM5LjMwODA4LTYvNDM4MzAxNTI2Xzg1MTA3MTMyMDM5ODAzM183MjM2MDAwNDAwMzQ3NzE5OTExX24uanBnP19uY19jYXQ9MTA4JmNjYj0xLTcmX25jX3NpZD04MzNkOGMmX25jX29oYz16VU9SLUJNN19UQVE.jpg">
 </div>
-<p>“Jobs Near Me @ Central” Programme aims to provide Central Singapore District
+<p>“Jobs Nearby @ CDC” Programme aims to provide Central Singapore District
 residents with local job opportunities that are near their homes and suit
 their needs (e.g. caregiving duties / home-based). Residents can also build
 capabilities and relevant skill sets to take on new jobs seamlessly and
