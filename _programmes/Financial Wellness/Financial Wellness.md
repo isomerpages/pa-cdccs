@@ -15,7 +15,7 @@ At Central Singapore CDC, we offer support for the lower-income and lower-skille
 		</td>
 		<td width="50%">
 			<a href="/programmes/financial-and-social-wellness/jobs-nearby-central"><b>Jobs Nearby @ CDC</b></a><br>
-An initiative that brings jobs closer to residents by providing personalised support that connects jobseekers to local opportunities.
+A Programme that aims to provide Central Singapore District residents with local job opportunities that are near their homes and suit their needs.
 			<br><br><a href="/programmes/financial-and-social-wellness/jobs-nearby-central/">Find out more &gt;</a>
 		</td>
 	</tr>
