@@ -11,17 +11,16 @@ third_nav_title: Financial Wellness
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LONG_Jobs_Nearby___CDC_Logo_File.jpg">
 </div>
-<p>“Jobs Nearby @ CDC” Programme aims to provide Central Singapore District
-residents with local job opportunities that are near their homes and suit
-their needs (e.g. caregiving duties / home-based). Residents can also build
-capabilities and relevant skill sets to take on new jobs seamlessly and
-achieve an adequate means of livelihood.</p>
+<p><a href="https://go.gov.sg/jobsnearbycdc" rel="noopener nofollow" target="_blank">Jobs Nearby @ CDC</a> aims
+to provide Central Singapore District residents with local job opportunities
+that are near their homes and suit their needs (e.g. caregiving duties
+/ home-based). Residents can also build capabilities and relevant skill
+sets to take on new jobs seamlessly and achieve an adequate means of livelihood.</p>
 <p>Employers within Central Singapore District can leverage on this platform
 to be matched with suitable candidates living nearby to fill their vacancies.
 The end in mind is to create a network that is self-sustaining in the long
 run and useful for both residents and employers in meeting their needs.</p>
-<p><strong>Why the need for Local Jobs?</strong>
-</p>
+<h3><strong>Why the need for Local Jobs?</strong></h3>
 <p>Residents (Job Seekers) may not be able to find jobs that are near their
 homes / suit their needs (e.g. caregiving / home-based). Employers (Local
 Jobs) want to look for staff who are living nearby to fill their vacancies
@@ -31,11 +30,13 @@ matching (not Local Jobs).</p>
 to secure more stable, steady and regular placement opportunities with
 employers that are near them. This way, residents will be able to maintain
 an adequate means of livelihood.</p>
-<p>For assistance in using our platform, please contact our helpline at <strong>6983 8879</strong> or
-email us at <strong><a href="mailto:jobsnearme@fastjobs.sg" rel="noopener noreferrer nofollow" target="_blank">jobsnearme@fastjobs.sg</a></strong>
-</p>
-<p>Interested businesses or employers may register your interest with CS
-CDC at <strong><a href="https://go.gov.sg/cscdcjobsnearmeemployer" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cscdcjobsnearmeemployer</a></strong>
+<h4>For Job Seekers</h4>
+<p>Register your interest here or contact our helpline at <strong>6983 8879</strong>.</p>
+<p>Interested Job Seekers may also visit the scheduled pop-up Job Clinics,
+for more job support from our Job Ambassadors. Please click <a href="/files/Job_Clinics___Central.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more details.</p>
+<h4>For Employers</h4>
+<p>Register your interest <a href="https://go.gov.sg/cscdcjobsnearbyemployer" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p><strong>Contact us</strong>:
 <br>Ms Joan Lee
