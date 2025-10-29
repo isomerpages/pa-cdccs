@@ -6,10 +6,7 @@ description: ""
 third_nav_title: Physical & Sustainability
 ---
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/csm.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/reel/DMNESrESIti/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA=="><img style="width: 100%" height="auto" width="100%" alt="" src="/images/csm.jpg"></a>
 <p>Organised by the Central Singapore Community Development Council (CDC),
 the Central Singapore Market is “A Market with a Difference”. It brings
 together local farmers, entrepreneurs, and artists, offering them a platform
@@ -112,4 +109,5 @@ S367803</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
