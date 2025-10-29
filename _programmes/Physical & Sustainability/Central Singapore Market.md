@@ -40,7 +40,7 @@ Workshops</div>
 </div>
 </div>
 </div>
-<p>Check out the calendar below for the upcoming Central Singapore Markets:</p>
+<h4>Check out the calendar below for the upcoming Central Singapore Markets:</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -51,70 +51,63 @@ Workshops</div>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Time</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Venue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sun, 16 Nov 2025</strong>
+<p><strong>Date</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1pm to 5pm</strong>
+<p><strong>Time</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Jalan Kayu</strong>
+<p><strong>Division</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Fernvale Community Club - Level 1 Atrium, 21 Sengkang West Avenue, S797650</strong>
+<p><strong>Venue</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sat, 6 Dec 2025</strong>
-</p>
+<p>Sun, 16 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9am to 1pm</strong>
-</p>
+<p>1pm to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Henderson-Dawson</strong>
-</p>
+<p>Jalan Kayu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ARTRA - 12 Alexandra View, S158736</strong>
-</p>
+<p>Fernvale Community Club - Level 1 Atrium, 21 Sengkang West Avenue, S797650</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sat, 17 Jan 2026</strong>
-</p>
+<p>Sat, 6 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10am to 3pm</strong>
-</p>
+<p>9am to 1pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Potong Pasir</strong>
-</p>
+<p>Henderson-Dawson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Bidadari Community Club - Event Plaza, 11 Bidadari Park Drive, #01-60, S367803</strong>
-</p>
+<p>ARTRA - 12 Alexandra View, S158736</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sat, 17 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10am to 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Potong Pasir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bidadari Community Club - Event Plaza, 11 Bidadari Park Drive, #01-60,
+S367803</p>
 </td>
 </tr>
 </tbody>
