@@ -12,7 +12,19 @@ the Central Singapore Market is “A Market with a Difference”. It brings
 together local farmers, entrepreneurs, and artists, offering them a platform
 to showcase their products while advocating important causes:</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Healthy Lifestyle" src="/images/2024_0622_Central_Market___0122.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Healthy Lifestyle</div><div class="isomer-card-description">The market offers fresh home-grown produce and healthy food and beverage options</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Healthy Lifestyle" src="/images/2024_0622_Central_Market___0122.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Healthy Lifestyle</div>
+<div class="isomer-card-description">The market offers fresh home-grown produce and healthy food and beverage
+options</div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
