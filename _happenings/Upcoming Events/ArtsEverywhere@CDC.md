@@ -31,17 +31,18 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Saturday, 8 November 2025</strong>
-<br>Venue: Ang Mo Kio Hub, B1 Atrium</p>
-<p>Performing Group: ADDO Arts Company</p>
-<p>Performance Timing: 3:45pm and 5:00pm</p>
+<p><strong>Saturday, 8 November 2025, 12:30 to 7:30pm</strong>
+<br><strong>Venue:</strong> Ang Mo Kio Hub, B1 Atrium</p>
+<p><strong>Performing Group:</strong> ADDO Arts Company</p>
+<p><strong>Performance Timing: </strong>3:45pm and 5:00pm</p>
+<hr>
 <p></p>
 <p><strong>Sunday, 9 November 2025</strong>
-<br>Venue: Ang Mo Kio Hub, B1 Atrium</p>
-<p>Performing Group No. 1: Charmaine Teo</p>
-<p>Performance Timing: 11:00am and 12:45pm</p>
-<p>Performing Group No. 2: Charmaine Teo</p>
-<p>Performance Timing: 4:15pm and 5:15pm</p>
+<br><strong>Venue: </strong>Ang Mo Kio Hub, B1 Atrium</p>
+<p><strong>Performing Group No. 1:</strong> Charmaine Teo</p>
+<p><strong>Performance Timing: </strong>11:00am and 12:45pm</p>
+<p><strong>Performing Group No. 2:</strong> Charmaine Teo</p>
+<p><strong>Performance Timing: </strong>4:15pm and 5:15pm</p>
 </div>
 </details>
 </div>
