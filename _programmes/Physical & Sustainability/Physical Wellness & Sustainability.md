@@ -38,6 +38,6 @@ with school-going children and youths with a better living and learning
 environment.</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://centralsingapore.cdc.gov.sg/programmes/wellness-and-sustainability/pass-it-on/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pass It On" src="/images/Programmes/Pass It On/pass-it-on-2023.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pass It On</div><div class="isomer-card-description">A community platform to share and request pre-loved household essentials</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
 <p></p>
