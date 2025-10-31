@@ -27,24 +27,21 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <h3>Calendar of Events</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>October 2025</strong>
+<summary><strong>November 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Saturday, 11 October 2025</strong>
-<br>Venue: Kreta Ayer Square (Beside Chinatown Complex</p>
-<p>Performing Group: Open Score</p>
-<p>Performance Timing: 6:00pm and 7:30pm</p>
+<p><strong>Saturday, 8 November 2025</strong>
+<br>Venue: Ang Mo Kio Hub, B1 Atrium</p>
+<p>Performing Group: ADDO Arts Company</p>
+<p>Performance Timing: 3:45pm and 5:00pm</p>
 <p></p>
-<p><strong>Saturday, 18 October 2025</strong>
-<br>Venue: United Square</p>
-<p>Performing Group: Pasat Merdu and Zip Zap Zoom</p>
-<p>Performance Timing: 11:30am, 1:30pm, 3:30pm and 5:00pm</p>
-<p></p>
-<p><strong>Saturday, 19 October 2025</strong>
-<br>Venue: United Square</p>
-<p>Performing Group: Jazz Inc. and New Stream Brass Band</p>
-<p>Performance Timing: 11:30am, 1:30pm, 3:30pm and 5:00pm</p>
+<p><strong>Sunday, 9 November 2025</strong>
+<br>Venue: Ang Mo Kio Hub, B1 Atrium</p>
+<p>Performing Group No. 1: Charmaine Teo</p>
+<p>Performance Timing: 11:00am and 12:45pm</p>
+<p>Performing Group No. 2: Charmaine Teo</p>
+<p>Performance Timing: 4:15pm and 5:15pm</p>
 </div>
 </details>
 </div>
