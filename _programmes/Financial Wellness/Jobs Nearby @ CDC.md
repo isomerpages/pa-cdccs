@@ -21,15 +21,13 @@ to be matched with suitable candidates living nearby to fill their vacancies.
 The end in mind is to create a network that is self-sustaining in the long
 run and useful for both residents and employers in meeting their needs.</p>
 <h3><strong>Why the need for Local Jobs?</strong></h3>
-<p>Residents (Job Seekers) may not be able to find jobs that are near their
-homes / suit their needs (e.g. caregiving / home-based). Employers (Local
-Jobs) want to look for staff who are living nearby to fill their vacancies
-due to manpower shortage. Existing agencies focuses on traditional job
-matching (not Local Jobs).</p>
-<p>Through the initiative, Central SG CDC hopes to facilitate job seekers
-to secure more stable, steady and regular placement opportunities with
-employers that are near them. This way, residents will be able to maintain
-an adequate means of livelihood.</p>
+<p>This initiative aims to specifically address the demand for local jobs,
+complementing the broader job matching efforts of existing agencies. Residents
+(Job Seekers) often face challenges in finding employment opportunities
+that are close to home and</p>
+<p>suited to their personal circumstances (e.g., caregiving or home-based
+roles). At the same time, employers are seeking staff who reside closer
+to job locations to fill vacancies.</p>
 <h4>For Job Seekers</h4>
 <p>Register your interest <a href="https://go.gov.sg/cdcjobsnearby" rel="noopener nofollow" target="_blank">here</a> or
 contact our helpline at <strong>6983 8879</strong>.</p>
