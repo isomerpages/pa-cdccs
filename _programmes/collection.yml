@@ -3,6 +3,12 @@ collections:
     output: true
     order:
       - Overview.md
+      - Lifelong Learning/.keep
+      - Lifelong Learning/Chess @ Central.md
+      - Lifelong Learning/Lifelong Learning.md
+      - Lifelong Learning/My Digital Bootcamp.md
+      - Lifelong Learning/DOTS Academy @ Central.md
+      - Lifelong Learning/Junior Stars @ Central.md
       - Physical & Sustainability/.keep
       - Physical & Sustainability/Physical Wellness & Sustainability.md
       - Physical & Sustainability/Central Singapore Market.md
@@ -21,13 +27,7 @@ collections:
       - Socio Emotional Wellness/WeCare Arts Fund & WeCare Arts Experiences.md
       - Socio Emotional Wellness/Purple Outings.md
       - Socio Emotional Wellness/Purple Fitness.md
-      - Lifelong Learning/Chess @ Central.md
-      - Lifelong Learning/.keep
-      - Lifelong Learning/Lifelong Learning.md
-      - Lifelong Learning/My Digital Bootcamp.md
-      - Lifelong Learning/DOTS Academy @ Central.md
-      - Lifelong Learning/Junior Stars @ Central.md
-      - Service To Others/Service to Others.md
       - Service To Others/.keep
+      - Service To Others/Service to Others.md
       - Service To Others/GiraffeSG @ Central.md
       - CDC Vouchers Scheme.md
