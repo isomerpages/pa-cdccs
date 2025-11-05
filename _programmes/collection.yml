@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Physical & Sustainability/Walking Trails @ CDC.md
       - Physical & Sustainability/.keep
       - Physical & Sustainability/Physical Wellness & Sustainability.md
       - Physical & Sustainability/Central Singapore Market.md
