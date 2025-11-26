@@ -35,7 +35,7 @@ contact our helpline at <strong>6983 8879</strong>.</p>
 for more job support from our Job Ambassadors. Please click <a href="/files/Job_Clinics___Central.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more details.</p>
 <h4>For Employers</h4>
-<p>Register your interest <a href="https://go.gov.sg/cscdcjobsnearbyemployer" rel="noopener nofollow" target="_blank">here</a>
+<p>Register your interest <a href="https://form.gov.sg/6920287495b85006fbabad6a" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p><strong>Contact us</strong>:
 <br>Ms Joan Lee
