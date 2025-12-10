@@ -28,10 +28,9 @@ run and useful for both residents and employers in meeting their needs.</p>
 <p>This initiative aims to specifically address the demand for local jobs,
 complementing the broader job matching efforts of existing agencies. Residents
 (Job Seekers) often face challenges in finding employment opportunities
-that are close to home and</p>
-<p>suited to their personal circumstances (e.g., caregiving or home-based
-roles). At the same time, employers are seeking staff who reside closer
-to job locations to fill vacancies.</p>
+that are close to home and suited to their personal circumstances (e.g.,
+caregiving or home-based roles). At the same time, employers are seeking
+staff who reside closer to job locations to fill vacancies.</p>
 <h4>For Job Seekers</h4>
 <p>Register your interest <a href="https://go.gov.sg/cdcjobsnearby" rel="noopener nofollow" target="_blank">here</a> or
 contact our helpline at <strong>6983 8879</strong>.</p>
