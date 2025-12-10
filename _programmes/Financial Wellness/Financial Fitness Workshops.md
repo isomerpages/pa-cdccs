@@ -17,7 +17,7 @@ investing and legacy planning through fun, interactive zones.</p>
 </p>
 <p>In 2026, we’re taking financial wellness even further with a new series
 of free Financial Fitness Workshops designed for different life stages
-— from first-jobbers to ryoung families, mid-career switchers and retirees.</p>
+— from first-jobbers to young families, mid-career switchers and retirees.</p>
 <h3>These workshops will offer:</h3>
 <ul data-tight="true" class="tight">
 <li>
