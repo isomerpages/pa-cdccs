@@ -13,6 +13,16 @@ sections:
       background: /images/SG60_Artwork_Hero_Image_Adapted.png
       url: /get-started
   - infopic:
+      title: Find Jobs Closer to Home
+      id: infopic
+      description: Jobs Nearby @ CDC aims to provide Central Singapore District
+        residents with local job opportunities that are near their homes and
+        suit their needs
+      button: Find Out More
+      url: https://centralsingapore.cdc.gov.sg/programmes/financial-and-social-wellness/jobs-nearby-central/
+      image: /images/Jobs_Neaby_Web_Banner_Alternate.png
+      alt: Image alt text
+  - infopic:
       description: Your monthly dose of news & happenings of Central Singapore
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/resources/e-voices
