@@ -2,7 +2,6 @@
 title: SkillsFuture
 permalink: /happenings/upcoming-events/skillsfuture/
 description: ""
-third_nav_title: Upcoming Events
 variant: tiptap
 ---
 <div class="iframe-wrapper">

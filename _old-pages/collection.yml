@@ -2,6 +2,11 @@ collections:
   old-pages:
     output: true
     order:
+      - GiraffeSG@Central.md
+      - SkillsFuture.md
+      - The Purple Symphony.md
+      - The Purple Parade.md
+      - LAW@CDC 2025.md
       - SkillsFuture Festival @ Central.md
       - Mind Your Health.md
       - In Search Of Purpose Talks.md

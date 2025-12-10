@@ -2,6 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - GiraffeSG@Central.md
       - E Voices.md
       - VOICES Magazine.md

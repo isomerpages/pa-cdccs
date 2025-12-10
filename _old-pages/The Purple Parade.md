@@ -2,7 +2,6 @@
 title: The Purple Parade
 permalink: /happenings/upcoming-events/the-purple-parade/
 description: ""
-third_nav_title: Upcoming Events
 ---
 ![](/images/Happenings/the%20purple%20parade%202022.JPG)
 

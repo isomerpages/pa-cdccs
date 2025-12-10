@@ -3,7 +3,6 @@ title: LAW@CDC 2025
 permalink: /law-cdc/
 variant: tiptap
 description: ""
-third_nav_title: Upcoming Events
 ---
 <p></p>
 <div class="isomer-image-wrapper">
