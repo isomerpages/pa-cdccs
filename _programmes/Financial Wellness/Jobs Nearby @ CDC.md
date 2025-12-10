@@ -32,7 +32,7 @@ to job locations to fill vacancies.</p>
 <p>Register your interest <a href="https://go.gov.sg/cdcjobsnearby" rel="noopener nofollow" target="_blank">here</a> or
 contact our helpline at <strong>6983 8879</strong>.</p>
 <p>Interested Job Seekers may also visit the scheduled pop-up Job Clinics,
-for more job support from our Job Ambassadors. Please click <a href="/files/Job_Clinics___Central__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+for more job support from our Job Ambassadors. Please click <a href="/files/Job_Clinics___Central__1_.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more details.</p>
 <h4>For Employers</h4>
 <p>Register your interest <a href="https://form.gov.sg/6920287495b85006fbabad6a" rel="noopener nofollow" target="_blank">here</a>
