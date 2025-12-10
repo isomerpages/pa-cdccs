@@ -19,6 +19,6 @@ variant: tiptap
 <div class="isomer-card-description">An initiative to help low-income students purchase back-to-school necessities.</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://centralsingapore.cdc.gov.sg/financial-fitness-workshops/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FFW" src="/images/for_web_NZ6_2543.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Financial Fitness Workshops</div><div class="isomer-card-description">A new series of free Financial Fitness Workshops designed for different life stages — from first-jobbers to young families, mid-career switchers and retirees.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
 <p></p>
