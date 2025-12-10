@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Financial Wellness
 ---
+<blockquote>
+<h1>Building financial confidence, one simple step at a time.</h1>
+</blockquote>
 <p>Late last year, Central Singapore CDC and UOB launched our first-ever
 Financial Fitness Festival, where residents explored saving, insurance,
 investing and legacy planning through fun, interactive zones.</p>
