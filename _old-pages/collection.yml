@@ -2,6 +2,7 @@ collections:
   old-pages:
     output: true
     order:
+      - The Purple Symphony.md
       - The Purple Parade.md
       - LAW@CDC 2025.md
       - SkillsFuture Festival @ Central.md
