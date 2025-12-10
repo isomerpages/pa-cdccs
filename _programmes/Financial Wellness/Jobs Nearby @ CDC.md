@@ -9,7 +9,11 @@ third_nav_title: Financial Wellness
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LONG_Jobs_Nearby___CDC_Logo_File.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jobs_Nearby_Web_Banner_2048x1200.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/LONG_Jobs_Nearby___CDC_Logo_File.jpg">
 </div>
 <p><a href="https://go.gov.sg/jobsnearbycdc" rel="noopener nofollow" target="_blank">Jobs Nearby @ CDC</a> aims
 to provide Central Singapore District residents with local job opportunities
