@@ -41,5 +41,5 @@ want every resident to have the knowledge and confidence to make sound
 financial decisions — <strong>because financial wellbeing is a key part of living a Better Life.</strong>
 </p>
 <p></p>
-<p><strong>Details of upcoming sessions will be shared soon.</strong>
+<p><strong>Details of upcoming sessions will be shared soon! Stay tuned for more updates.</strong>
 </p>
