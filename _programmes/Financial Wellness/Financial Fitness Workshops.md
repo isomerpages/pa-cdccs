@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Financial Wellness
 ---
-<blockquote>
 <h1>Building financial confidence, one simple step at a time.</h1>
-</blockquote>
 <p>Late last year, Central Singapore CDC and UOB launched our first-ever
 Financial Fitness Festival, where residents explored saving, insurance,
 investing and legacy planning through fun, interactive zones.</p>
@@ -15,7 +13,8 @@ investing and legacy planning through fun, interactive zones.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/for_web_NZ6_2543.jpg">
 </div>
 <p></p>
-<p>But the journey doesn’t end there.</p>
+<p><em>But the journey doesn’t end there.</em>
+</p>
 <p>In 2026, we’re taking financial wellness even further with a new series
 of free Financial Fitness Workshops designed for different life stages
 — from first-jobbers to ryoung families, mid-career switchers and retirees.</p>
@@ -40,4 +39,7 @@ decisions</p>
 are meant to make financial literacy accessible, relevant and doable. We
 want every resident to have the knowledge and confidence to make sound
 financial decisions — <strong>because financial wellbeing is a key part of living a Better Life.</strong>
+</p>
+<p></p>
+<p><strong>More workshops coming soon! Details of upcoming sessions will be shared soon. </strong>
 </p>
