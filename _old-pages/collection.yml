@@ -2,6 +2,7 @@ collections:
   old-pages:
     output: true
     order:
+      - GiraffeSG@Central.md
       - SkillsFuture.md
       - The Purple Symphony.md
       - The Purple Parade.md
