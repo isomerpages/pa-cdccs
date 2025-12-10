@@ -78,34 +78,6 @@ Workshops</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sun, 16 Nov 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1pm to 5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jalan Kayu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fernvale Community Club - Level 1 Atrium, 21 Sengkang West Avenue, S797650</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sat, 6 Dec 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9am to 1pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Henderson-Dawson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ARTRA - 12 Alexandra View, S158736</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sat, 17 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
