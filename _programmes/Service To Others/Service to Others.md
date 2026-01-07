@@ -29,12 +29,10 @@ encourage individuals to <strong>stick their necks out for the common good</stro
 <br><a href="/programmes/service-to-others/giraffes-singapore-volunteer-movement/" rel="noopener noreferrer nofollow" target="_blank">Find out more &gt;</a>
 </p>
 <p></p>
-<p>If you wish to volunteer or Do-Good with us, <a href="https://form.gov.sg/65ee9e79c89f9e178ef44c33" rel="noopener nofollow" target="_blank">register</a> or write
-to Joash at <a href="mailto:PA_CentralSingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_CentralSingapore@pa.gov.sg</a>
-</p>
+<p>If you wish to volunteer or Do-Good with us, <a href="https://form.gov.sg/65ee9e79c89f9e178ef44c33" rel="noopener nofollow" target="_blank">register</a> now!</p>
 <p></p>
 <p></p>
-<p><a href="/files/FINAL_CDC_Volunteer_Opportunities_Kit_2_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Central SG CDC Volunteer Opportunities Kit</a>
+<p><a href="/files/CDC_Giraffes_volunteer_List__as_at_19_Dec_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Central SG CDC Volunteer Opportunities Kit</a>
 </p>
 </td>
 </tr>
