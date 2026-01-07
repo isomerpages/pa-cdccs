@@ -23,7 +23,6 @@ on how to best handle basic legal issues.</p>
 <p><strong>Protect Yourself – How to Spot and Avoid Scams</strong>
 <br><strong>22 September 2025, Monday</strong>
 <br><strong>7.30pm – 9.00pm</strong>
-<br><a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_aBPJQcdITpSOOxZ_M99YUA" rel="noopener nofollow" target="_blank"><u>Register</u></a>
 </p>
 <p>Scams are getting harder to spot and easier to fall for. Criminals are
 using more convincing tactics to steal your money, data, and identity —
@@ -52,7 +51,6 @@ you with practical, clear-headed tools to stay safe.</p>
 <p><strong>Marriage &amp; Divorce – Understanding Your Rights (Civil Law)</strong>
 <br><strong>24 September 2025, Wednesday</strong>
 <br><strong>7.30pm – 9.00pm</strong>
-<br><a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_wwTYJzdzTuWDi20wac7_2Q" rel="noopener nofollow" target="_blank"><u>Register</u></a>
 </p>
 <p>Marriage comes with rights and obligations, from spousal and child maintenance
 to protection from family violence. But what happens when relationships
@@ -83,7 +81,6 @@ and resources to help you land on surer footing for your next steps.</p>
 <p><strong>Neighbours in Dispute – What Are My Legal Options?</strong>
 <br><strong>26 September 2025, Friday</strong>
 <br><strong>7.30pm – 9.00pm</strong>
-<br><a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_1zxiFZVAQFS0lUVOc1k1Vg" rel="noopener nofollow" target="_blank"><u>Register</u></a>
 </p>
 <p>Living close to others can sometimes lead to tension — noise complaints,
 boundary issues, blocked corridors, or difficult neighbours. If you’re
@@ -105,9 +102,7 @@ your peace of mind.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_01_Social_Media___the_Law___Post_with_Prudence__website_.png">
 </div>
-<p><strong>Social Media &amp; the Law – Post with Prudence<br>1 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_QDaAt7Z6QEahGpk_m4fMPg" rel="noopener nofollow" target="_blank"><u>Register</u>
-</a>
+<p><strong>Social Media &amp; the Law – Post with Prudence<br>1 October 2025, Wednesday<br>7.30pm – 9.00pm</strong>
 </p>
 <p>Social media is a powerful tool for branding, business growth and community
 engagement, but what you post, share, or promote can have real legal consequences.
@@ -136,9 +131,7 @@ to post with confidence and prudence.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_06_Legal_Toolkit_for_Ground_Up_Community_Action__website_.png">
 </div>
-<p><strong>Legal Toolkit for Ground-Up Community Action<br>6 October 2025, Monday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_WW0a4_YdSxKuI618fK5lIw" rel="noopener nofollow" target="_blank"><u>Register</u>
-</a>
+<p><strong>Legal Toolkit for Ground-Up Community Action<br>6 October 2025, Monday<br>7.30pm – 9.00pm</strong>
 </p>
 <p>Thinking of starting your own volunteer initiative now that the year-end
 holidays are near? Starting a ground-up project or a volunteer initiative?
@@ -170,9 +163,7 @@ practical legal knowledge to strengthen your impact and stay out of trouble.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_08_Planning_Ahead__Wills__LPAs___End_of_Life_Matters__Civil_Law___website_.png">
 </div>
-<p><strong>Planning Ahead: Wills, LPAs &amp; End-of-Life Matters (Civil Law)<br>8 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_uI7yxY-aR_y1GwTzQ8oj1Q" rel="noopener nofollow" target="_blank"><u>Register</u>
-</a>
+<p><strong>Planning Ahead: Wills, LPAs &amp; End-of-Life Matters (Civil Law)<br>8 October 2025, Wednesday<br>7.30pm – 9.00pm</strong>
 </p>
 <p>Planning ahead isn’t just for the elderly — it’s for anyone who wants
 to make clear, informed decisions about their future and protect their
@@ -199,9 +190,7 @@ give you the clarity to make informed choices for the future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_13_Planning_Ahead__Wasiat__Hibah___Inheritance_Issues__Syariah_Law___website___1_.png">
 </div>
-<p><strong>Planning Ahead: Wasiat, Hibah &amp; Inheritance Issues (Syariah Law)<br>13 October 2025, Monday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_xBUCyUGVQ2e3sT1-ukDrHw" rel="noopener nofollow" target="_blank"><u>Register</u>
-</a>
+<p><strong>Planning Ahead: Wasiat, Hibah &amp; Inheritance Issues (Syariah Law)<br>13 October 2025, Monday<br>7.30pm – 9.00pm</strong>
 </p>
 <p>What happens to your estate after death under Syariah law? How do Faraidh,
 wasiat, and hibah apply in Singapore’s legal system? If you’re unsure how
@@ -227,9 +216,7 @@ and peace of mind.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_15_Cyber_Hygiene___Know_Your_Rights___Responsibilities_Online__website_.png">
 </div>
-<p><strong>Cyber Hygiene – Know Your Rights &amp; Responsibilities Online<br>16 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_mOMg68nHTs2LYSOU5w5f4Q" rel="noopener nofollow" target="_blank"><u>Register</u>
-</a>
+<p><strong>Cyber Hygiene – Know Your Rights &amp; Responsibilities Online<br>16 October 2025, Thursday<br>7.30pm – 9.00pm</strong>
 </p>
 <p>From phishing scams to data breaches, staying safe online is more important
 than ever. But do you know what your rights are if your data is misused
@@ -255,17 +242,14 @@ protect yourself online.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_22_Youth_Offences___Bullying___Legal_Guidance_for_Parents___Educators__website_.png">
 </div>
-<p><strong>Youth Offences &amp; Bullying – Legal Guidance for Parents &amp; Educators<br>22 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_mg5Z_GnuTiOrW4ykVrnF0g" rel="noopener nofollow" target="_blank"><u>Register</u>
-</a>
+<p><strong>Youth Offences &amp; Bullying – Legal Guidance for Parents &amp; Educators<br>22 October 2025, Wednesday<br>7.30pm – 9.00pm</strong>
 </p>
 <p>When young people get into trouble—whether it’s bullying, theft, fighting,
 or online missteps—what are the legal consequences, and how should adults
 respond? This session is for parents, teachers, and youth workers who want
 to better understand the legal framework around youth misconduct in Singapore.</p>
 <p><u>Moderator<br></u><strong>Hannah Tjoa</strong>, Senior Legal Counsel,
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_mg5Z_GnuTiOrW4ykVrnF0g" rel="noopener noreferrer nofollow" target="_blank">Booking.com</a>
-</p>
+Booking .com</p>
 <p><u>Speakers<br></u><strong>Muslim Albakri</strong>, Partner, Lighthouse
 Law LLC<u><br></u><strong>James Lim</strong>, Director (Programme), Lutheran
 Community Care Services<u><br></u><strong>Aaron Scott Donovan</strong>,
@@ -281,9 +265,7 @@ help you support young people with clarity, care, and accountability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_23_Family_Violence___Legal_Protections___Support__website_.png">
 </div>
-<p><strong>Family Violence – Legal Protections &amp; Support<br>23 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_saDUstz-QB-XJT_wOqjn-A" rel="noopener nofollow" target="_blank"><u>Register</u>
-</a>
+<p><strong>Family Violence – Legal Protections &amp; Support<br>23 October 2025, Thursday<br>7.30pm – 9.00pm</strong>
 </p>
 <p>Family violence often happens behind closed doors — but its impact is
 far-reaching. This session will help you understand what family violence
@@ -308,7 +290,6 @@ offers clear guidance on how to respond and support those affected.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_27_Online_Harassment___What_You_Can_Do__website_.png">
 </div>
 <p><strong>Online Harassment – What You Can Do<br>27 October 2025, Monday<br>7.30pm – 9.00pm</strong>
-<br><a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_0Zg1b5HVTlu26vvTov3l5A" rel="noopener nofollow" target="_blank"><u>Register</u></a>
 </p>
 <p>Online harassment can take many forms — defamation, stalking, non-consensual
 image sharing, or repeated unwanted contact. If you or someone you know
@@ -333,9 +314,7 @@ steps to take action and access protection.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_29_Invisible_Disabilities___the_Law___Know_Your_Protections__website_.png">
 </div>
-<p><strong>Invisible Disabilities &amp; the Law – Know Your Protections<br>29 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_ecbtQNx-TD-2YD1k2VT4vA" rel="noopener nofollow" target="_blank"><u>Register</u>
-</a>
+<p><strong>Invisible Disabilities &amp; the Law – Know Your Protections<br>29 October 2025, Wednesday<br>7.30pm – 9.00pm</strong>
 </p>
 <p>Not all disabilities are visible—but that doesn’t make them any less real.
 From mental health conditions to chronic illnesses and learning differences,
@@ -362,9 +341,7 @@ and avenues for support.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_30_Animal_Welfare_Laws___Caring_for_Our_Companions__website_.png">
 </div>
-<p><strong>Animal Welfare Laws – Caring for Our Companions<br>30 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_dRVXzKAcT1uF8bdZY87ZJg" rel="noopener nofollow" target="_blank"><u>Register</u>
-</a>
+<p><strong>Animal Welfare Laws – Caring for Our Companions<br>30 October 2025, Thursday<br>7.30pm – 9.00pm</strong>
 </p>
 <p>What are your responsibilities as a pet owner? What should you do if you
 witness animal neglect or abuse? This session breaks down Singapore’s animal
