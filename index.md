@@ -34,7 +34,7 @@ sections:
       button: FIND OUT MORE
       url: https://centralsingapore.cdc.gov.sg/resources/voices-magazine
       alt: Image alt text
-      image: /images/Voices_Aug_2025_Issue_Cover.jpg
+      image: /images/VOICES_JAN_26_THUMBNAIL.jpg
       title: VOICES
   - infopic:
       description: Be a part of our GiraffeSG @ Central Movement. Stick your neck out
