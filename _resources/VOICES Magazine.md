@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_2_9_25_at_3_57_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_16_1_26_at_11_53_AM.png">
 </div>
 <p><a href="https://go.gov.sg/voicesjan26" rel="noopener nofollow" target="_blank">ISSUE 102: Jan 2026</a>
 </p>
