@@ -38,4 +38,4 @@ decisions</p>
 </li>
 </ol>
 <p></p>
-<p>If you are interested to sign up or find out more, <a href="go.gov.sg/ffwinterestform" rel="noopener nofollow" target="_blank">click here</a>!</p>
+<p>If you are interested to sign up or find out more, <a href="https://go.gov.sg/ffwinterestform" rel="noopener nofollow" target="_blank">click here</a>!</p>
