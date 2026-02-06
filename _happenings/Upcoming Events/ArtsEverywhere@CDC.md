@@ -25,25 +25,68 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <p>View the calendar of events below!</p>
 <hr>
 <h3>Calendar of Events</h3>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>November 2025</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Saturday, 8 November 2025, 12:30 to 7:30pm</strong>
-<br><strong>Venue:</strong> Ang Mo Kio Hub, B1 Atrium</p>
-<p><strong>Performing Group:</strong> ADDO Arts Company</p>
-<p><strong>Performance Timing: </strong>3:45pm and 5:00pm</p>
-<hr>
-<p></p>
-<p><strong>Sunday, 9 November 2025</strong>
-<br><strong>Venue: </strong>Ang Mo Kio Hub, B1 Atrium</p>
-<p><strong>Performing Group No. 1:</strong> Charmaine Teo</p>
-<p><strong>Performance Timing: </strong>11:00am and 12:45pm</p>
-<p><strong>Performing Group No. 2:</strong> Charmaine Teo</p>
-<p><strong>Performance Timing: </strong>4:15pm and 5:15pm</p>
-</div>
-</details>
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 February 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2pm - 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leng Kee Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 February 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:30pm - 9pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bishan CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh Town Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1pm - 7pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clarke Quay Central</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
