@@ -45,48 +45,15 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 February 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2pm - 6pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Leng Kee Park</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28 February 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6:30pm - 9pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bishan CC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14 March 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Toa Payoh Town Centre</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>28 March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1pm - 7pm</p>
+<p>12pm - 7pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Clarke Quay Central</p>
+<p>Toa Payoh HDB Hub</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>hdb hub</p>
