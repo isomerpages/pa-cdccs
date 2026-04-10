@@ -78,10 +78,38 @@ Workshops</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sat, 17 Jan 2026</p>
+<p>Sat, 18 Apr 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10am to 3pm</p>
+<p>3pm to 7pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kampong Glam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhongshan Park (Along Balestier Road)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sat, 16 May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 7pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Moulmein-Cairnhill</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Balmoral Road (Infront of Balmoral Crescent)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sat, 20 Jun 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.30pm to 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Potong Pasir</p>
@@ -89,6 +117,20 @@ Workshops</div>
 <td rowspan="1" colspan="1">
 <p>Bidadari Community Club - Event Plaza, 11 Bidadari Park Drive, #01-60,
 S367803</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sun, 10 Oct 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 7pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kampong Glam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhongshan Park (Along Balestier Road)</p>
 </td>
 </tr>
 </tbody>
