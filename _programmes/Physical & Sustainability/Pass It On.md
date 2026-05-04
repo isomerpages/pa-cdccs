@@ -59,7 +59,7 @@ needed:</p>
 <p>You may also browse through a list of items requested by the Social Service
 Agencies under the ‘Wish List‘ section, and choose to donate any of these
 items.</p>
-<p>Please contact Mr Ryan Neo, or Ms Gina Ang for more information.</p>
+<p>Please contact Mr Ryan Neo, or Mr Alvin Lin for more information.</p>
 <p><strong>Contact us:</strong>
 </p>
 <p></p>
@@ -78,8 +78,8 @@ items.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gina Ang
-<br><a rel="noopener noreferrer nofollow" target="_blank">gina.ang@thehelpinghand.org.sg</a>
+<p>Mr Alvin Lin
+<br><a href="passiton@thehelpinghand.org.sg" rel="noopener noreferrer nofollow" target="_blank">passiton@thehelpinghand.org.sg</a>
 </p>
 </td>
 </tr>
