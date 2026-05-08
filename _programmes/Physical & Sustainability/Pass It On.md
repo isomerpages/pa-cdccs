@@ -71,14 +71,14 @@ items.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ryan Neo
+<p>Ms Diana Chng
 <br>Manager,&nbsp;
 <br>Partnerships &amp; Programmes
 <br><a href="https://www.cdc.gov.sg/centralsingapore/contentdetails/pa_centralSingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_centralsingapore@pa.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Lin
+<p>Ms Amy Chua
 <br><a href="passiton@thehelpinghand.org.sg" rel="noopener noreferrer nofollow" target="_blank">passiton@thehelpinghand.org.sg</a>
 </p>
 </td>
