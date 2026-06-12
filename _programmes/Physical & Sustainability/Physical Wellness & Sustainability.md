@@ -13,7 +13,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="https://centralsingapore.cdc.gov.sg/walking-trails-cdc/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WT" src="/images/IMG_2811.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="WT" src="/images/IMG__168_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
