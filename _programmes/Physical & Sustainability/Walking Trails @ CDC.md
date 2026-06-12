@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Physical & Sustainability
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_2811.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__168_.jpg">
 </div>
 <p>Walking Trails @ CDC is a new phygital initiative by the five CDCs and
 GovTech Singapore that combines brisk walking with digital gamification
