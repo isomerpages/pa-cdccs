@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Physical & Sustainability
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_2811.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__168_.jpg">
 </div>
 <p>Walking Trails @ CDC is a new phygital initiative by the five CDCs and
 GovTech Singapore that combines brisk walking with digital gamification
@@ -34,16 +35,34 @@ the CDCs’ goal of building healthier, more inclusive and connected communities
 </tr>
 </tbody>
 </table>
-<h4><strong>Earn up to $50</strong></h4>
-<p>Complete each trail to earn up to $10 in RedeemSG Rewards Vouchers (that’s
-$50 for 5 trails!)
-<br>✅ $5 when you complete all 5 checkpoints
-<br>✅ Additional $5 when you collect 5 CDC Ollies along the trail</p>
+<p></p>
+<h3><strong>Kampong Glam Trail</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://www.cdc.gov.sg/images/Ollies.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Trail_2_map.png">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Start Point:</strong> Peranakan Musuem
+<br><strong>End Point:</strong> Jalan Besar Stadium
+<br><strong>Distance:</strong> approx. 4km</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<p></p>
+<h4><strong>Collect CDC Ollies</strong></h4>
+<p>There are six different Ollies to collect for RedeemSG Rewards Vouchers
+while stocks last:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ollies_website.png">
+</div>
 <h4><strong>Ready to Start Your Adventure?</strong></h4>
 <p>Visit <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc" rel="noopener noreferrer nofollow" target="_blank"><u>www.crowdtask.gov.sg/quest/walking-trails-cdc</u></a> to
 step into a healthier, happier you — one fun step at a time!</p>
