@@ -14,7 +14,7 @@ variant: tiptap
 <p>Digitally claiming your CDC Vouchers is easy:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Claim for your household at <strong>go.gov.sg/cdcv</strong> 
+<p>Claim for your household at <a href="https://signup.redeem.gov.sg/?lang=en-US" rel="noopener nofollow" target="_blank">go.gov.sg/cdcv</a>
 </p>
 </li>
 <li>
@@ -22,14 +22,14 @@ variant: tiptap
 ID “<a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>”</p>
 </li>
 <li>
-<p>Check where to spend at <strong>go.gov.sg/cdcvouchers</strong>
+<p>Check where to spend at <a href="https://www.gowhere.gov.sg/cdcvouchers" rel="noopener nofollow" target="_blank">go.gov.sg/cdcvouchers</a>
 </p>
-</li>
-</ul>
 <p>Beware of scams! Do not trust or click on unofficial links. Government
 officials and gov.sg will never ask you to transfer money or disclose bank
 log-in details to claim the vouchers. Call the 24/7 ScamShield Helpline
 at 1799 if you are unsure if something is a scam.</p>
+</li>
+</ul>
 <p>If you do not have a smartphone or Singpass, or need assistance, visit
 your nearest Community Centre/Club (CC). Priority will be given to seniors
 &amp; persons with disabilities.</p>
