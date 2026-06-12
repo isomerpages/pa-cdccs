@@ -15,18 +15,18 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Have a question? <a href="https://ask.gov.sg/msf?topic=ComCare" rel="noopener noreferrer nofollow" target="_blank">Check out </a><strong><a href="https://ask.gov.sg/msf?topic=ComCare" rel="noopener noreferrer nofollow" target="_blank">our Q&amp;As</a></strong>,</p>
+<p>Have a question? <strong><a href="https://ask.gov.sg/msf?topic=ComCare" rel="noopener noreferrer nofollow" target="_blank">Check out the Q&amp;As</a></strong>,</p>
 </li>
 <li>
-<p>Contact us via the <strong><a href="https://ask.gov.sg/msf/questions/new?topic=MSF%20Social%20Service%20Offices" rel="noopener noreferrer nofollow" target="_blank">online form</a>,</strong>
+<p>Contact MSF via the <strong><a href="https://ask.gov.sg/msf/questions/new?topic=MSF%20Social%20Service%20Offices" rel="noopener noreferrer nofollow" target="_blank">online form</a>,</strong>
 </p>
 </li>
 <li>
-<p>Reach us through our hotline at <strong>1800 222 0000</strong>,</p>
+<p>Reach MSF at <strong>1800 222 0000</strong>,</p>
 </li>
 <li>
-<p>Visit us at the&nbsp;<a href="https://www.msf.gov.sg/our-services/directories#socialtab" rel="noopener noreferrer nofollow" target="_blank">Social Service Office(s)</a>&nbsp;nearest
-to their homes.</p>
+<p>Visit any&nbsp;<a href="https://www.msf.gov.sg/our-services/directories#socialtab" rel="noopener noreferrer nofollow" target="_blank">Social Service Office(s)</a>&nbsp;nearest
+to your homes.</p>
 </li>
 </ol>
 <p></p>
