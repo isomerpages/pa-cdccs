@@ -24,15 +24,16 @@ ID “<a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank"
 <li>
 <p>Check where to spend at <a href="https://www.gowhere.gov.sg/cdcvouchers" rel="noopener nofollow" target="_blank">go.gov.sg/cdcvouchers</a>
 </p>
+<p></p>
+</li>
+</ul>
 <p>Beware of scams! Do not trust or click on unofficial links. Government
 officials and gov.sg will never ask you to transfer money or disclose bank
 log-in details to claim the vouchers. Call the 24/7 ScamShield Helpline
 at 1799 if you are unsure if something is a scam.</p>
-</li>
-</ul>
 <p>If you do not have a smartphone or Singpass, or need assistance, visit
 your nearest Community Centre/Club (CC). Priority will be given to seniors
 &amp; persons with disabilities.</p>
 <p>Claim and spend your CDC Vouchers 2026 (June) by <strong>31 Dec 2027</strong>.</p>
-<p>For more info, visit <strong>vouchers.cdc.gov.sg</strong>
+<p>For more info, visit <a href="https://vouchers.cdc.gov.sg/" rel="noopener nofollow" target="_blank">vouchers.cdc.gov.sg</a>
 </p>
