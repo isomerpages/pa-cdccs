@@ -41,7 +41,7 @@ more details.</p>
 <p>Register your interest <a href="https://form.gov.sg/6920287495b85006fbabad6a" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p><strong>Contact us</strong>:
-<br>Ms Joan Lee
-<br>Manager,&nbsp;
-<br>Partnerships &amp; Programmes<a href="mailto:pa_centralsingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>pa_centralsingapore@pa.gov.sg</u></a>
+<br>Rio Harsono
+<br>Senior Manager,&nbsp;
+<br>Special Projects<a href="mailto:pa_centralsingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>pa_centralsingapore@pa.gov.sg</u></a>
 </p>
