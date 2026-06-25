@@ -101,7 +101,7 @@ Workshops</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball Court</p>
-<p>(Beside Blk 535 Serangoon North Avenue 4)</p>
+<p>(Beside Blk 535 Serangoon North Avenue 4, Singapore 550535)</p>
 </td>
 </tr>
 <tr>
