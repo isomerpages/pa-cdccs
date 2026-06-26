@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
   href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
-      background: /images/SG60_Artwork_Hero_Image_Adapted.png
+      background: /images/2024_0622_Central_Market___0222.jpg
       url: /get-started
   - infopic:
       title: Find Jobs Closer to Home

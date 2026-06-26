@@ -15,33 +15,107 @@ third_nav_title: Financial Wellness
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/LONG_Jobs_Nearby___CDC_Logo_File.jpg">
 </div>
-<p><a href="https://go.gov.sg/jobsnearbycdc" rel="noopener nofollow" target="_blank">Jobs Nearby @ CDC</a> aims
-to provide Central Singapore District residents with local job opportunities
-that are near their homes and suit their needs (e.g. caregiving duties
-/ home-based). Residents can also build capabilities and relevant skill
-sets to take on new jobs seamlessly and achieve an adequate means of livelihood.</p>
-<p>Employers within Central Singapore District can leverage on this platform
-to be matched with suitable candidates living nearby to fill their vacancies.
-The end in mind is to create a network that is self-sustaining in the long
-run and useful for both residents and employers in meeting their needs.</p>
-<h3><strong>Why the need for Local Jobs?</strong></h3>
-<p>This initiative aims to specifically address the demand for local jobs,
-complementing the broader job matching efforts of existing agencies. Residents
-(Job Seekers) often face challenges in finding employment opportunities
-that are close to home and suited to their personal circumstances (e.g.,
-caregiving or home-based roles). At the same time, employers are seeking
-staff who reside closer to job locations to fill vacancies.</p>
-<h3><strong>For Job Seekers</strong></h3>
-<p>Register your interest <a href="https://go.gov.sg/cdcjobsnearby" rel="noopener nofollow" target="_blank">here</a> or
-contact our helpline at <strong>6983 8879</strong>.</p>
+<p><strong>Jobs Nearby @ CDC’ is a</strong>  <strong>nation-wide job matching initiative by the five CDCs</strong> to
+connect residents (Singaporeans and PRs) with job opportunities. These
+job opportunities include full-time/part-time/flexible Jobs/PMET /Non-PMET,
+nearer their homes and supports heartland businesses with their manpower
+needs.</p>
+<p>&nbsp;</p>
+<h4><strong>Jobs Nearby @ CDC’</strong> has three key components:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Job Ambassadors –</strong> Offer residents with personalised job
+matching support and end-to-end guidance throughout their job search journey</p>
+</li>
+<li>
+<p><strong>District Job Banks –</strong> One-stop platform to connect residents
+with various job opportunities (ranging from blue to white-collar jobs
+and part-time/flexible options)</p>
+</li>
+<li>
+<p><strong>Job Clinics</strong> – Conveniently located within the neighbourhood
+to facilitate the job search and support process.</p>
+</li>
+</ol>
+<p><strong>&nbsp;</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_ZEw3TsLbSk?si=dLX4pSi4DBchkkXv"></iframe>
+</div>
+<h4><strong>For Job Seekers</strong></h4>
+<p>Register your interest&nbsp;<a href="https://go.gov.sg/cdcjobsnearby" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or contact our helpline
+at&nbsp;<strong>6715 7570</strong>.</p>
 <p>Interested Job Seekers may also visit the scheduled pop-up Job Clinics,
-for more job support from our Job Ambassadors. Please click <a href="/files/Job_Clinics___Central__1_.pdf" rel="noopener nofollow" target="_blank">here</a> for
+for more job support from our Job Ambassadors. Please click&nbsp;<a href="https://centralsingapore.cdc.gov.sg/files/Job_Clinics___Central__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more details.</p>
-<h3><strong>For Employers</strong></h3>
-<p>Register your interest <a href="https://form.gov.sg/6920287495b85006fbabad6a" rel="noopener nofollow" target="_blank">here</a>
+<p></p>
+<h4><strong>For Employers</strong></h4>
+<p>Register your interest&nbsp;<a href="https://form.gov.sg/6920287495b85006fbabad6a" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+<p></p>
+<h3>Check out the calendar below for the upcoming Job Fairs:</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Registration Link</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday, 3 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10am to 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open Space beside Boon Keng MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://go.gov.sg/e2ixcscdc" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/e2ixcscdc</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saturday, 4 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:30am to 2:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open Space beside Boon Keng MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://go.gov.sg/e2ixcscdc" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/e2ixcscdc</u></a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/isomer_A5_Flyer_Page_1_copy_2.jpg">
+</div>
+<p><strong>&nbsp;</strong>
 </p>
 <p><strong>Contact us</strong>:
-<br>Rio Harsono
-<br>Senior Manager,&nbsp;
-<br>Special Projects<a href="mailto:pa_centralsingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>pa_centralsingapore@pa.gov.sg</u></a>
+<br>Mr Wee Peng Yu
+<br>Assistant Director (Special Projects)&nbsp;<a href="mailto:pa_centralsingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br>pa_centralsingapore@pa.gov.sg</a>
 </p>
