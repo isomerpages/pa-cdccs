@@ -21,7 +21,7 @@ causes.</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://centralsingapore.cdc.gov.sg/financial-fitness-workshops/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FFW" src="/images/for_web_NZ6_2543.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Financial Fitness Workshops</div><div class="isomer-card-description">Free Financial Fitness Workshops designed for different life stages.</div><div class="isomer-card-link">Find Out More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg/job-fair-for-central-district-residents/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://centralsingapore.cdc.gov.sg/programmes/financial-and-social-wellness/jobs-nearby-central/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="jnb" src="/images/JNB_JOB_FAIR.jpg">
