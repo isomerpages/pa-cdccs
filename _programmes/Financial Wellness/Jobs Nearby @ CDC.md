@@ -53,9 +53,10 @@ more details.</p>
 <p>Register your interest&nbsp;<a href="https://form.gov.sg/6920287495b85006fbabad6a" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p></p>
-<h4>Check out the calendar below for the upcoming Central Singapore Markets:</h4>
-<table style="minWidth: 75px">
+<h3>Check out the calendar below for the upcoming Job Fairs:</h3>
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -72,6 +73,9 @@ more details.</p>
 <p><strong>Venue</strong>
 </p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Registration Link</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -82,6 +86,10 @@ more details.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Open Space beside Boon Keng MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://go.gov.sg/e2ixcscdc" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/e2ixcscdc</u></a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -94,10 +102,17 @@ more details.</p>
 <td rowspan="1" colspan="1">
 <p>Open Space beside Boon Keng MRT</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://go.gov.sg/e2ixcscdc" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/e2ixcscdc</u></a></strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/isomer_A5_Flyer_Page_1_copy_2.jpg">
+</div>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Contact us</strong>:
