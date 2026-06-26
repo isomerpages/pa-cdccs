@@ -53,6 +53,51 @@ more details.</p>
 <p>Register your interest&nbsp;<a href="https://form.gov.sg/6920287495b85006fbabad6a" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p></p>
+<h4>Check out the calendar below for the upcoming Central Singapore Markets:</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday, 3 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10am to 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open Space beside Boon Keng MRT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saturday, 4 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:30am to 2:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open Space beside Boon Keng MRT</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Contact us</strong>:
