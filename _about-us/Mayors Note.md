@@ -10,12 +10,8 @@ variant: tiptap
 <p>Dear residents,</p>
 <p>Greetings from Central Singapore! My name is Denise Phua, and I am honoured
 to serve you as Central Singapore District’s Mayor.</p>
-<p>Since the return of the Social and Employment Assistance functions to
-the Ministry of Social and Family Development (MSF) and the Singapore Workforce
-Development Agency (WDA) in 2013, the CDC’s role has undergone a big change
-from what people used to associate us with.</p>
-<p>Our key mission still remains – to Aggregate needs and resources, Build
-capabilities and capacities, and Connect the community.</p>
+<p>Our key mission is to Aggregate needs and resources, Build capabilities
+and capacities, and Connect the community.</p>
 <p>At Central Singapore, we will&nbsp;<strong><em>enhance</em></strong>&nbsp;our
 mission by moving in to meet ground needs and offer assistance through
 other localised initiatives. We call this “Assistance PLUS”. Community
@@ -23,9 +19,9 @@ programmes under Assistance PLUS will look at plugging gaps or emerging
 needs for the lower-income, and for those who fall marginally out of the
 lower-income bracket.</p>
 <p>We will continue to reach out to all residents, not just the lower income,
-by focusing on broader communities and causes. These include<strong><em> key communities</em></strong>:
-Children, Youths, Adults and Seniors; and&nbsp;<strong><em>key causes</em></strong>:
-Arts &amp; Culture, Environment, Healthy Lifestyle, and Special Needs.</p>
+by focusing on broader communities and causes. These include<strong><em> key pillars:</em></strong> 
+<a class="third-level-nav-header" rel="noopener noreferrer nofollow" target="_blank">Financial Wellness</a>, <a class="third-level-nav-header" rel="noopener noreferrer nofollow" target="_blank">Physical &amp; Sustainability</a>, <a class="third-level-nav-header" rel="noopener noreferrer nofollow" target="_blank">Socio Emotional Wellness</a>,
+<a class="third-level-nav-header" rel="noopener noreferrer nofollow" target="_blank">Lifelong Learning</a>, and <a class="third-level-nav-header" rel="noopener noreferrer nofollow" target="_blank">Service To Others</a>.</p>
 <p>We also want Central Singapore to be known as a&nbsp;<strong>Do-Good District</strong>&nbsp;–
 to help those doing poorly to DO WELL, to enable those doing well to DO
 BETTER, encourage everyone to DO GOOD, and DO IT TOGETHER.</p>
