@@ -21,7 +21,7 @@ job opportunities include full-time/part-time/flexible Jobs/PMET /Non-PMET,
 nearer their homes and supports heartland businesses with their manpower
 needs.</p>
 <p>&nbsp;</p>
-<h3><strong>Jobs Nearby @ CDC’</strong> has three key components:</h3>
+<h4><strong>Jobs Nearby @ CDC’</strong> has three key components:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Job Ambassadors –</strong> Offer residents with personalised job
