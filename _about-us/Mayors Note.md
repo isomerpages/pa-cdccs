@@ -32,7 +32,7 @@ meaningful community projects.</p>
 <p>We welcome individuals, groups, corporate and community stakeholders to
 join us in making Central Singapore a Do-Good District!</p>
 <p>Write to us at&nbsp;<a href="mailto:pa_centralsingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_centralsingapore@pa.gov.sg</a>,&nbsp;
-<a href="https://www.facebook.com/centralsgcdc" rel="noopener noreferrer nofollow" target="_blank">‘Like’ us on Facebook</a>&nbsp;and watch our&nbsp;<a href="https://www.youtube.com/watch?v=KO6o0Inngo4" rel="noopener noreferrer nofollow" target="_blank">CS Programmes video</a>&nbsp;to
+<a href="https://www.facebook.com/centralsgcdc" rel="noopener noreferrer nofollow" target="_blank">‘Like’ us on Facebook</a>&nbsp;and watch our&nbsp;<a href="https://www.youtube.com/watch?v=pq0yQob-ZTk&amp;t=78s" rel="noopener noreferrer nofollow" target="_blank">CS Programmes video</a>&nbsp;to
 find out more.</p>
 <p>Yours sincerely,
 <br>Denise Phua
