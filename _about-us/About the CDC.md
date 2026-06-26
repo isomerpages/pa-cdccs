@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="About CDC" src="/images/About%20Us/aboutourcdc.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.jpg">
 </div>
 <p>Central Singapore Community Development Council (CDC)’s mission is to
 Aggregate resources from the CDC's networks to meet community needs, Build
@@ -29,6 +30,6 @@ building.</p>
 <p></p>
 <h3>What is the CDC? What do CDCs do? Watch this short video to find out!</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VozyxUp5_AU?si=Zib3lV2Y_zu77zBS"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VozyxUp5_AU?si=Zib3lV2Y_zu77zBS"></iframe>
 </div>
 <p></p>
