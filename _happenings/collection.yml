@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - Upcoming Events/Job Fair for Central District Residents.md
       - Upcoming Events/.keep
       - Upcoming Events/Upcoming Events.md
       - Upcoming Events/Financial Fitness Festival.md
