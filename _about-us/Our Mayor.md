@@ -11,15 +11,15 @@ variant: tiptap
 She is also a Member of Parliament for Jalan Besar Group Representation
 Constituency and Mayor of Central Singapore District.</p>
 <p>Ms Phua is best known for her advocacy for those who are at risk of being
-left behind in Singapore, and frequently speaks up for the disabled and
+left behind in Singapore and frequently speaks up for the disabled and
 Singaporeans with low-skills and low-income backgrounds. She is one of
 the key architects behind three 5-year Enabling Masterplans for the disabled
 in Singapore. An active volunteer, Ms Phua supervises two charities – Autism
 Resource Centre (Singapore) and Autism Association (Singapore), as well
 as two special schools – the Pathlight School and Eden School. She is the
-co-founder of Pathlight School, and helped start The Purple Parade: an
-annual initiative to support inclusion and celebrate abilities; and The
-Purple Symphony: Singapore’s largest inclusive orchestra.</p>
+co-founder of Pathlight School and helped start The Purple Parade: an annual
+initiative to support inclusion and celebrate abilities; and The Purple
+Symphony: Singapore’s largest inclusive orchestra.</p>
 <p>Prior to her current portfolio, Ms Phua acquired more than 20 years of
 local and overseas corporate management experiences in Hewlett-Packard,
 the Wuthelam Group, and founded the Centre for Effective Leadership (Asia).
