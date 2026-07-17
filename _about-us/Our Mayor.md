@@ -23,14 +23,13 @@ Purple Symphony: Singapore’s largest inclusive orchestra.</p>
 <p>Prior to her current portfolio, Ms Phua acquired more than 20 years of
 local and overseas corporate management experiences in Hewlett-Packard,
 the Wuthelam Group, and founded the Centre for Effective Leadership (Asia).
-She is a winner of the 2005/6 “Great Women of Our Times (Education and
-Public Service Category)” awarded by Singapore Women’s Weekly. Ms Phua
-gave up her corporate career in 2005 to become a full-time special needs
-volunteer, before being approached to join politics in 2006. She currently
-chairs the Government Parliamentary Committee (GPC) for Education and is
-a member of the GPC for Social and Family Development.</p>
+Ms Phua gave up her corporate career in 2005 to become a full-time special
+needs volunteer, before being approached to join politics in 2006. She
+is currently a member of the Government Parliamentary Committee (GPC) for
+Finance and Trade and Industry Development, Education and Social and Family
+Development.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VozyxUp5_AU?si=OhCcScT7oKnjDmnw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VozyxUp5_AU?si=OhCcScT7oKnjDmnw"></iframe>
 </div>
 <p></p>
