@@ -2,6 +2,7 @@ collections:
   old-pages:
     output: true
     order:
+      - Purple Fitness.md
       - GiraffeSG@Central.md
       - SkillsFuture.md
       - The Purple Symphony.md
