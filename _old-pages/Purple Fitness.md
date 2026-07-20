@@ -3,7 +3,6 @@ title: Purple Fitness
 permalink: /programmes/socio-emotional-wellness/purple-fitness/
 description: ""
 image: ""
-third_nav_title: Socio Emotional Wellness
 variant: markdown
 ---
 ![Sole_Mates](/images/Programmes/SM1.jpg)

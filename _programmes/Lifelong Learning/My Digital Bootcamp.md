@@ -23,7 +23,7 @@ relevant 21 st century skills. This movement complements the long-term
 national SkillsFuture efforts: to give Singaporeans from all walks of life
 the opportunity to develop skills relevant to the future.</p>
 <p><strong>Contact Us:</strong>
-<br>Ms Veronica Sim
+<br>Ms Joan Lee
 <br>Senior Manager,&nbsp;
 <br>Partnerships &amp; Programmes
 <br><a href="mailto:pa_centralsingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_centralsingapore@pa.gov.sg</a>
