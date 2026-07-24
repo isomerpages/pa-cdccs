@@ -81,8 +81,7 @@ build lasting habits</p>
 <p>Radin Mas CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">Sign up here</a>
-</p>
+<p>go.gov.sg/rmffw2026</p>
 </td>
 </tr>
 <tr>
@@ -96,8 +95,7 @@ build lasting habits</p>
 <p>Fernvale CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">Sign up here</a>
-</p>
+<p>go.gov.sg/ffwfvcccdc26</p>
 </td>
 </tr>
 <tr>
@@ -111,8 +109,7 @@ build lasting habits</p>
 <p>Jalan Besar CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">Sign up here</a>
-</p>
+<p>go.gov.sg/kgffw</p>
 </td>
 </tr>
 <tr>
@@ -126,13 +123,11 @@ build lasting habits</p>
 <p>Toa Payoh East CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">Sign up here</a>
-</p>
+<p>go.gov.sg/tpe-ffw-2026</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>More workshops coming soon at Yio Chu Kang CC and Hwi Yoh CC — stay tuned!</p>
 <p>If you are interested in future workshops or want to find out more,&nbsp;
 <a href="https://go.gov.sg/ffwinterestform" rel="noopener noreferrer nofollow" target="_blank">click here</a>!</p>
