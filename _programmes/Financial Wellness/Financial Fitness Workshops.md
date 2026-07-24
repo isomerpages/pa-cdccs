@@ -81,7 +81,7 @@ build lasting habits</p>
 <p>Radin Mas CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/rmffw2026</a>
+<p><a href="" rel="noopener nofollow" target="_blank">Sign up here</a>
 </p>
 </td>
 </tr>
@@ -96,7 +96,7 @@ build lasting habits</p>
 <p>Fernvale CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/ffwfvcccdc26</a>
+<p><a href="" rel="noopener nofollow" target="_blank">Sign up here</a>
 </p>
 </td>
 </tr>
@@ -111,7 +111,7 @@ build lasting habits</p>
 <p>Jalan Besar CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/kgffw</a>
+<p><a href="" rel="noopener nofollow" target="_blank">Sign up here</a>
 </p>
 </td>
 </tr>
@@ -126,7 +126,7 @@ build lasting habits</p>
 <p>Toa Payoh East CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/tpe-ffw-2026</a>
+<p><a href="" rel="noopener nofollow" target="_blank">Sign up here</a>
 </p>
 </td>
 </tr>
