@@ -126,6 +126,20 @@ build lasting habits</p>
 <p>go.gov.sg/tpe-ffw-2026</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sat, 17 Oct 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30am – 1.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yio Chu Kang CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>go.gov.sg/fw26</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>More workshops coming soon at Yio Chu Kang CC and Hwi Yoh CC — stay tuned!</p>
