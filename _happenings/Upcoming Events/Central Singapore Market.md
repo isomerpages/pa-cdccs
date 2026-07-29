@@ -76,66 +76,6 @@ Workshops</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sat, 20 Jun 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.30pm to 5.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Potong Pasir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bidadari Community Club - Event Plaza</p>
-<p>(11 Bidadari Park Drive, Singapore 367803)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sun, 5 Jul 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9am to 1pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Seletar-Serangoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basketball Court</p>
-<p>(Beside Blk 535 Serangoon North Avenue 4, Singapore 550535)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sun, 26 Jul 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10am to 1pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Buangkok-Fernvale South</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Banyan Tree Playground</p>
-<p>(beside Blk 402B Fernvale Lane, Singapore 792402)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sun, 2 Aug 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2pm to 7pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Marymount</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bishan Active Park</p>
-<p>(Along Bishan St. 23)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sat, 12 Sep 2026</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,6 +87,22 @@ Workshops</div>
 <td rowspan="1" colspan="1">
 <p>Balmoral Road</p>
 <p>(In front of Balmoral Crescent)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sat, 26 Sep 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teck Ghee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pathlight School</p>
+<p>(5 Ang Mo Kio Ave 10, Singapore</p>
+<p>569739)</p>
 </td>
 </tr>
 <tr>
