@@ -53,7 +53,7 @@ more details.</p>
 <p>Register your interest&nbsp;<a href="https://form.gov.sg/6920287495b85006fbabad6a" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p></p>
-<h3>Check out the calendar below for the upcoming Job Fairs:</h3>
+<h3>Check out the calendar below for the upcoming Job Fairs within Central:</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -79,32 +79,62 @@ more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday, 3 July 2026</p>
+<p>Saturday, 17 October 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:30am to 2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh Lorong 8 Market &amp; Food Centre Atrium</p>
+<p>(210 Lorong 8 Toa Payoh, Singapore 310210)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Available closer to date</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday, 30 October 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open Space beside Boon Keng MRT</p>
+<p>Badminton Court @ Blk 32A Margaret Drive</p>
+<p>(32 Margaret Drive, Singapore 140032)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/e2ixcscdc" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/e2ixcscdc</u></a></strong>
-</p>
+<p>Available closer to date</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Saturday, 4 July 2026</p>
+<p>Saturday, 31 October 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9:30am to 2:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open Space beside Boon Keng MRT</p>
+<p>Badminton Court @ Blk 32A Margaret Drive</p>
+<p>(32 Margaret Drive, Singapore 140032)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/e2ixcscdc" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/e2ixcscdc</u></a></strong>
-</p>
+<p>Available closer to date</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday, 13 November 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10am to 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jalan Kayu Hall @ Hwi Yoh CC</p>
+<p>(23 Serangoon North Avenue 4, Singapore 555857)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Available closer to date</p>
 </td>
 </tr>
 </tbody>
