@@ -72,38 +72,10 @@ build lasting habits</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sat, 15 Aug 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.30 – 6.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Radin Mas CC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>go.gov.sg/rmffw2026</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sat, 29 Aug 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10.00am – 12.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fernvale CC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>go.gov.sg/ffwfvcccdc26</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sat, 5 Sep 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 – 4.30pm</p>
+<p>2.00pm – 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jalan Besar CC</p>
