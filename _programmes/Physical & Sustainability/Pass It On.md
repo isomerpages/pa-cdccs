@@ -74,7 +74,7 @@ items.</p>
 <p>Ms Diana Chng
 <br>Manager,&nbsp;
 <br>Partnerships &amp; Programmes
-<br><a href="mail to: pa_centralSingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_centralsingapore@pa.gov.sg</a>
+<br><a href="mailto: pa_centralSingapore@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_centralsingapore@pa.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
