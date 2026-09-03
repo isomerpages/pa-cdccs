@@ -59,7 +59,7 @@ needed:</p>
 <p>You may also browse through a list of items requested by the Social Service
 Agencies under the ‘Wish List‘ section, and choose to donate any of these
 items.</p>
-<p>Please contact Mr Ryan Neo, or Mr Alvin Lin for more information.</p>
+<p></p>
 <p><strong>Contact us:</strong>
 </p>
 <p></p>
